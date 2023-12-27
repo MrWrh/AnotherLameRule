@@ -44,6 +44,7 @@ application:
       #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
+      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       #- 'mylist.txt'
