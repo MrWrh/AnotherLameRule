@@ -24,6 +24,13 @@ application:
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
       # AdAway
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
+      # uBlock
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt' #uBlock filters
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt' #uBlock filters – Badware 
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt' #uBlock filters – Privacy
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt' #uBlock filters – Quick fixes
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt' #resource-abuse
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt' #unbreak
 
       # Tracking servers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
