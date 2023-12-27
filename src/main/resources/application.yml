@@ -23,11 +23,9 @@ application:
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
       # Tracking Server
-      # Adguard SpywareFilter 
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt' #AdguardFilters SpywareFilter mobile
-      # EasyList easyprivacy
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy
       # Cryptominers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
@@ -37,10 +35,15 @@ application:
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
       - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #Adgk
+      - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #1Hosts
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #Cats-Team/AdRules
+      - 'https://hblock.molinero.dev/hosts_adblock.txt' #hectorm/hblock
+      
       # 整合
-      - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
-      - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
-      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
+      #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
+      #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
+      #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
+      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
       
 
       
