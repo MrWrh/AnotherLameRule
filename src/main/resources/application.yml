@@ -31,7 +31,7 @@ application:
       - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt' #uBlock filters – Quick fixes
       - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt' #resource-abuse
       - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt' #unbreak
-
+      - 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt' #filters-mobile
       # Tracking servers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
