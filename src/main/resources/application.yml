@@ -13,16 +13,18 @@ application:
     #远程规则
     remote:
       # Adguard
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS filter base
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard Base filter — first-party servers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS BaseFilter
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard BaseFilter — first-party servers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt' #AdGuard BaseFilter antiadblock
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt' #AdGuard DNS filter mobile
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt' #AdGuard DNS filter Chinese
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt' #AdGuard Chinese filter
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt' #AdGuard Chinese filter — first-party servers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt' #AdGuard Chinese filter - antiadblock
       # EasyList
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt' #EasyList China antiadblock
+      
       # AdAway
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
       # uBlock
