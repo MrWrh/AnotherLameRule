@@ -22,6 +22,7 @@ application:
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt' #EasyList China antiadblock
       # AdAway
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
       # uBlock
