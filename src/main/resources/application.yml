@@ -31,8 +31,10 @@ application:
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy
       # Cryptominers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
+      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
       # Others
       - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
+      
       
 
       
