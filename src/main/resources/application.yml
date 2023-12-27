@@ -12,21 +12,29 @@ application:
   rule:
     #远程规则
     remote:
+      # Adguard
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS filter base
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard Base filter — first-party servers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt' #AdGuard DNS filter mobile
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt' #AdGuard DNS filter Chinese
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt' #AdGuard Chinese filter — first-party servers
+      #EasyList
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
+      - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
+      #AdAway
+      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
+
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt'  #adblock-nocoin-list
       - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt' #Scam Blocklist
       - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-      - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #AdGuard DNS filter
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
       - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
-      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-      #- 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
       - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #Adgk
-      #- 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
-      - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
+      - 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
+      
       #自用添加↓
       - 'https://anti-ad.net/easylist.txt' #name: anti-AD
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
