@@ -25,6 +25,11 @@ application:
       #AdAway
       - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
 
+      #Tracking servers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy
+
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt'  #adblock-nocoin-list
       - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt' #Scam Blocklist
       - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
