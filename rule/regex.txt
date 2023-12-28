@@ -1,4 +1,4 @@
-# Update time: 2023-12-28 10:02:33
+# Update time: 2023-12-28 10:11:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -199,10 +199,6 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||ads*.opensubtitles.org^
-@@||cdn*.porn300.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||sdk.fra-*.braze.eu^
@@ -222,12 +218,16 @@
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||mon*-*.tiktokv.us^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
 ||geotargetly-api-*.com^
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ||www**.zskwai.com^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||pagead*.google.com^
