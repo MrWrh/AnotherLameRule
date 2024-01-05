@@ -1,4 +1,4 @@
-# Update time: 2024-01-05 09:17:27
+# Update time: 2024-01-05 09:36:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 #LLL = Lame ass watermelon puxi
 ||prebid-*.rubiconproject.com^
@@ -40,8 +40,6 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||ads*.opensubtitles.org^
-@@||cdn*.porn300.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -75,31 +73,8 @@
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||collect-v*.51.la^
-||browser-intake-*-datadoghq.com^
-||rum*.a.trbcdn.net^
-||stat.tiara.
-||xlog*-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
-||collector-*.px-cloud.net^
-||analytics*.prezly.com^
-||collector-*.tvsquared.com^
-||mcs-va-*.tiktokv.com^
-||px*.mediahills.ru^
-||mon-*.tiktokv.com^
-||pixelapi-*.cs.mysamba.tv^
-||stats*.videonow.ru^
-||track.tiara.
-||analytics*.clickdimensions.com^
-||rum*.cdnvideo.ru^
-||mon*-*.tiktokv.us^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-||bc.geocities.
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
@@ -180,6 +155,31 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||collect-v*.51.la^
+||browser-intake-*-datadoghq.com^
+||rum*.a.trbcdn.net^
+||stat.tiara.
+||xlog*-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
+||collector-*.px-cloud.net^
+||analytics*.prezly.com^
+||collector-*.tvsquared.com^
+||mcs-va-*.tiktokv.com^
+||px*.mediahills.ru^
+||mon-*.tiktokv.com^
+||pixelapi-*.cs.mysamba.tv^
+||stats*.videonow.ru^
+||track.tiara.
+||analytics*.clickdimensions.com^
+||rum*.cdnvideo.ru^
+||mon*-*.tiktokv.us^
+||bc.geocities.
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ！
 ||www**.zskwai.com^
 ||api-access.pangolin-sdk-toutiao*.com^
@@ -196,6 +196,7 @@
 ||www**.*skwai.com^
 ||p*-lm.adkwai.com^
 ||ad.*.xiaomi.com^
+||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -509,7 +510,6 @@ flipdish-cookie-consent*
 ||minero-proxy-*.sh^
 ||icq-window.
 ||icqwindow.
-||ad*.nownews.com^
 ||appsflyer*.*^
 ||brucelead*.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
