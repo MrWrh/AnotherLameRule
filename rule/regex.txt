@@ -1,6 +1,8 @@
-# Update time: 2024-01-05 08:47:39
-# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重||ad*.on.cc^
+# Update time: 2024-01-05 08:53:06
+# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
+#LLL = Lame ass watermelon puxi
 ||prebid-*.rubiconproject.com^
+||ad*.on.cc^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||adv0*.msa.cdn.mediaset.net^
@@ -38,7 +40,6 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -74,6 +75,31 @@
 ||imp-*.jampp.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+||collect-v*.51.la^
+||browser-intake-*-datadoghq.com^
+||rum*.a.trbcdn.net^
+||stat.tiara.
+||xlog*-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
+||collector-*.px-cloud.net^
+||analytics*.prezly.com^
+||collector-*.tvsquared.com^
+||mcs-va-*.tiktokv.com^
+||px*.mediahills.ru^
+||mon-*.tiktokv.com^
+||pixelapi-*.cs.mysamba.tv^
+||stats*.videonow.ru^
+||track.tiara.
+||analytics*.clickdimensions.com^
+||rum*.cdnvideo.ru^
+||mon*-*.tiktokv.us^
+||bc.geocities.
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
@@ -120,6 +146,7 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -153,31 +180,6 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-||collect-v*.51.la^
-||browser-intake-*-datadoghq.com^
-||rum*.a.trbcdn.net^
-||stat.tiara.
-||xlog*-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
-||collector-*.px-cloud.net^
-||analytics*.prezly.com^
-||collector-*.tvsquared.com^
-||mcs-va-*.tiktokv.com^
-||px*.mediahills.ru^
-||mon-*.tiktokv.com^
-||pixelapi-*.cs.mysamba.tv^
-||stats*.videonow.ru^
-||track.tiara.
-||analytics*.clickdimensions.com^
-||rum*.cdnvideo.ru^
-||mon*-*.tiktokv.us^
-||bc.geocities.
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ！
 ||www**.zskwai.com^
 ||api-access.pangolin-sdk-toutiao*.com^
