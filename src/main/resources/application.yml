@@ -50,6 +50,8 @@ application:
       - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #Cats-Team/AdRules
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AWAvenue Ads Rule
       - 'https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt' #damengzhu/banad
+      - 'https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt' #FutaGuard/LowTechFilter - hosts
+      - 'https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/nofarm_hosts.txt' #FutaGuard/LowTechFilter - nofarm_hosts
       #- 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt' #jerryn70/GoodbyeAds
       # 整合
       #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
