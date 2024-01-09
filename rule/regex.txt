@@ -1,4 +1,4 @@
-# Update time: 2024-01-08 20:34:17
+# Update time: 2024-01-09 09:18:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 #LLL = Lame ass watermelon puxi
 ||prebid-*.rubiconproject.com^
@@ -40,7 +40,6 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -85,6 +84,7 @@
 ||tracking*.euroads.fi^
 ||log*.vietnamplus.vn^
 ||tracking.olx.
+||hn-ping*.hashnode.com^
 ||sensorsdata*.read.duokan.com^
 ||adservice.google.
 ||a*.smlog.co.kr^
@@ -120,6 +120,7 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -155,8 +156,6 @@
 ||tw*.netcore.co.in^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -180,6 +179,9 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -201,7 +203,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ||gtlpa*.com^
-||ad*.nownews.com^
 ||adx.
 ||adx-
 ||adsfs.
