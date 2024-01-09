@@ -60,7 +60,7 @@ application:
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
       - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
-      - 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
+      #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       #- 'mylist.txt'
