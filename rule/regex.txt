@@ -1,7 +1,6 @@
-# Update time: 2024-01-15 17:32:03
+# Update time: 2024-01-15 20:34:28
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||prebid-*.rubiconproject.com^
-||ad*.on.cc^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||adv0*.msa.cdn.mediaset.net^
@@ -39,6 +38,7 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||ad*.on.cc^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||pixel*.production-public.tubi.io^
