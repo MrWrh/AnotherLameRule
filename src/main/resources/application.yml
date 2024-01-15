@@ -63,7 +63,7 @@ application:
       #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-      #- 'mylist.txt'
+      - 'mylist.txt'
   output:
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
