@@ -1,4 +1,4 @@
-# Update time: 2024-01-17 09:19:12
+# Update time: 2024-01-17 11:04:33
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||prebid-*.rubiconproject.com^
 ||ad*.on.cc^
@@ -153,10 +153,10 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||ads*.opensubtitles.org^
-@@||cdn*.porn300.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -180,6 +180,7 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -201,7 +202,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ||gtlpa*.com^
-||ad*.nownews.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -333,4 +333,3 @@ advertisers.js|
 ||log*-normal-lq.toutiaoapi.com^
 ||ads*.zijieapi.com^
 ||w*.*skwai.com^
-||welcome..org^
