@@ -1,4 +1,4 @@
-# Update time: 2024-01-19 14:58:26
+# Update time: 2024-01-19 20:33:44
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||secure.iqmining.com^$third-party
 ||s.remonti.org^$third-party
@@ -327,7 +327,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ismatlab.com^$third-party
 ||brightdata.de^$third-party
 ||pphwrevr.com^$third-party
-||breaktime.com.tw^$third-party
 ||guoshipartners.com^$third-party
 ||protectsubrev.com^$third-party
 ||brightedge.com^$third-party
@@ -6658,6 +6657,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||srpx.net^$third-party
 ||clicks.h.hepsiburada.com^$third-party
 ||halldata.com^$third-party
+||breaktime.com.tw^$third-party
 ||panda.kasika.io^$third-party
 ||tm.msgs.jp^$third-party
 ||nstracking.com^$third-party
