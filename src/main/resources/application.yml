@@ -43,7 +43,7 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
       # Others
-      - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
+      #- 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
       # - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #Adgk
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #1Hosts
@@ -58,8 +58,8 @@ application:
       #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
       #- 'https://hblock.molinero.dev/hosts_adblock.txt' #hectorm/hblock
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
-      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
-      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
+      #- 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
+      #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
       #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
