@@ -1,4 +1,4 @@
-# Update time: 2024-02-09 09:11:35
+# Update time: 2024-02-09 20:29:43
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -35,13 +35,14 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||cas.*.criteo.com^
-||allsportsflix.
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||spryptvqguhpwt^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||cas.*.criteo.com^
+||allsportsflix.
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -124,7 +125,6 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -170,12 +170,12 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stat.tiara.
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
