@@ -1,4 +1,4 @@
-# Update time: 2024-02-19 09:13:48
+# Update time: 2024-02-19 20:31:31
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -41,7 +41,6 @@
 ||adcs-*.myappsget.com^
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -124,6 +123,7 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
