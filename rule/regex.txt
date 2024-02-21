@@ -1,4 +1,4 @@
-# Update time: 2024-02-21 10:20:52
+# Update time: 2024-02-21 20:31:05
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -39,6 +39,8 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+||cas.*.criteo.com^
+||allsportsflix.
 ||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
@@ -73,8 +75,6 @@
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||cas.*.criteo.com^
-||allsportsflix.
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
@@ -157,24 +157,24 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||xlog*-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
 ||analytics*.prezly.com^
 ||collector-*.tvsquared.com^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||browser-intake-*-datadoghq.com^
 ||pixelapi-*.cs.mysamba.tv^
+||stats*.videonow.ru^
 ||track.tiara.
+||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stat.tiara.
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -241,10 +241,10 @@
 ||142.91.159.
 ||23.109.87.
 ||spryptvqguhpwt^
+||xlog*-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mon-*.tiktokv.com^
 directtrack.*.js
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
