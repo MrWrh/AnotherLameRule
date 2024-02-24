@@ -1,4 +1,4 @@
-# Update time: 2024-02-24 09:09:23
+# Update time: 2024-02-24 20:28:07
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||secure.iqmining.com^$third-party
 ||s.remonti.org^$third-party
@@ -892,31 +892,30 @@
 ||tapstat.ru^$third-party
 ||painsko.com^$third-party
 ||plugin.mediavoice.com^$third-party
-$third-party,xmlhttprequest,domain=opensubtitles.org
-||clickguardian.app^$third-party
-||push4site.com^$third-party
-||simility.com^$third-party
-||clickyab.com^$third-party
-||brightdata.com^$third-party
-||p30rank.ir^$third-party
-||revprotect.com^$third-party
-||brightdata.de^$third-party
-||pphwrevr.com^$third-party
-||breaktime.com.tw^$third-party
 ||guoshipartners.com^$third-party
+$third-party,xmlhttprequest,domain=opensubtitles.org
 ||protectsubrev.com^$third-party
 ||brightedge.com^$third-party
+||clickguardian.app^$third-party
 ||addthis.com^$third-party
+||push4site.com^$third-party
 ||addthisedge.com^$third-party
 ||revcatch.com^$third-party
+||simility.com^$third-party
 ||ravelin.net^$third-party
 ||mkto-*.com^$third-party
+||clickyab.com^$third-party
 ||ppcprotect.com^$third-party
 ||spideraf.com^$third-party
 ||protectcrev.com^$third-party
 $ping,third-party
+||brightdata.com^$third-party
 ||klangoo.com^$third-party
+||p30rank.ir^$third-party
+||revprotect.com^$third-party
+||brightdata.de^$third-party
 ||addthiscdn.com^$domain=~addthis.com
+||pphwrevr.com^$third-party
 ||autotrader.ca/result/AutosAvailableListings.aspx?
 ||sweeva.com/images/banner250.gif
 ||leadfamly.com/campaign/sdk/popup.min.js
@@ -1041,7 +1040,6 @@ $ping,third-party
 ||facebook.com/audiencenetwork/$third-party
 ||autotrader.co.za/partners/
 ||familytreedna.com/img/affiliates/
-||caffeine.tv/embed/
 ||jinx.com/content/banner/
 ||tech426.com/pub/
 ||static.tradetracker.net^$third-party
@@ -1143,6 +1141,7 @@ $ping,third-party
 ||clicknplay.to/api/spots/
 ||click.aliexpress.com^$subdocument,third-party
 ||cloudbet.com/ad/
+||caffeine.tv/embed/$third-party
 ||cdn.neighbourly.co.nz/widget/$subdocument
 ||p.jwpcdn.com/player/plugins/vast/
 ||thefreesite.com/nov99bannov.gif
@@ -1331,7 +1330,6 @@ vkcdnservice.appspot.com^$third-party
 ||vuryua.ru^$third-party
 ||zona.plus/*.php|
 ||hemnes.win^$third-party
-||becanium.com^$third-party
 ||sweetbook.net/templates/skin/sweetnew/js/internal.js
 ||coin-have.com^$third-party
 ||pampopholf.com^$third-party
@@ -1403,8 +1401,6 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||dontbeevils.de^$websocket
 ||techhome-js.github.io/code.wsm^$third-party
 ||orbita-lviv.com/jquerys.js
-||afminer.com^$third-party
-||bablace.com^$third-party
 ||omine.org^$third-party
 ||dynamo-kiev.com/jquerys.js
 /wp-content/plugins/simple-monero-miner-coin-hive/*
@@ -1442,7 +1438,6 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||vkcdnservice.com^$third-party
 ||questionfly.com^$third-party
 .ua/jquerys.js
-||adless.io^$third-party
 ||silimbompom.com^$third-party
 /nano.wasm
 ||datasecu.download^$third-party
@@ -1599,6 +1594,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||stonecalcom.com^$third-party
 ||nimwss-us-shark.lolopool.com^$third-party
 /authedmine.$script,domain=~authedmine.com|~authedmine.eu
+||becanium.com^$third-party
 ||myeffect.net^*=wss://$third-party
 ||axoncoho.tk^$third-party
 ||jqwww.download^$third-party
@@ -1676,6 +1672,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
+||afminer.com^$third-party
+||bablace.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1724,6 +1722,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ddns.net^*=wss://$third-party
 ||niematego.tk^$third-party
 ||icemining.ca^$third-party
+||adless.io^$third-party
 ||clgserv.pro^$third-party
 ||vmi503011.contaboserver.net^$third-party
 ||track.clkfly.com^$all
@@ -1743,6 +1742,23 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ://r.i.ua^
 ||huffingtonpost.fr/px.gif^
 ||c.bing.com/c.gif
+/*.*skwai.com/
+/*-ad.video.yximgs.com/
+/*-ad.sm.cn/
+/*.*.shouji.sogou.com/
+/*-normal-lq.zijieapi.com/
+/*-ad-sign.byteimg.com/
+/*-ad.wtzw.com/
+/*-be-pack-sign.pglstatp-toutiao.com/
+/*.data.hicloud.com/
+/*.shouji.sogou.com/
+||service.vmos.cn/vmospro/api/ad^
+/*.log.aliyuncs.com/
+/*.zskwai.com/
+/*-ad-*.byteimg.com/
+/*.a.market.xiaomi.com/
+/ads*-normal-*.zijieapi.com/
+/*-lm.adkwai.com/
 ||ad.mail.ru/*.gif?rnd=$third-party
 ||fw.tv/embed/impressions
 ||technolutions.net/ping?
@@ -3167,24 +3183,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||feedblitz.com/imp?$third-party
 ||embedly.com/widgets/xcomm.html$third-party
 ||onesignal.com/api/v*/apps/
-/*.*skwai.com/
-/*-ad.video.yximgs.com/
-/*-ad.sm.cn/
-/*.*.shouji.sogou.com/
-/*-normal-lq.zijieapi.com/
-/*-ad-sign.byteimg.com/
-/*-ad.wtzw.com/
-/*-be-pack-sign.pglstatp-toutiao.com/
-/*.data.hicloud.com/
-/*.shouji.sogou.com/
-||service.vmos.cn/vmospro/api/ad^
-/*.log.aliyuncs.com/
-/*.zskwai.com/
-/*-ad-*.byteimg.com/
-/*.a.market.xiaomi.com/
-/ads*-normal-*.zijieapi.com/
-/*-lm.adkwai.com/
-#@@||360.cn^$important
 ||mmccint.com^$third-party
 ||checkeffect.at^$third-party
 ||hit-counter.info^$third-party
@@ -5046,7 +5044,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||announcement.ru^$third-party
 ||dpbolvw.net^$third-party
 ||tag.contactatonce.co.uk^$third-party
-||50bang.org^$third-party
 ||theadex.com^$third-party
 ||exovueplatform.com^$third-party
 ||cerdmann.com^$third-party
@@ -6151,6 +6148,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||clicks.h.hepsiburada.com^$third-party
 ||segmenthub.com^$third-party
 ||halldata.com^$third-party
+||breaktime.com.tw^$third-party
 ||panda.kasika.io^$third-party
 ||linkconnector.com^$third-party
 ||tm.msgs.jp^$third-party
@@ -6227,6 +6225,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||hit2map.com^$third-party
 ||openvenue.com^$third-party
 ||visioncriticalpanels.com^$third-party
+#@@||360.cn^$important
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
 /e/ecmsshop/zhuanpan/js/*
@@ -12326,6 +12325,7 @@ boylov.xyz,boylove.cc,boyloves.fun##.owl-carousel
 /images/ta1234.js
 ##.downcode[style^="position:fixed;z-index:1000;top:200px;"]
 elecfans.com###fix-tdkad
+||50bang.org^$third-party
 ||haolingsheng.com/public/daguzhe.jpg
 /imguang/*.gif$third-party
 xingkbjm.com##.d_textbanner
@@ -18040,6 +18040,7 @@ daniao.org,geekpark.net,speedtest.cn##.sponsor
 yxdown.com###tl_adv
 jirou.com###guanggao
 stock87.com##div[id^="Javascript"]
+##.TqAdShow
 ||szonline.net/static/js/ads.js
 ant.design###geektime
 ||sohu.com/mdevp/*-advert/
@@ -19630,6 +19631,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||adjal.com^$third-party
 ||adsterra.com^$third-party
 ||aorms.com^$third-party
+||smartico.one^$third-party
 ||adxpub.com^$third-party
 ||exactdrive.com^$third-party
 ||trafmag.com^$third-party
@@ -22307,7 +22309,6 @@ email.reply.strivewithmeg.co.uk$image
 www.envoyermail.com$image
 email.kjbm.sun-lau.com$image
 link.huffingtonpost.it$image
-/tracking/track.php?
 email.notif.mathworks.com$image
 email.embodied.com$image
 ||assets.shop.hisense.com/ta.js
