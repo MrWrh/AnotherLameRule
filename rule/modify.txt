@@ -1,4 +1,4 @@
-# Update time: 2024-03-01 09:18:09
+# Update time: 2024-03-01 20:31:11
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||secure.iqmining.com^$third-party
 ||s.remonti.org^$third-party
@@ -149,6 +149,52 @@
 ||cwmlm.com^$third-party
 ||26gg.bnq86.com^$third-party
 ||7daystodie.cn^$third-party
+||vennala.pw^$redirect=nooptext
+||jssdk.rayjump.com^$third-party
+||hostgrater.com^$third-party
+||pos.baidu.com^$third-party
+||tnkfactory.com^$third-party
+||imwx.com/mobile/adconfig/
+||inclk.com^$popup
+||mobon.com^$third-party
+/adunion/*
+||dsp.batmobil.net/ads-dsp^
+||adtheorent.com^$third-party
+||vidout.net^$third-party
+||tongqing2015.com^$third-party
+||brokerbabe.com^$third-party
+||mobile-click.biz^$third-party
+||pagead46.l.doubleclick.net^$third-party
+||adplex.co.kr^$third-party
+||ts166.net^$third-party
+||amazonaws.com/cp4pox^
+||pw.lpsxssm.com^$third-party
+||manifest.auditude.com^$domain=~not_for_sdn_filter.com
+||valshara.com^$third-party
+||theship.club^$third-party
+||iqzone.com^$third-party
+://o0e.ru^$third-party
+||ma-code.ru^$third-party
+||mobilebanner.ru^$third-party
+||31.14.252.148^$third-party
+||admitad.com^$domain=~admitad.com
+||clkfeed.com^$popup
+||applift.com^$redirect=nooptext
+||postitial.com^$third-party
+||owap.su^$third-party
+||yuhuads.com^$third-party
+||adsmobila.com^$third-party
+||m.yap.yahoo.com^$domain=~not.dns
+||partnerad.l.doubleclick.net^$third-party
+||oclasrv.com$popup,important
+||sexpennyauctions.com^$popup
+||deloton.com$popup,important
+||track.cpatool.net^$popup,third-party
+||postut.cn^$third-party
+||keydot.net^$third-party
+||tapstat.ru^$third-party
+||painsko.com^$third-party
+||plugin.mediavoice.com^$third-party
 ||adrino.cloud^$third-party
 ||arwobaton.com^$all
 ||user-shield-check.com^$all
@@ -1584,6 +1630,25 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||icemining.ca^$third-party
 ||clgserv.pro^$third-party
 ||vmi503011.contaboserver.net^$third-party
+/*.*skwai.com/
+/*-ad.video.yximgs.com/
+/*-ad.sm.cn/
+/*.*.shouji.sogou.com/
+/*-ad-sign.byteimg.com/
+/*-normal-lq.zijieapi.com/
+/*-ad.wtzw.com/
+/*-be-pack-sign.pglstatp-toutiao.com/
+/cloud-inject-global.oss-cn-hongkong.aliyuncs.com/
+/cloudinject*-dev.s3.ap-northoreast-1.amazonaws.com/
+/*.data.hicloud.com/
+/*.shouji.sogou.com/
+/cloudinject*-dev.*.*-*-*.amazonaws.com/
+/*.log.aliyuncs.com/
+/*.zskwai.com/
+/*-ad-*.byteimg.com/
+/*.a.market.xiaomi.com/
+/ads*-normal-*.zijieapi.com/
+/*-lm.adkwai.com/
 ||mmccint.com^$third-party
 ||checkeffect.at^$third-party
 ||hit-counter.info^$third-party
@@ -6041,71 +6106,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||feedblitz.com/imp?$third-party
 ||embedly.com/widgets/xcomm.html$third-party
 ||onesignal.com/api/v*/apps/
-||vennala.pw^$redirect=nooptext
-||jssdk.rayjump.com^$third-party
-||hostgrater.com^$third-party
-||pos.baidu.com^$third-party
-||tnkfactory.com^$third-party
-||imwx.com/mobile/adconfig/
-||inclk.com^$popup
-||mobon.com^$third-party
-/adunion/*
-||dsp.batmobil.net/ads-dsp^
-||adtheorent.com^$third-party
-||vidout.net^$third-party
-||tongqing2015.com^$third-party
-||brokerbabe.com^$third-party
-||mobile-click.biz^$third-party
-||pagead46.l.doubleclick.net^$third-party
-||adplex.co.kr^$third-party
-||ts166.net^$third-party
-||amazonaws.com/cp4pox^
-||pw.lpsxssm.com^$third-party
-||manifest.auditude.com^$domain=~not_for_sdn_filter.com
-||valshara.com^$third-party
-||theship.club^$third-party
-||iqzone.com^$third-party
-://o0e.ru^$third-party
-||ma-code.ru^$third-party
-||mobilebanner.ru^$third-party
-||31.14.252.148^$third-party
-||admitad.com^$domain=~admitad.com
-||clkfeed.com^$popup
-||applift.com^$redirect=nooptext
-||postitial.com^$third-party
-||owap.su^$third-party
-||yuhuads.com^$third-party
-||adsmobila.com^$third-party
-||m.yap.yahoo.com^$domain=~not.dns
-||partnerad.l.doubleclick.net^$third-party
-||oclasrv.com$popup,important
-||sexpennyauctions.com^$popup
-||deloton.com$popup,important
-||track.cpatool.net^$popup,third-party
-||postut.cn^$third-party
-||keydot.net^$third-party
-||tapstat.ru^$third-party
-||painsko.com^$third-party
-||plugin.mediavoice.com^$third-party
-/*.*skwai.com/
-/*-ad.video.yximgs.com/
-/*-ad.sm.cn/
-/*.*.shouji.sogou.com/
-/*-ad-sign.byteimg.com/
-/*-normal-lq.zijieapi.com/
-/*-ad.wtzw.com/
-/*-be-pack-sign.pglstatp-toutiao.com/
-/cloud-inject-global.oss-cn-hongkong.aliyuncs.com/
-/cloudinject*-dev.s3.ap-northoreast-1.amazonaws.com/
-/*.data.hicloud.com/
-/*.shouji.sogou.com/
-/cloudinject*-dev.*.*-*-*.amazonaws.com/
-/*.log.aliyuncs.com/
-/*.zskwai.com/
-/*-ad-*.byteimg.com/
-/*.a.market.xiaomi.com/
-/ads*-normal-*.zijieapi.com/
-/*-lm.adkwai.com/
 #@@||360.cn^$important
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
@@ -24213,6 +24213,7 @@ email.mg.dancarlin.com$image
 email.kamara.com.tr$image
 email.mg.romualdclement.com$image
 email.langtrees.com$image
+archive.org##+js(set-constant, archive_analytics.create_tracking_image, noopFunc)
 email.dev.kolabtree.com$image
 email.t.eu.learnworlds.com$image
 email.mail.anketka.ru$image
@@ -30364,6 +30365,7 @@ link.laopinion.com$image
 email.halprint.com$image
 email.mg.liderazgomasculino.com$image
 email.cultivateai.com$image
+archive.org##+js(set-constant, archive_analytics.send_ping, noopFunc)
 email.newsword.org$image
 email.smartlinks.ca$image
 email.ticketmasterbelgium.be$image
@@ -31091,6 +31093,7 @@ email.mg.dawn-barnes.com$image
 email.mail.geecom.co.uk$image
 email.fundrush.site$image
 email.mg.dutchned.com$image
+archive.org##+js(set-constant, archive_analytics.send_event, noopFunc)
 email.mail.quantive.com$image
 email.mgt.atagent.com$image
 email.yuman.io$image
@@ -32572,6 +32575,7 @@ email.tobymellor.com$image
 email.giving.manchester.edu$image
 email.jb.com.sa$image
 email.mail.patriotsdailydigest.com$image
+archive.org##+js(set-constant, archive_analytics, noopFunc)
 email.effugio.it$image
 email.owned-networks.net$image
 email.swingeducation.com$image
@@ -34275,6 +34279,7 @@ email.g-co.it$image
 email.instavr.co$image
 ||movad.de/c.ount?
 email.mail.jordypersonaltraining.nl$image
+archive.org##+js(set-constant, archive_analytics.send_pageview_on_load, noopFunc)
 email.fhrai.org$image
 email.hello.fausto.in$image
 email.mg.copart.com$image
@@ -42378,6 +42383,7 @@ email.leadora.app$image
 email.vocatio.be$image
 email.lc.claritycountsbookkeeping.com$image
 email.training.trilliumteams.com$image
+archive.org##+js(set-constant, archive_analytics.set_up_event_tracking, noopFunc)
 e.rudderstack.com$image
 email.mg.spgnmail.com$image
 email.pnda.email$image
@@ -49738,6 +49744,7 @@ email.sosv.com$image
 link.law.com$image
 email.zenprint.com.au$image
 email.saintandrewsnet.myenotice.com$image
+||survey.hyzen-cloud.com/pixel/
 email.clipboardjs.com$image
 email.freelife-origin.com$image
 email.mg.lydia-app.com$image
@@ -56089,6 +56096,7 @@ email.nowtime2play.com$image
 email.mail.17.media$image
 email.thisistaken.com$image
 ||prtimes.jp/common/js/googleana.js
+archive.org##+js(set-constant, archive_analytics.process_url_events, noopFunc)
 email.maxitrade.com$image
 email.box.gr$image
 nxslink.wric.com$image
@@ -65011,6 +65019,7 @@ email.emailer-staging-featured.boardable.com$image
 email.email.agree.cz$image
 email.gh-mail.hellofresh.se$image
 email.mail.homemail-seven.com$image
+archive.org##+js(set-constant, archive_analytics.get_data_packets, noopFunc)
 email.yes.com.sv$image
 email.smea.winsms.co.za$image
 email.mgc.atproperties.com$image
