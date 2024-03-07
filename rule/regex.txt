@@ -1,4 +1,4 @@
-# Update time: 2024-03-06 20:31:53
+# Update time: 2024-03-07 08:59:57
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -41,6 +41,8 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -74,8 +76,6 @@
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
@@ -158,21 +158,28 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||analytics*.prezly.com^
-||collector-*.tvsquared.com^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||browser-intake-*-datadoghq.com^
-||pixelapi-*.cs.mysamba.tv^
-||track.tiara.
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stat.tiara.
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||collect-v*.51.la^
+||browser-intake-*-datadoghq.com^
+||rum*.a.trbcdn.net^
+||stat.tiara.
+||xlog*-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
+||analytics*.prezly.com^
+||collector-*.tvsquared.com^
+||mcs-va-*.tiktokv.com^
+||px*.mediahills.ru^
+||mon-*.tiktokv.com^
+||pixelapi-*.cs.mysamba.tv^
+||stats*.videonow.ru^
+||track.tiara.
+||analytics*.clickdimensions.com^
+||rum*.cdnvideo.ru^
+||mon*-*.tiktokv.us^
 ||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -234,18 +241,10 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||158.247.208.
-||iqkufk^
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
 ||spryptvqguhpwt^
-||xlog*-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
-||mcs-va-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||mon-*.tiktokv.com^
 directtrack.*.js
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
-||mon*-*.tiktokv.us^
