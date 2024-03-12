@@ -1,4 +1,4 @@
-# Update time: 2024-03-12 09:11:36
+# Update time: 2024-03-12 20:31:07
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -43,7 +43,6 @@
 ||allsportsflix.
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -125,6 +124,7 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -158,11 +158,6 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||bc.geocities.
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -172,6 +167,7 @@
 ||collector-*.tvsquared.com^
 ||mcs-va-*.tiktokv.com^
 ||px*.mediahills.ru^
+||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||track.tiara.
@@ -179,6 +175,11 @@
 ||rum*.cdnvideo.ru^
 ||mon*-*.tiktokv.us^
 ||ad*.nownews.com^
+||bc.geocities.
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -246,5 +247,4 @@
 ||spryptvqguhpwt^
 ||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||mon-*.tiktokv.com^
 directtrack.*.js
