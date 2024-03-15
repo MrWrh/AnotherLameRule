@@ -1,4 +1,4 @@
-# Update time: 2024-03-14 20:31:55
+# Update time: 2024-03-15 09:13:09
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ysx8.vip^$third-party
 ||chushoushijian.cn^$third-party
@@ -787,26 +787,6 @@
 ||tapstat.ru^$third-party
 ||painsko.com^$third-party
 ||plugin.mediavoice.com^$third-party
-||guoshipartners.com^$third-party
-$third-party,xmlhttprequest,domain=opensubtitles.org
-||brightedge.com^$third-party
-||clickguardian.app^$third-party
-||addthis.com^$third-party
-||push4site.com^$third-party
-||addthisedge.com^$third-party
-||simility.com^$third-party
-||ravelin.net^$third-party
-||mkto-*.com^$third-party
-||clickyab.com^$third-party
-||ppcprotect.com^$third-party
-||spideraf.com^$third-party
-$ping,third-party
-||brightdata.com^$third-party
-||klangoo.com^$third-party
-||p30rank.ir^$third-party
-||brightdata.de^$third-party
-||addthiscdn.com^$domain=~addthis.com
-||pphwrevr.com^$third-party
 ||autotrader.ca/result/AutosAvailableListings.aspx?
 ||sweeva.com/images/banner250.gif
 ||leadfamly.com/campaign/sdk/popup.min.js
@@ -845,6 +825,7 @@ $ping,third-party
 ||vpnrice.com/a/p.js
 ||graph.org/file/$third-party
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
+||bunkr.si/lazyhungrilyheadlicks.js
 ||bluehost-cdn.com/media/partner/images/
 ||glam.com/gad/
 ||bet365.com/favicon.ico$third-party
@@ -945,6 +926,7 @@ $ping,third-party
 ||bc.vc/js/link-converter.js
 ||amazonaws.com/mailcache.appinthestore.com/
 ||flowplayer.com/releases/ads/
+||bunkrr.su/lazyhungrilyheadlicks.js
 ||jsdelivr.net/gh/InteractiveAdvertisingBureau/
 ||sascdn.com/tag/
 ||torrindex.net/static/tinysort.min.js
@@ -1069,6 +1051,7 @@ $ping,third-party
 ||siteground.com/img/affiliate/
 ||web-hosting.net.my/banner/
 ||cse.google.com/cse_v2/ads$subdocument
+||heimalesssinpad.com/overroll/
 ||saveit.us/img/$third-party
 ||saambaa.com^$third-party
 ||turb.cc/fd1/img/promo/
@@ -1159,132 +1142,26 @@ $ping,third-party
 ||shareasale.com/image/$third-party
 ||truex.com/js/client.js
 ||cpmstar.com/cached/
-||marafonec.com/jquerys.js
-vkcdnservice.appspot.com^$third-party
-.ru/jquerys.js
-||185.165.169.108^$websocket,third-party
-||webminerpool.com^$third-party
-||mepirtedic.com^$third-party
-.su/jquerys.js
-.net/jquerys.js
-||coinpot.co^$third-party
-://mine.torrent.pw^
-||rocks.io^$third-party
-||vuryua.ru^$third-party
-||zona.plus/*.php|
-||hemnes.win^$third-party
-||becanium.com^$third-party
-||sweetbook.net/templates/skin/sweetnew/js/internal.js
-||coin-have.com^$third-party
-||pampopholf.com^$third-party
-||goodkino.biz/*.2.1.2.js|
-||vidzi.tv/plays.js
-||statdynamic.com^$third-party
-||coinpirate.cf^$third-party
-.info/jquerys.js
-||thepiratebay-proxylist.se/filter$websocket
-||jsfiddle.net^$important,domain=7torr.com
-||party-vqgdyvoycc.now.sh^$third-party
-||crypto-loot.com^$third-party
-||minescripts.info^$third-party
-||s3.amazonaws.com/imgint/aaz.js
-.n.2.1.l60.js^$third-party
-||formulawire.com^$third-party
-||fili.cc/assets/libs/mank/webmr.js
-||papoto.com^$third-party
-||techhome-js.github.io/main.js^$third-party
-||nakapote.com/jquerys.js
-||intersportv.com/canli-mac-yayinlari/wp-content/uploads/*/jZxl_2.js
-||archer0*.tk:*/
-||coinrail.io^$third-party
-$websocket,domain=300mbfilms.io|lib.rus.ec
-||habd.as/js/modules/toxic-swamp/webminer.min.js
-||webminepool.com^$third-party
-||projectpoi.com^$third-party
-||coinnebula.com^$third-party
-||seminarski-diplomski.co.rs/js/custom.js
-||bilsh.com/jquerys.js
-||monerominer.rocks^$third-party
-||minemytraffic.com^$third-party
-||hashing.win^$third-party
-||ecstatic-hoover-50a7b7.netlify.com/pYrqEw.js
-||serie-vostfr.com^$third-party
-||smartoffer.site^$third-party
-||newsinmir.com/jquerys.js
-||webmine.cz^$third-party
-||nerohut.com^$third-party
-||js.nahnoji.cz/miner_proxy
-||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
-||tulip18.com^$third-party
-||kickass.cd/*/m.js
-||dengiua.com/jquerys.js
-||machieved.com^$third-party
-||nahnoji.cz/compact_miner^
-||nametraff.com^$third-party
-||xmrminingproxy.com^$websocket,third-party
-||cloud-miner.de^$third-party
-||goldoffer.online^$third-party
-||ppoi.org^$third-party
-||ogrid.org^$third-party
-||vkulake.com/jquerys.js
-||laserveradedomaina.com^$third-party
-||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
-||premiumstats.xyz^$third-party
-||traffic.tc-clicks.com^$third-party
-||d1e1rbybdt265x.cloudfront.net/mmfb2.html
-||sup-idea.com/jquerys.js
-||pertholin.com^$third-party
-||uptostream.com/assets/coinif.php$important
-||coinblind.com^$third-party
-||tercabilis.info^$third-party
-/cdn-cgi/pe/bag2?r[]=*eth-pocket.de
-||fotochki.com/jquerys.js
-||firmware.center/.coinhive.min.js
-||play*.flashx.pw/filter
-||dontbeevils.de^$websocket
-||techhome-js.github.io/code.wsm^$third-party
-||orbita-lviv.com/jquerys.js
-||afminer.com^$third-party
-||bablace.com^$third-party
-||omine.org^$third-party
-||dynamo-kiev.com/jquerys.js
-/wp-content/plugins/simple-monero-miner-coin-hive/*
-||usetrans.com/jquerys.js
-||futeboltv.com/js/coinhiveminer.js
-||thewise.com^$third-party
-||hiy.vidzi.tv/socket.io^
-||audioknigi.club/templates/skin/aclub/js/m/bgd.js
-||coinerra.com^$third-party
-||coinimp.com^$third-party
-||thewhizproducts.com^$third-party
-||offerreality.com^$third-party
-.3.n.2.2.l30.js
-.3.n.2.1.l50.js
-||brominer.com^$third-party
-.org/jquerys.js
-.n.2.1.js^$third-party
-||dekoder.ws/*/m.js
-||kaspianchoob.com/jquerys.js
-||cashbeet.com^$third-party
-||monero-miner.com^$third-party
-||fili.tv/assets/libs/mino.min.js
-.1.1.1.l80.js^$third-party
-||cdn-102.statdynamic.com/filter
-||webmining.co^$third-party
-||kisshentai.net/Content/js/c-hive.js
-||jsecoin.com^$third-party
-||intersportv.com/canli-mac-yayinlari/wp-content/uploads/*/intersportv.js
-||vnebi.com/jquerys.js
-||pornsfw.com/assets/application-*.js
-||kinohabr.net/*.php?id=*&type=
-||go.bestmobiworld.com^$third-party
-||jscdndel.com^$third-party
-||wtm.monitoringservice.co^$third-party
-||vkcdnservice.com^$third-party
-||questionfly.com^$third-party
-.ua/jquerys.js
-||adless.io^$third-party
-||silimbompom.com^$third-party
+||guoshipartners.com^$third-party
+$third-party,xmlhttprequest,domain=opensubtitles.org
+||brightedge.com^$third-party
+||clickguardian.app^$third-party
+||addthis.com^$third-party
+||push4site.com^$third-party
+||addthisedge.com^$third-party
+||simility.com^$third-party
+||ravelin.net^$third-party
+||mkto-*.com^$third-party
+||clickyab.com^$third-party
+||ppcprotect.com^$third-party
+||spideraf.com^$third-party
+$ping,third-party
+||brightdata.com^$third-party
+||klangoo.com^$third-party
+||p30rank.ir^$third-party
+||brightdata.de^$third-party
+||addthiscdn.com^$domain=~addthis.com
+||pphwrevr.com^$third-party
 ||inst.platform.bing.com/api/log
 ||api.goodbarber.net/statsapi/
 ||helpshift.com/api/lib/2/events/
@@ -1336,10 +1213,123 @@ $app=com.miui.systemAdSolution
 ||appsupport.qq.com/cgi-bin/appstage/mstats_batch_report
 ||graph.facebook.com/*/activities?access_token=&event=
 ||crittercism.com/api/
+||marafonec.com/jquerys.js
+vkcdnservice.appspot.com^$third-party
+.ru/jquerys.js
+||185.165.169.108^$websocket,third-party
+||webminerpool.com^$third-party
+||mepirtedic.com^$third-party
+.su/jquerys.js
+.net/jquerys.js
+://mine.torrent.pw^
+||rocks.io^$third-party
+||vuryua.ru^$third-party
+||zona.plus/*.php|
+||hemnes.win^$third-party
+||sweetbook.net/templates/skin/sweetnew/js/internal.js
+||pampopholf.com^$third-party
+||goodkino.biz/*.2.1.2.js|
+||vidzi.tv/plays.js
+||statdynamic.com^$third-party
+.info/jquerys.js
+||thepiratebay-proxylist.se/filter$websocket
+||jsfiddle.net^$important,domain=7torr.com
+||party-vqgdyvoycc.now.sh^$third-party
+||minescripts.info^$third-party
+||s3.amazonaws.com/imgint/aaz.js
+.n.2.1.l60.js^$third-party
+||formulawire.com^$third-party
+||fili.cc/assets/libs/mank/webmr.js
+||papoto.com^$third-party
+||techhome-js.github.io/main.js^$third-party
+||nakapote.com/jquerys.js
+||intersportv.com/canli-mac-yayinlari/wp-content/uploads/*/jZxl_2.js
+||archer0*.tk:*/
+$websocket,domain=300mbfilms.io|lib.rus.ec
+||habd.as/js/modules/toxic-swamp/webminer.min.js
+||webminepool.com^$third-party
+||projectpoi.com^$third-party
+||seminarski-diplomski.co.rs/js/custom.js
+||bilsh.com/jquerys.js
+||monerominer.rocks^$third-party
+||minemytraffic.com^$third-party
+||hashing.win^$third-party
+||ecstatic-hoover-50a7b7.netlify.com/pYrqEw.js
+||serie-vostfr.com^$third-party
+||smartoffer.site^$third-party
+||newsinmir.com/jquerys.js
+||webmine.cz^$third-party
+||nerohut.com^$third-party
+||js.nahnoji.cz/miner_proxy
+||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
+||tulip18.com^$third-party
+||kickass.cd/*/m.js
+||dengiua.com/jquerys.js
+||machieved.com^$third-party
+||nahnoji.cz/compact_miner^
+||nametraff.com^$third-party
+||xmrminingproxy.com^$websocket,third-party
+||goldoffer.online^$third-party
+||ppoi.org^$third-party
+||ogrid.org^$third-party
+||vkulake.com/jquerys.js
+||laserveradedomaina.com^$third-party
+||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
+||premiumstats.xyz^$third-party
+||traffic.tc-clicks.com^$third-party
+||d1e1rbybdt265x.cloudfront.net/mmfb2.html
+||sup-idea.com/jquerys.js
+||pertholin.com^$third-party
+||uptostream.com/assets/coinif.php$important
+||tercabilis.info^$third-party
+/cdn-cgi/pe/bag2?r[]=*eth-pocket.de
+||fotochki.com/jquerys.js
+||firmware.center/.coinhive.min.js
+||play*.flashx.pw/filter
+||dontbeevils.de^$websocket
+||techhome-js.github.io/code.wsm^$third-party
+||orbita-lviv.com/jquerys.js
+||omine.org^$third-party
+||dynamo-kiev.com/jquerys.js
+/wp-content/plugins/simple-monero-miner-coin-hive/*
+||usetrans.com/jquerys.js
+||futeboltv.com/js/coinhiveminer.js
+||thewise.com^$third-party
+||hiy.vidzi.tv/socket.io^
+||audioknigi.club/templates/skin/aclub/js/m/bgd.js
+||coinimp.com^$third-party
+||thewhizproducts.com^$third-party
+||offerreality.com^$third-party
+.3.n.2.2.l30.js
+.3.n.2.1.l50.js
+.org/jquerys.js
+.n.2.1.js^$third-party
+||dekoder.ws/*/m.js
+||kaspianchoob.com/jquerys.js
+||cashbeet.com^$third-party
+||monero-miner.com^$third-party
+||fili.tv/assets/libs/mino.min.js
+.1.1.1.l80.js^$third-party
+||cdn-102.statdynamic.com/filter
+||webmining.co^$third-party
+||kisshentai.net/Content/js/c-hive.js
+||jsecoin.com^$third-party
+||intersportv.com/canli-mac-yayinlari/wp-content/uploads/*/intersportv.js
+||vnebi.com/jquerys.js
+||pornsfw.com/assets/application-*.js
+||kinohabr.net/*.php?id=*&type=
+||go.bestmobiworld.com^$third-party
+||jscdndel.com^$third-party
+||wtm.monitoringservice.co^$third-party
+||vkcdnservice.com^$third-party
+||questionfly.com^$third-party
+.ua/jquerys.js
+||silimbompom.com^$third-party
 /nano.wasm
 ||datasecu.download^$third-party
 ||ninaning.com^$third-party
 ||coinhiveproxy.com^$third-party
+||coinpot.co^$third-party
 ||sleeptimer.org/playerc.js
 ||35.194.26.233^$third-party
 ||bestcoinsignals.com^$third-party
@@ -1365,6 +1355,7 @@ $app=com.miui.systemAdSolution
 /c-hive.js
 ||dronml.ml^$third-party
 /dprocessor.js
+||crypto-loot.com^$third-party
 /^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|(maxcdn|netcdn|stackpath)\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bitcoincashfaucet.co|btstors.com|bustrain.net|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.life|hdvid.tv|hdvid.xyz|ianimes.co|javdl.co|kinokong.cc|kinokrad.co|lafmacun.net|neurozinzin.com|novator.az|novoscrb.ru|openload.cc|pelisplus.online|pezeshk.us|pinoyrewind.info|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rednubes.de|seriesenlinea.net|severita-service.ru|skytorrents.me|sleeptimer.org|studio100.it|tapemovie.com|thepiratebay.org|thisjav.com|torrentrapid.com|tpbay.xyz|vev.io|videodwn.com|vidoza.co|vidtodo.me|vidtudu.com|voirfilms.mx|wallpoper.com|watchfreemovies.tv|wearesaudis.net|xmovies8.nl|yourjav.com
 /cloudcoins.js
 /web_miner/*
@@ -1433,6 +1424,7 @@ $script,websocket,domain=pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepirat
 /^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|site|space(?!(/socket\/websocket\?vsn\=))|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~kli.one|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz|~redirect-ads.com
 ||herominers.com^$third-party
 ?proxy=*?pools=
+||coinerra.com^$third-party
 ||coinminingonline.com^$third-party
 /miner-ui.js
 ||autologica.ga^$third-party
@@ -1491,6 +1483,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||stonecalcom.com^$third-party
 ||nimwss-us-shark.lolopool.com^$third-party
 /authedmine.$script,domain=~authedmine.com|~authedmine.eu
+||becanium.com^$third-party
+||coin-have.com^$third-party
 ||myeffect.net^*=wss://$third-party
 ||axoncoho.tk^$third-party
 ||jqwww.download^$third-party
@@ -1498,6 +1492,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 /crn.wasm
 ?proxy=*?pool=
 ||ddns.net^*=ws://$third-party
+||coinpirate.cf^$third-party
 /coinGofile.
 ||nimiq.network^$third-party
 .info^$domain=sleeptimer.org
@@ -1511,10 +1506,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||losital.ru^$third-party
 ||minr.pw^$third-party
 /helper.wasm$third-party
+||coinrail.io^$third-party
 ||shush.se/loader/load.js
 ||nimiq.terorie.com^$third-party
 ||cdn.cloudcoins.co^$third-party
 ||coinimp.com$third-party
+||coinnebula.com^$third-party
 ||flare-analytics.com^$third-party
 ||abc.pema.cl^$third-party
 ||etzbnfuigipwvs.ru^$third-party
@@ -1542,6 +1539,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||cinemafacil.com/js.php
 ||mining.best^$third-party
 ||renhertfo.com^$third-party
+||cloud-miner.de^$third-party
 ||mebablo.com^$third-party
 /webxmr.js
 ||coinimp.net$third-party
@@ -1551,6 +1549,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||bhzejltg.info^$third-party
 /cn.wasm$third-party
 =ws://*?pool=
+||coinblind.com^$third-party
 /cryptocpu.js
 =wss://*?pools=
 ||go.fastspot.io^$third-party
@@ -1569,6 +1568,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ddmix.net|kickass.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
+||afminer.com^$third-party
+||bablace.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1586,6 +1587,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 /lhnhelpouttab-current.min.js
 ||mine.blank.drawpad.org^$third-party
 /cryptonight-worker.
+||brominer.com^$third-party
 /miner?key=
 ||nimiq.jp^$third-party
 ||a-calc.com^$third-party
@@ -1617,6 +1619,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ddns.net^*=wss://$third-party
 ||niematego.tk^$third-party
 ||icemining.ca^$third-party
+||adless.io^$third-party
 ||clgserv.pro^$third-party
 ||vmi503011.contaboserver.net^$third-party
 ||track.clkfly.com^$all
@@ -3107,6 +3110,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||emailretargeting.com^$third-party
 ||hlserve.com^$third-party
 ||lypn.com^$third-party
+||wa4y.com^$third-party
 ||minewhat.com^$third-party
 ||ck.ncclick.co.kr^$third-party
 ||sitest.jp^$third-party
@@ -3114,6 +3118,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||pages05.net^$third-party
 ||pxf.io^$image,script,third-party
 ||logs*.smithsonian.museum^$third-party
+||vertster.com^$third-party
 ||cadreon.com^$third-party
 ||df.pmweb.com.br^$third-party
 ||tracking-sap.frodx.com^$third-party
@@ -3153,8 +3158,10 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||intelliad.de^$third-party
 ||omnitag.omniscientai.com^$third-party
 ||pngme.ru^$third-party
+||vmweb.net^$third-party
 ||immanalytics.com^$third-party
 ||omgpm.com^$third-party
+||webstats.com^$third-party
 ||collserve.com^$third-party
 ||deqwas.net^$third-party
 ||qzlog.com^$third-party
@@ -3170,10 +3177,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||jscounter.com^$third-party
 ||siteimprove.com^$third-party
 ||ustat.pro^$third-party
+||visibli.com^$third-party
 ||trakken.de^$third-party
 ||signifyd.com^$third-party
 ||tracking.gpm-rtv.ru^$third-party
 ||trafficmaxx.de^$third-party
+||vinub.com^$third-party
 ||apptentive.com^$redirect=nooptext
 ||tangankanan.net^$third-party
 ||cosmi.io^$third-party
@@ -3199,6 +3208,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||levexis.com^$third-party
 ||counter*.freecounter.ovh^$third-party
 ||auth.bz^$third-party
+||webest.info^$third-party
 ||alltracked.com^$third-party
 ||getfreebacklinks.com^$third-party
 ||trail-web.com^$third-party
@@ -3265,10 +3275,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||msgtag.com^$third-party
 ||curalate.com^$third-party
 ||thequin.ai^$third-party
+||veduy.com^$third-party
 ||copperegg.com^$third-party
 ||crm.agency^$third-party
 ||visitor-metrics.com^$third-party
 ||dsply.com^$third-party
+||webstatistika.lv^$third-party
 ||callrail.com^$third-party
 ||fastcounter.de^$third-party
 ||yaudience.com^$third-party
@@ -3292,11 +3304,14 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||mediaforgews.com^$third-party
 ||pr-chart.de^$third-party
 ||tracker.idocdn.com^$third-party
+||vantage-media.net^$third-party
 ||connectif.cloud^$third-party
 ||lp4.io^$third-party
 ||mkt51.net^$third-party
+||uptracs.com^$third-party
 ||xplosion.de^$third-party
 ||net-filter.com^$third-party
+||uptime.monitorus.ru^$third-party
 ||acc-hd.de^$third-party
 ||csdata1.com^$third-party
 ||intelli-direct.com^$third-party
@@ -3318,6 +3333,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||xtremline.com^$third-party
 ||topsite.lv^$third-party
 ||icstats.nl^$third-party
+||taps.io^$third-party
 ||georiot.com^$third-party
 ||rep0pkgr.com^$third-party
 ||rampmetrics.com^$third-party
@@ -3357,6 +3373,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||bmlmedia.com^$third-party
 ||redcounter.net^$third-party
 ||nc0.co^$third-party
+||www.net.kg^$third-party
 ||vizzit.se^$third-party
 ||qbop.com^$third-party
 ||stopphoulplay.com^$third-party
@@ -3365,11 +3382,13 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||iqfp1.com^$third-party
 ||lijit.com^$third-party
 ||sessioncam.com^$third-party
+||verticalsearchworks.com^$third-party
 ||spelar.org^$third-party
 ||sematext.com^$third-party
 ||tailtarget.com^$third-party
 ||nextclick.pl^$third-party
 ||pr-linktausch.de^$third-party
+||vbanalytics.com^$third-party
 ||etop.ro^$third-party
 ||kupona.de^$third-party
 ||observare.de^$third-party
@@ -3377,9 +3396,11 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ogt.jp^$third-party
 ||traceworks.com^$third-party
 ||bloggeramt.de^$third-party
+||whitepixel.com^$third-party
 ||rutarget.ru^$third-party
 ||decideinteractive.com^$third-party
 ||clickpathmedia.com^$third-party
+||ubertracking.info^$third-party
 ||roispy.com^$third-party
 ||trafficby.net^$third-party
 ||geoedge.be^$third-party
@@ -3399,6 +3420,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||udkcrj.com^$third-party
 ||naytev.com^$third-party
 ||we-stats.com^$third-party
+||visit.webhosting.yahoo.com^$third-party
 ||blog-webkatalog.de^$third-party
 ||cxense.com^$third-party
 ||seitwert.de^$third-party
@@ -3457,6 +3479,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||blogtraffic.de^$third-party
 ||venetrigni.com^$third-party
 ||tisoomi-services.com^$third-party
+||visitlog.net^$third-party
+||visualwebsiteoptimizer.com^$third-party
 ||affinesystems.com^$third-party
 ||zdtag.com^$third-party
 ||lead-or-call.ru^$third-party
@@ -3481,6 +3505,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||sitecompass.com^$third-party
 ||stormcontainertag.com^$third-party
 ||canem-auris.com^$third-party
+||visits.lt^$third-party
 ||track.mituo.cn^$third-party
 ||hung.ch^$third-party
 ||mtracking.com^$third-party
@@ -3504,6 +3529,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||yadro.ru^$third-party
 ||dable.io^$third-party
 ||gridsumdissector.com^$third-party
+||upstats.ru^$third-party
 ||plugin.management^$third-party
 ||nr7.us^$third-party
 ||pwrlkyotm.com^$third-party
@@ -3547,6 +3573,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||nsaudience.pl^$third-party
 ||fusedeck.net^$third-party
 ||clubcollector.com^$third-party
+||usuarios-online.com^$third-party
 ||bidswitch.net^$third-party
 ||akanoo.com^$third-party
 ||splitbee.io^$third-party
@@ -3579,7 +3606,9 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||silverpush.co^$third-party
 ||lxtrack.com^$third-party
 ||statuncore.com^$third-party
+||visitorprofiler.com^$third-party
 ||linkxchanger.com^$third-party
+||unknowntray.com^$third-party
 ||uplift-platform.com^$third-party
 ||semtracker.de^$third-party
 ||kepler-37b.com^$third-party
@@ -3593,6 +3622,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||photovault.pics^$all
 ||iocnt.net^$third-party
 ||fandommetrics.com^$third-party
+||veinteractive.com^$third-party
 ||p-analytics.life^$third-party
 ||clickforensics.com^$third-party
 ||livetracker.*.pangea-cms.com^$third-party
@@ -3621,6 +3651,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tm.jsuol.com.br^$third-party
 ||highmetrics.com^$third-party
 ||tns-cs.net^$third-party
+||u5e.com^$third-party
 ||exclusiveclicks.com^$third-party
 ||stattrax.com^$third-party
 ||dimestore.com^$third-party
@@ -3649,6 +3680,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||pichost.pics^$all
 ||legenhit.com^$third-party
 ||factortg.com^$third-party
+||webtrafficagents.com^$third-party
 ||ivstracker.net^$third-party
 ||clicksen.se^$third-party
 ||trackerscript.sqreemtech.com^$third-party
@@ -3661,10 +3693,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||finderlocator.com^$third-party
 ||forter.com^$third-party
 ||springmetrics.com^$third-party
+||webtemsilcisi.com^$third-party
 ||40nuggets.com^$third-party
 ||t4ft.de^$third-party
 ||cervell.io^$third-party
 ||datvantage.com^$third-party
+||vizury.com^$third-party
 ||trace21.dsb-ebusiness.com^$third-party
 ||pagerankfree.com^$third-party
 ||causecherry.com^$third-party
@@ -3674,6 +3708,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||acecounter.com^$third-party
 ||ustat.info^$third-party
 ||stats4free.de^$third-party
+||vizisense.net^$third-party
 ||heatmap.it^$third-party
 ||xtractor.no^$third-party
 ||top.list.ru^$third-party
@@ -3736,6 +3771,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||trx-hub.com^$third-party
 ||iper2.com^$third-party
 ||dc-tag.jp^$third-party
+||viralninjas.com^$third-party
 ||alvenda.com^$third-party
 ||sitetistik.com^$third-party
 ||marinsm.com^$third-party
@@ -3769,8 +3805,10 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||betarget.com^$third-party
 ||bestcontactform.com^$~image,third-party
 ||mktoresp.com^$third-party
+||wildxtraffic.com^$third-party
 ||fallingfalcon.com^$third-party
 ||hubvisor.io^$third-party
+||wywy.com^$third-party
 ||fastly-insights.com^$third-party
 ||wtstats.ro^$third-party
 ||js.rush-member.com^$third-party
@@ -3781,6 +3819,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||lopley.com^$third-party
 ||reingod.com^$third-party
 ||e-kaiseki.com^$third-party
+||www.hey.lt^$third-party
 ||pureairhits.com^$third-party
 ||logs.viadata.store^$third-party
 ||logger.co.kr^$third-party
@@ -3789,6 +3828,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||offer-go.com^$third-party
 ||edgrmtracking.com^$third-party
 ||acetrk.com^$third-party
+||data.adobedc.net^$third-party
 ||tovery.net^$third-party
 ||datarating.com^$third-party
 ||cmcore.com^$third-party
@@ -3796,6 +3836,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||rating.in^$third-party
 ||stealth.nl^$third-party
 ||clicki.cn^$third-party
+||webforensics.co.uk^$third-party
 ||collarity.com^$third-party
 ||67.228.151.70^$third-party
 ||statsp.fpop.net^$third-party
@@ -3804,6 +3845,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ec-track.com^$third-party
 ||gixmo.dk^$third-party
 ||istat24.com^$third-party
+||tapstream.com^$third-party
+||webcounter.co.za^$third-party
 ||adara.com^$third-party
 ||browser-update.org^$third-party
 ||pocitadlo.sk^$third-party
@@ -3814,6 +3857,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||mezzobit.com^$third-party
 ||countergeo.com^$third-party
 ||77tracking.com^$third-party
+||visitorpath.com^$third-party
 ||mpstat.us^$third-party
 ||speedtracker.de^$third-party
 ||active24stats.nl^$third-party
@@ -3826,6 +3870,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||europagerank.com^$third-party
 ||cloud.roistat.com^$third-party
 ||swetrix.org^$third-party
+||web-counter.net^$third-party
 ||fixwap.net^$third-party
 ||mbsy.co^$third-party
 ||audiencemanager.de^$third-party
@@ -3840,6 +3885,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tatsumi-sys.jp^$third-party
 ||tr.webantenna.info^$third-party
 ||contatoreaccessi.com^$third-party
+||vivocha.com^$third-party
 ||evergage.com^$third-party
 ||forkcdn.com^$third-party
 ||abcstats.com^$third-party
@@ -3856,6 +3902,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||simonsignal.com^$third-party
 ||bigcattracks.com^$third-party
 ||analytics.daasrv.net^$third-party
+||xiti.com^$third-party
 ||otik.de^$third-party
 ||s1.listrakbi.com^$third-party
 ||quillion.com^$third-party
@@ -3878,14 +3925,18 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||a-counters.com^$third-party
 ||countz.com^$third-party
 ||trueroas.io^$third-party
+||uzrating.com^$third-party
 ||blog104.com^$third-party
 ||sddan.com^$third-party
 ||signalayer.com^$third-party
 ||dep-x.com^$third-party
 ||perk0mean.com^$third-party
 ||dwin1.com^$third-party
+||uarating.com^$third-party
 ||pollster.pl^$third-party
+||whosclickingwho.com^$third-party
 ||optin-machine.com^$third-party
+||umbel.com^$third-party
 ||best-top.de^$third-party
 ||histats.com^$third-party
 ||sitebro.net^$third-party
@@ -3896,6 +3947,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||shinystat.com^$third-party
 ||mediaarmor.com^$third-party
 ||trackcmp.net^$third-party
+||viewar.org^$third-party
 ||tcimg.com^$third-party
 ||besucherzaehler.org^$third-party
 ||netagent.cz^$third-party
@@ -3912,6 +3964,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||diffusion-tracker.com^$third-party
 ||emetriq.de^$third-party
 ||craftkeys.com^$third-party
+||v3cdn.net^$third-party
 ||millioncounter.com^$third-party
 ||popsample.com^$third-party
 ||script.opentracker.net$third-party
@@ -3924,10 +3977,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||pm0.net^$third-party
 ||iwebtrack.com^$third-party
 ||blockbreaker.io^$third-party
+||wunderloop.net^$third-party
 ||ftbpro.com^$third-party
 ||ra.rockcontent.com^$third-party
 ||mon-va.byteoversea.com^$third-party
 ||eloqua.com^$~stylesheet,third-party
+||visitorglobe.com^$third-party
 ||freelogs.com^$third-party
 ||gridsum.com^$third-party
 ||telemetry.api.wmcdp.io^$third-party
@@ -3937,6 +3992,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||cloisteredcord.com^$third-party
 ||avstat.it^$third-party
 ||owldata.com^$third-party
+||userneeds.dk^$third-party
 ||signup-way.com^$third-party
 ||sitebot.cn^$third-party
 ||bagbeam.com^$third-party
@@ -4005,9 +4061,11 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||contentsfeed.com^$third-party
 ||agentinteractive.com^$third-party
 ||bounce-ads.de^$third-party
+||whoisvisiting.com^$third-party
 ||mousetrace.com^$third-party
 ||trackset.com^$third-party
 ||assoctrac.com^$third-party
+||usabilla.com^$third-party
 ||sokrati.com^$third-party
 ||wonder-ma.com^$third-party
 ||adtlgc.com^$third-party
@@ -4046,6 +4104,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||gtop.ro^$third-party
 ||united-infos.net^$third-party
 ||reson8.com^$third-party
+||webgains.com^$third-party
 ||bonuscounter.de^$third-party
 ||fast-thinking.co.uk^$third-party
 ||intrastats.com^$third-party
@@ -4056,6 +4115,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||xhit.com^$third-party
 ||usereachpeople.com^$third-party
 ||alexacdn.com^$third-party
+||up-rank.com^$third-party
 ||jstracker.com^$third-party
 ||pr-sunshine.de^$third-party
 ||wipe.de^$third-party
@@ -4063,6 +4123,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||masterstats.com^$third-party
 ||stathound.com^$third-party
 ||alpixtrack.com^$third-party
+||webstat.com^$third-party
 ||chartbeat.com^$third-party
 ||istats.nl^$third-party
 ||gemtrackers.com^$third-party
@@ -4072,8 +4133,10 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||smart-digital-solutions.com^$third-party
 ||apptimize.com^$redirect=nooptext
 ||tetigi.com^$third-party
+||wiredminds.de^$third-party
 ||pahtag.tech^$third-party
 ||tl813.com^$third-party
+||vivistats.com^$third-party
 ||atdmt.com^$third-party
 ||ewebanalytics.com^$third-party
 ||metricskey.com^$third-party
@@ -4119,11 +4182,13 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ip-label.net^$third-party
 ||magnify360.com^$third-party
 ||simpli.fi^$third-party
+||videostat.com^$third-party
 ||exposebox.com^$third-party
 ||k-analytix.com^$third-party
 ||nedstatbasic.net^$third-party
 ||admantx.com^$third-party
 ||bouncex.com^$third-party
+||ventivmedia.com^$third-party
 ||s.clickiocdn.com^$third-party
 ||canopylabs.com^$third-party
 ||jirafe.com^$third-party
@@ -4190,6 +4255,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||trafficengine.net^$third-party
 ||snoobi.com^$third-party
 ||photorank.me^$third-party
+||woopra.com^$third-party
 ||123compteur.com^$third-party
 ||netapplications.com^$third-party
 ||statistichegratis.net^$third-party
@@ -4206,6 +4272,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||jixie.io^$third-party
 ||stats.streamhub.io^$third-party
 ||everestjs.net^$third-party
+||ugdturner.com^$third-party
 ||burt.io^$third-party
 ||pixel.tapad.com^$third-party
 ||moreusers.info^$third-party
@@ -4229,6 +4296,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||zoomino.com^$third-party
 ||singlefeed.com^$third-party
 ||permutive.com^$third-party
+||webwise.org^$third-party
 ||campaigns-collector.albacross.com^$third-party
 ||touchclarity.com^$third-party
 ||02ip.ru^$third-party
@@ -4259,6 +4327,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||cloud-exploration.com^$third-party
 ||morevisits.info^$third-party
 ||tinystat.ir^$third-party
+||whoseesyou.com^$third-party
 ||adrta.com^$third-party
 ||kopsil.com^$third-party
 ||searchignite.com^$third-party
@@ -4289,6 +4358,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||specialstat.com^$third-party
 ||experianmarketingservices.digital^$third-party
 ||jwmstats.com^$third-party
+||webtraxs.com^$third-party
 ||fyreball.com^$third-party
 ||analysis.fi^$third-party
 ||formalyzer.com^$third-party
@@ -4348,6 +4418,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||antvoice.com^$third-party
 ||powercount.com^$third-party
 ||sc-static.net^$third-party
+||visitortracklog.com^$third-party
+||waudit.cz^$third-party
 ||npario-inc.net^$third-party
 ||contents-tracking.beop.io^$third-party
 ||webtrekk-us.net^$third-party
@@ -4368,6 +4440,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||collectfasttracks.com^$third-party
 ||admon.pro^$third-party
 ||hot-count.com^$third-party
+||w55c.net^$third-party
 ||gratis-besucherzaehler.de^$third-party
 ||medipartner.jp^$third-party
 ||klamm-counter.de^$third-party
@@ -4386,6 +4459,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||track.aplaut.io^$third-party
 ||scaledb.com^$third-party
 ||nextstat.com^$third-party
+||webstats4u.com^$third-party
 ||analytics.audionow.de^$third-party
 ||esomniture.com^$third-party
 ||gopjn.com^$third-party
@@ -4397,6 +4471,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||edgeadx.net^$third-party
 ||ajur.info^$third-party
 ||trafikkfondet.no^$third-party
+||web-stat.net^$third-party
 ||easytarget.ru^$third-party
 ||indicia.com^$third-party
 ||pepperjam.com^$third-party
@@ -4433,6 +4508,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||intelligencefocus.com^$third-party
 ||persianstat.ir^$third-party
 ||exapxl.de^$third-party
+||vdna-assets.com^$third-party
 ||edigitalsurvey.com^$third-party
 ||netgraviton.net^$third-party
 ||edrone.me^$third-party
@@ -4451,6 +4527,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||gsecondscreen.com^$third-party
 ||inimbus.com.au^$third-party
 ||mobtop.com^$third-party
+||video.oms.eu^$third-party
 ||freestats.biz^$third-party
 ||shoplytics.com^$third-party
 ||captivate.ai^$third-party
@@ -4477,10 +4554,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||acs86.com^$third-party
 ||counter.gd^$third-party
 ||rang.com.ua^$third-party
+||vinlens.com^$third-party
 ||taxel.jp^$third-party
 ||dmzls.safe-installation.com^$third-party
 ||criteo.net^$third-party
 ||exmarkt.de^$third-party
+||web100kz.com^$third-party
 ||statistik-gallup.net^$third-party
 ||mediago.io^$third-party
 ||avastats.com^$third-party
@@ -4500,9 +4579,11 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||excpm.com^$third-party
 ||clickzs.com^$third-party
 ||event.getblue.io^$third-party
+||visitstreamer.com^$third-party
 ||topstat.com^$third-party
 ||sensor.org.ua^$third-party
 ||105app.com^$third-party
+||warlog.ru^$third-party
 ||netupdater.info^$third-party
 ||static.terratraf.io^$third-party
 ||site-submit.com.ua^$third-party
@@ -4511,6 +4592,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||cashburners.com^$third-party
 ||postaffiliatepro.com^$third-party
 ||toldyouso.lol^$all
+||wishloop.com^$third-party
 ||log22.makeshop.co.kr^$third-party
 ||pntrac.com^$third-party
 ||trafficfacts.com^$third-party
@@ -4518,6 +4600,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||slogantrend.de^$third-party
 ||massivemark.com^$third-party
 ||adblade.com^$third-party
+||xg4ken.com^$third-party
 ||snowplow-collector-*.amazonaws.com^$third-party
 ||advangelists.com^$third-party
 ||awin1.com^$third-party
@@ -4588,6 +4671,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||sitetracker.com^$third-party
 ||tracdelight.io^$third-party
 ||exitbee.com^$third-party
+||vmm-satellite1.com^$third-party
 ||zz.bdstatic.com^$third-party
 ||percentmobile.com^$third-party
 ||openinternetexchange.com^$third-party
@@ -4599,6 +4683,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||progaming.monster^$all
 ||roiservice.com^$third-party
 ||squidanalytics.com^$third-party
+||vertical-leap.net^$third-party
+||webflowmetrics.com^$third-party
 ||pubperf.com^$third-party
 ||goodcounter.org^$third-party
 ||aimediagroup.com^$third-party
@@ -4683,6 +4769,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tradelab.fr^$third-party
 ||kqzyfj.com^$third-party
 ||statad.ru^$third-party
+||verticalscope.com^$third-party
 ||scriptil.com^$third-party
 ||athenainstitute.biz^$third-party
 ||counterstation.de^$third-party
@@ -4705,6 +4792,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||inboxtag.com^$third-party
 ||ixiaa.com^$third-party
 ||revenuescience.com^$third-party
+||websitewelcome.com^$third-party
 ||my-ranking.de^$third-party
 ||zoomanalytics.co^$third-party
 ||everesttech.net^$third-party
@@ -4741,10 +4829,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||hitsniffer.com^$third-party
 ||ambercrow.com^$third-party
 ||infocollect.dk^$third-party
+||urstats.de^$third-party
 ||getsmartcontent.com^$third-party
 ||m6r.eu^$third-party
 ||trackjs.com^$third-party
 ||gaming-at-my.best^$all
+||tyxo.bg^$third-party
 ||yjtag.jp^$third-party
 ||affinitymatrix.com^$third-party
 ||logs.datadoghq.com^$third-party
@@ -4752,6 +4842,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tag4arm.com^$third-party
 ||innovateads.com^$third-party
 ||mlno6.com^$third-party
+||ubertags.com^$third-party
 ||etrigue.com^$third-party
 ||roosterfirework.com^$third-party
 ||reseau-pub.com^$third-party
@@ -4764,7 +4855,9 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tophits4u.de^$third-party
 ||treehousei.com^$third-party
 ||bigstats.net^$third-party
+||whoson.com^$third-party
 ||opentracker.net^$third-party
+||verypopularwebsite.com^$third-party
 ||heapanalytics.com^$third-party
 ||youcanoptout.com^$third-party
 ||adclicks.io^$third-party
@@ -4772,6 +4865,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||stiffstem.com^$third-party
 ||affiliateedge.eu^$third-party
 ||audsp.com^$third-party
+||x-traceur.com^$third-party
 ||fwpixel.com^$third-party
 ||godhat.com^$third-party
 ||botscanner.com^$third-party
@@ -4783,6 +4877,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tracker.metricool.com^$third-party
 ||logua.com^$third-party
 ||events.audioplace.me^$third-party
+||wikia-beacon.com^$third-party
 ||sunios.de^$third-party
 ||geocompteur.com^$third-party
 ||hybrid.ai^$third-party
@@ -4790,6 +4885,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||contemporaryceremonies.ca^$third-party
 ||stat-feedot.ru^$third-party
 ||free-website-hit-counters.com^$third-party
+||wpdstat.com^$third-party
 ||onestat.com^$third-party
 ||2no.co^$third-party
 ||track-mixer.ru^$third-party
@@ -4808,11 +4904,13 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||klldabck.com^$third-party
 ||pd.trysera.com^$third-party
 ||amadesa.com^$third-party
+||webvisor.ru^$third-party
 ||track.mp3vizor.com^$third-party
 ||trackedlink.net^$third-party
 ||retargeting.newsmanapp.com^$third-party
 ||arkayne.com^$third-party
 ||christmalicious.com^$third-party
+||dataunlocker.com^$third-party
 ||ipgrabber.ru^$third-party
 ||dtc-v6t.com^$third-party
 ||shrinktheweb.com^$third-party
@@ -4834,6 +4932,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||eulerian.net^$third-party
 ||gezinti.com^$third-party
 ||tapjoy.com^$third-party
+||wt-eu02.net^$third-party
 ||k50.ru^$third-party
 ||webiqonline.com^$third-party
 ||noodshare.pics^$all
@@ -4869,6 +4968,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||lfov.net^$third-party
 ||luminate.com^$third-party
 ||ad2iction.com^$third-party
+||visibility-stats.com^$third-party
 ||hotjar.io^$third-party
 ||servedbyopenx.com^$third-party
 ||analytics.kkb.com.tr^$third-party
@@ -4878,6 +4978,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||bnc.lt^$third-party
 ||uncn.jp^$third-party
 ||baptisttop1000.com^$third-party
+||webhits.de^$third-party
 ||countok.de^$third-party
 ||c1.politexpert.ru^$third-party
 ||omarsys.com^$third-party
@@ -4892,6 +4993,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||formisimo.com^$third-party
 ||usesfathom.com^$third-party
 ||99stats.com^$third-party
+||webtrack.biz^$third-party
 ||calameo-beacon.global.ssl.fastly.net^$third-party
 ||clickaider.com^$third-party
 ||lift.acquia.com^$third-party
@@ -4906,6 +5008,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||nik.io^$third-party
 ||interceptum.com^$third-party
 ||topdepo.com^$third-party
+||wstatslive.com^$third-party
 ||hs-scripts.com^$third-party
 ||dacounter.com^$third-party
 ||lytiks.com^$third-party
@@ -4979,13 +5082,16 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||husfly.com^$third-party
 ||freeusersonline.com^$third-party
 ||xyztraffic.com^$third-party
+||websiteceo.com^$third-party
 ||datam.com^$third-party
 ||catsnthings.fun^$all
+||webstat.no^$third-party
 ||analytics.sitewit.com^$third-party
 ||beusable.net^$third-party
 ||beam.koddi.com^$third-party
 ||adku.co^$third-party
 ||yamanoha.com^$third-party
+||twcount.com^$third-party
 ||simplycast.us^$third-party
 ||offerstrategy.com^$third-party
 ||statsadvance-01.net^$third-party
@@ -5007,6 +5113,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||snowsignal.com^$third-party
 ||bkvtrack.com^$third-party
 ||acuityplatform.com^$third-party
+||waplog.net^$third-party
 ||fathomseo.com^$third-party
 ||agilone.com^$third-party
 ||imagehost.pics^$all
@@ -5020,10 +5127,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||ptztvpremium.com^$third-party
 ||hitmatic.com^$third-party
 ||tagtray.com^$third-party
+||visitor-stats.de^$third-party
 ||zeotap.com^$third-party
 ||analyticswizard.com^$third-party
 ||track.adabra.com^$third-party
 ||ipmeta.io^$third-party
+||webtrekk-asia.net^$third-party
 ||afsanalytics.com^$third-party
 ||statsw.com^$third-party
 ||prodmp.ru^$third-party
@@ -5046,7 +5155,10 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||deep.bi^$third-party
 ||bstn-14-ma.com^$third-party
 ||gostats.com^$third-party
+||wrating.com^$third-party
+||uadx.com^$third-party
 ||piwik.org^$third-party
+||tanx.com^$third-party
 ||circle.am^$third-party
 ||evyy.net^$third-party
 ||rs6.net^$third-party
@@ -5094,6 +5206,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||iljmp.com^$third-party
 ||netratings.com^$third-party
 ||worldgravity.com^$third-party
+||euleriancdn.net^$third-party
 ||apollofind.com^$third-party
 ||mystats.nl^$third-party
 ||reachforce.com^$third-party
@@ -5117,6 +5230,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tetoolbox.com^$third-party
 .ay.delivery^
 ||c3tag.com^$third-party
+||webservis.gen.tr^$third-party
 ||dataunion.com.br^$third-party
 ||api.tomi.ai^$third-party
 ||rdstation.com.br^$third-party
@@ -5166,6 +5280,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||direct-events-collector.spot.im^$third-party
 ||pxi.pub^$third-party
 ||simplereach.com^$third-party
+||commandersact.com^$third-party
 ||imghost.pics^$all
 ||ext-inv-cdn.presage.io^$third-party
 ||relevant-digital.com^$third-party
@@ -5187,6 +5302,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||providence.voxmedia.com^$third-party
 ||countar.de^$third-party
 ||linezing.com^$third-party
+||userlook.com^$third-party
 ||silverpop.com^$third-party
 ||x.clearbitjs.com^$third-party
 ||user-stats.rbl.ms^$third-party
@@ -5207,6 +5323,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||stack-sonar.com^$third-party
 ||adsolutions.com^$third-party
 ||estadisticasgratis.com^$third-party
+||urlbrief.com^$third-party
 ||cityua.net^$third-party
 ||myfastcounter.com^$third-party
 ||infinigraph.com^$third-party
@@ -5242,6 +5359,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||luckyorange.net^$third-party
 ||gostats.ru^$third-party
 ||pstats.com^$third-party
+||vmmpxl.com^$third-party
 ||gostats.vn^$third-party
 ||xlisting.jp^$third-party
 ||talpa-analytics.$third-party
@@ -5266,6 +5384,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||c1exchange.com^$third-party
 ||easy.lv^$third-party
 ||maxymiser.com^$third-party
+||vidigital.ru^$third-party
 ||parkdomainreal*.site^$third-party
 ||ereportz.com^$third-party
 ||surveyscout.com^$third-party
@@ -5278,12 +5397,15 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||surfcounters.com^$third-party
 ||wtstats.com^$third-party
 ||cedexis.com^$third-party
+||usabilitytools.com^$third-party
 ||ipgraber.ru^$third-party
 ||blogmeetsbrand.com^$third-party
+||visitorjs.com^$third-party
 ||adagency.digital^$third-party
 ||counting4free.com^$third-party
 ||ganalytics.live^$third-party
 ||st.onlygip.tech^$third-party
+||webtraffic.se^$third-party
 ||e-contenta.com^$third-party
 ||seogift.ru^$third-party
 ||urbanairship.com^$third-party
@@ -5298,6 +5420,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||id5-sync.com^$third-party
 ||soska.us^$third-party
 ||ymetrica.com^$third-party
+||velaro.com^$third-party
 ||ad-plus.com.tr^$third-party
 //t100.ru^$third-party
 ||emjcd.com^$third-party
@@ -5307,8 +5430,11 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||hunt-leads.com^$third-party
 ||interhits.de^$third-party
 ||zerostats.com^$third-party
+||webtraffiq.com^$third-party
+||vtracker.net^$third-party
 ||prtracker.com^$third-party
 ||pa-oa.com^$third-party
+||vendri.io^$third-party
 ||googlerank.info^$third-party
 ||catsys.jp^$third-party
 ||atrack.avplayer.com^$third-party
@@ -5336,12 +5462,14 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||onelink.me^$third-party
 ||denakop.com^$third-party
 ||inpref.com^$third-party
+||videos.oms.eu^$third-party
 ||facil-iti.com^$third-party
 ||estrack.net^$third-party
 ||backend.turtlemobile.com.tw^$third-party
 ||360tag.net^$third-party
 ||convertro.com^$third-party
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
+||worldlogger.com^$third-party
 ||webtrendslive.com^$third-party
 ||pub.toku-tag.jp^$third-party
 ||tracking.lqm.io^$third-party
@@ -5375,7 +5503,10 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||imhd.io^$third-party
 ||webtrekk.com^$third-party
 ||a-counter.kiev.ua^$third-party
+||vihtori-analytics.fi^$third-party
 ||rdstation.com^$third-party
+||vertical-leap.co.uk^$third-party
+||w3counter.com^$third-party
 ||numerino.cz^$third-party
 ||smarterremarketer.net^$third-party
 ||trailheadapp.com^$third-party
@@ -5405,6 +5536,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||avencio.de^$third-party
 ||research-artisan.com^$third-party
 ||intergient.com^$third-party
+||webmeter.ws^$third-party
 ||leadforensics.com^$third-party
 ||dashboard.io^$third-party
 ||rtxpx-a.akamaihd.net^$third-party
@@ -5412,6 +5544,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||top-ro.ro^$third-party
 ||bonitrust.de^$third-party
 ||feedperfect.com^$third-party
+||visualrevenue.com^$third-party
 ||web-boosting.net^$third-party
 ||niftymaps.com^$third-party
 ||cleveritics.com^$third-party
@@ -5419,6 +5552,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||xcounter.ch^$third-party
 ||stat24.com^$third-party
 ||optimierung-der-website.de^$third-party
+||votistics.com^$third-party
 ||webstat.se^$third-party
 ||adcontroll.com^$third-party
 ||more-data.ru^$third-party
@@ -5428,13 +5562,16 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||driveniq.com^$third-party
 ||carts.guru^$third-party
 ||statsale.com^$third-party
+||visitor-track.com^$third-party
 ||cnzz.net^$third-party
 ||4oney.com^$third-party
 ||netdebit-counter.de^$third-party
 ||searchfeed.com^$third-party
+||virool.com^$third-party
 ||microcounter.de^$third-party
 ||top10sportsites.com^$third-party
 ||mengis-linden.org^$third-party
+||vizu.com^$third-party
 ||adx.com.ru^$third-party
 ||knowledgevine.net^$third-party
 ||site24x7rum.in^$third-party
@@ -5458,6 +5595,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||smartocto.com^$third-party
 ||fiksu.com^$third-party
 ||active-trk7.com^$third-party
+||webtrekk.net^$third-party
 ||analoganalytics.com^$third-party
 ||optify.net^$third-party
 ||consentag.eu^$third-party
@@ -5465,6 +5603,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||contentexchange.me^$third-party
 ||globase.com^$third-party
 ||lookit.cz^$third-party
+||usercycle.com^$third-party
 ||ws.audioeye.com^$third-party
 ||solutionshindsight.net^$third-party
 ||pulleymarketing.com^$third-party
@@ -5502,6 +5641,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||proofpositivemedia.com^$third-party
 ||monu.delivery^$third-party
 ||103bees.com^$third-party
+||waplog.mobi^$third-party
 ||hitmaster.de^$third-party
 ||treasuredata.com^$third-party
 ||octavius.rocks^$third-party
@@ -5547,12 +5687,15 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||bdash-cloud.com^$third-party
 ||leserservice-tracking.de^$third-party
 ||counterfire.info^$third-party
+||whoaremyfriends.net^$third-party
 ||bux1le001.com^$third-party
 ||pippio.com^$third-party
+||weblist.de^$third-party
 ||fruitflan.com^$third-party
 ||pulselog.com^$third-party
 ||iperceptions.com^$third-party
 ||tmvtp.com^$third-party
+||targetfuel.com^$third-party
 ||research-tool.com^$third-party
 ||rrimpl.com^$third-party
 ||statdb.pressflex.com^$third-party
@@ -5601,6 +5744,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||trackmyweb.net^$third-party
 ||cdn.memo.co^$third-party
 ||fugetech.com^$third-party
+||wisetrack.net^$third-party
 ||iplogger.co^$third-party
 ||visilabs.net^$third-party
 ||1pel.com^$third-party
@@ -5646,15 +5790,19 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||opbandit.com^$third-party
 ||marketo.com^$third-party
 ||haveamint.com^$third-party
+||webkatalog.li^$third-party
+||webtrends.com^$third-party
 ||pixeleze.com^$third-party
 ||counter.websiteout.net^$third-party
 ||heymatic.com^$third-party
 ||pingmeter.com^$third-party
+||wundercounter.com^$third-party
 ||rob.megaopen.ru^$third-party
 ||sciencerevenue.com^$third-party
 ||navrcholu.cz^$third-party
 ||aaddzz.com^$third-party
 ||alocdn.com^$third-party
+||upalytics.com^$third-party
 ||fpctraffic2.com^$third-party
 ||gravity4.com^$third-party
 ||ekmpinpoint.com^$third-party
@@ -5668,6 +5816,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||tinycounter.com^$third-party
 ||crazyegg.com^$third-party
 ||aidata.io^$third-party
+||valuedopinions.co.uk^$third-party
 ||mercent.com^$third-party
 ||unid.go.com^$third-party
 ||kerebro.com^$third-party
@@ -5677,6 +5826,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||guanoo.net^$third-party
 ||amunx.de^$third-party
 ||stellaservice.com^$third-party
+||virtualnet.co.uk^$third-party
 ||a.amnet.tw^$third-party
 ||cms.lv^$third-party
 ||eyein.com^$third-party
@@ -5699,10 +5849,12 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||insightgrit.com^$third-party
 ||pix.pub^$third-party
 ||crowdscience.com^$third-party
+||visitor-analytics.net^$third-party
 ||sedotracker.de^$third-party
 ||triggeredmessaging.com^$third-party
 ||hotrank.com.tw^$third-party
 ||sniphub.com^$third-party
+||visualdna.com^$third-party
 ||engine212.com^$third-party
 ||pixel.ad^$third-party
 ||bizible.com^$third-party
@@ -5717,6 +5869,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||azera-s014.com^$third-party
 ||quick-counter.net^$third-party
 ||ngmco.net^$third-party
+||woopra-ns.com^$third-party
 ||trackerhqu.com^$third-party
 ||optimix.asia^$third-party
 ||statcounterfree.com^$third-party
@@ -5770,6 +5923,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||plexworks.de^$third-party
 ||agillic.eu^$third-party
 ||referrer.org^$third-party
+||wysistat.com^$third-party
 ||crm-analytics.imweb.ru^$third-party
 ||email-match.com^$third-party
 ||landingpg.com^$third-party
@@ -5783,6 +5937,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||foreseeresults.com^$third-party
 ||incentivesnetwork.net^$third-party
 ||ipinyou.com.cn^$third-party
+||webglstats.com^$third-party
 ||research.de.com^$third-party
 ||tscounter.com^$third-party
 ||vyg.mobi^$third-party
@@ -5806,6 +5961,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||trackuity.com^$third-party
 ||aufp.io^$third-party
 ||referforex.com^$third-party
+||voicefive.com^$third-party
 ||cashcount.com^$third-party
 ||mywebstats.org^$third-party
 ||logentries.com^$third-party
@@ -5852,6 +6008,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||statun.com^$third-party
 ||rigelink.com^$third-party
 ||statcollector.sidearmsports.com^$third-party
+||users.51.la^$third-party
 ||optorb.com^$third-party
 ||res-x.com^$third-party
 ||cogmatch.net^$third-party
@@ -5903,6 +6060,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||cli2020.com^$third-party
 ||basicstat.com^$third-party
 ||retargetly.com^$third-party
+||vdoing.com^$third-party
+||visistat.com^$third-party
 ||uim.tifbs.net^$third-party
 ||hitstatus.com^$third-party
 ||supercounters.com^$third-party
@@ -5911,7 +6070,9 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||visilabs.com^$third-party
 ||contadorgratis.com^$third-party
 ||hotlog.ru^$third-party
+||vinsight.de^$third-party
 ||livestats.fr^$third-party
+||visadd.com^$third-party
 ||fouanalytics.com^$third-party
 ||dateing.club^$all
 ||refersion.com^$third-party
@@ -5922,6 +6083,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||pc1.io^$third-party
 ||spywords.com^$third-party
 ||telize.com^$third-party
+||wzrk.co^$third-party
 ||stippleit.com^$third-party
 ||trkn.us^$third-party
 ||piwik.pro^$third-party
@@ -5935,11 +6097,13 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||bid.run^$third-party
 ||cost1action.com^$third-party
 ||plugin.ws^$third-party
+||visitorville.com^$third-party
 ||mm7.net^$third-party
 ||globel.co.uk^$third-party
 ||tellapart.com^$third-party
 ||doubleverify.com^$third-party
 ||truehits.net^$third-party
+||webttracking.de^$third-party
 ||tdbc.redgalaxy.com^$third-party
 ||statok.net^$third-party
 ||awesomelytics.com^$third-party
@@ -5951,6 +6115,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||metricswave.com^$third-party
 ||die-rankliste.com^$third-party
 ||ladsp.com^$third-party
+||webcompteur.com^$third-party
 ||admitad.com^$third-party
 ||a1webstrategy.com^$third-party
 ||contentspread.net^$third-party
@@ -5958,6 +6123,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||s.srvsynd.com^$third-party
 ||hit2map.com^$third-party
 ||openvenue.com^$third-party
+||visioncriticalpanels.com^$third-party
 #@@||360.cn^$important
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
@@ -20759,7 +20925,6 @@ email.idecnet.com$image
 email.mailgun.terasmm.it$image
 email.mg.myekos.com$image
 ||yastatic.net/s3/distribution/yanalytics/yanalytics.js
-||webest.info^$third-party
 email.mail.powerstop.com$image
 horizon.theboxhouston.com$image
 email.beaumontco.com$image
@@ -20790,7 +20955,6 @@ email.whois.com$image
 email.exp.inthestyle.com$image
 email.marketing.altitudegilbert.com$image
 email.pomarrosacoffeelodge.com$image
-||veduy.com^$third-party
 ||sex-studentki.pro/system/stat/
 email.edoc.arrowheadgrp.com$image
 email.talenox.com$image
@@ -20906,7 +21070,6 @@ email.sierrastages.org$image
 ://top.*/count/cnt.php?
 ||ace.segye.com/?uid=
 email.kjbm.somaticbreathwork.com$image
-||visualwebsiteoptimizer.com^$third-party
 email.totalhomeloanoptions.com.au$image
 email.gr.helvetic-helga-us-group.com$image
 email.herenowhelp.com$image
@@ -20992,7 +21155,6 @@ mail.apmterminalsquetzal.com$image
 email.ceto.fi$image
 horizon.fourpins.com$image
 email.michaellyonsequine.com$image
-||veinteractive.com^$third-party
 email.kjbm.howtocontract.com$image
 email.mail.classicaltraders.com$image
 email.minertecnologia.com.br$image
@@ -21027,7 +21189,6 @@ email.starcare.net$image
 email.futuroeslatino.com$image
 ||vecer.com/js/remp.js
 @@||push2check.com/stats.php
-||vizury.com^$third-party
 email.mg.lglmail.net$image
 email.winterson.co.uk$image
 email.banett.no$image
@@ -21193,7 +21354,6 @@ email.capsulewardrobecollection.com$image
 email.mg.upmove.com.au$image
 @@||porntrex.com/*/?mode=async&action=js_stats&rand=$image,domain=porntrex.com
 email.esd.org$image
-||v3cdn.net^$third-party
 email.garrisonbrewing.com$image
 m4ex.com###footer-widget
 email.mg-eu.merinfo.se$image
@@ -21692,7 +21852,6 @@ mail.k12-leads.com$image
 horizon.cookingchanneltv.com$image
 email.ks.no$image
 e.mg.tomtoc.com$image
-||verypopularwebsite.com^$third-party
 email.pureandnaturalspices.com$image
 email.pixpamail.com$image
 email.m.yavin.com$image
@@ -22296,7 +22455,6 @@ email.withlome.com$image
 email.bernhoeft.movidesk.com$image
 @@||googletagmanager.com/gtm.js$domain=incehesap.com
 ||print24.com/api/*/analytics/
-||wzrk.co^$third-party
 email.heskem.org.il$image
 mail.thecentralamericagroup.com$image
 email.gh-mail.hometogo.com$image
@@ -22476,7 +22634,6 @@ email.mg.osbubble.com$image
 email.parceirospromo.com.br$image
 email.mailgun.varmepumpe.no$image
 email.mg.stacktdigital.com$image
-||visit.webhosting.yahoo.com^$third-party
 email.oerol.nl$image
 email.mg.goodsdisposalservice.com$image
 email.foundationsllc.onboardme.net$image
@@ -22808,7 +22965,6 @@ email.snapfitness.co.uk$image
 email.dripemail1.com$image
 email.vysl.playmetrics.com$image
 email.aimbase.discoverboating.com$image
-||visitorglobe.com^$third-party
 link.nbcmiami.com$image
 email.kjbm.superchargedfinance.com$image
 email.as3.dk$image
@@ -22866,7 +23022,6 @@ email.mg.vueops-qa.com$image
 email.talentboost.cloud$image
 email.ms.mynfres.com$image
 email.cp.tc$image
-||usabilla.com^$third-party
 email.constructivebc.com$image
 email.digest.pandadoc.com$image
 email.ep.magnusengdahl.se$image
@@ -22891,7 +23046,6 @@ email.mg.oregonsd.org$image
 email.kjbm.adamchankungfu.com$image
 email.concoursautosalon.com$image
 oceans-nadia.com##.gtm-bnr-rensai
-||webgains.com^$third-party
 ||160.16.86.134/rtools/*/r_counter.js
 ||indeed.com/api/v0/initialLog?
 email.avtech.cc$image
@@ -23188,7 +23342,6 @@ email.codewinds.com$image
 email.kjbm.cep-coaching.com$image
 email.topwork24.ru$image
 email.mail.festivaldellacreattivita.com$image
-||warlog.ru^$third-party
 sparkmail.kanakasprings.com$image
 email.iumy.com.br$image
 email.ghl.sylviaarotin.com$image
@@ -23355,7 +23508,6 @@ email.mail.gharsoaps.in$image
 email.williamsf1.com$image
 email.concourse.co$image
 email.kjbm.soulandintuition.com$image
-||x-traceur.com^$third-party
 email.mail.nicolasgatien.com$image
 link.solutionariesnetwork.com$image
 email.mail.bucketplace.net$image
@@ -23560,7 +23712,6 @@ email.replies.biggirlzmove.com$image
 @@||d31j93rd8oukbv.cloudfront.net/metrika/watch_*.js$domain=gazeta.ru
 email.evolvingautumn.com$image
 email.kjbm.christiankrause.com$image
-||userlook.com^$third-party
 email.iam.gram.edu$image
 email.pegasus.com.pe$image
 email.atlys.com$image
@@ -23611,7 +23762,6 @@ email.mg.wime.pro$image
 email.mail.heartalignedmember.com$image
 email.kessleralair.com$image
 email.mg.brokerbay.com$image
-||usabilitytools.com^$third-party
 email.ghost.blog.alexanderfyoung.com$image
 email.solsticio.creatorconnect.me$image
 email.aeg-powertools.eu$image
@@ -24216,7 +24366,6 @@ email.gh-mail.blenheimchalcot.com$image
 ||t24.com.tr/api/json/activity.php
 email.mail.panelshop.me$image
 email.mintsmilebar.com$image
-||visits.lt^$third-party
 email.tech-spartan.com$image
 email.mg.duroleads.com$image
 email.invibes.com$image
@@ -24346,7 +24495,6 @@ email.email.theatretrain.co.uk$image
 email.jobadder.imsaus.com.au$image
 email.reply.reddeninsurance.com$image
 ||vice-web-statics-cdn.vice.com/fonts/mtiFontTrackingCode.js
-||viralninjas.com^$third-party
 email.smtp.theodysseyonline.com$image
 ://ply.*/?v=$image,third-party
 email.kjbm.aquiseaprende.com$image
@@ -24998,7 +25146,6 @@ email.pfginc.com$image
 email.jakewilkins.com.au$image
 email.servier.com$image
 email.fantasticfacts.net$image
-||webtrack.biz^$third-party
 email.mg.williamnickman.com$image
 link.telemundo51.com$image
 email.jolacare.com$image
@@ -25776,7 +25923,6 @@ email.elodieshoes.com$image
 ||alicdn.com/f/pcdn/i.php?
 email.amz.com$image
 email.gh-mail.hiring.colabsoftware.com$image
-||vbanalytics.com^$third-party
 email.gh-mail.sonder.com$image
 email.mail1.learndeskmail.com$image
 email.surfdome.com$image
@@ -26739,7 +26885,6 @@ email.ca.podiatrybluemountains.com.au$image
 email.hello.thesummerhouse.in$image
 email.mail.safelyhq.com$image
 email.kjbm.guidingmindfulchange.com$image
-||websiteceo.com^$third-party
 @@||googletagmanager.com/gtm.js$domain=teddyfood.com
 email.methaenergia.com.br$image
 email.totalhealth.movidesk.com$image
@@ -26813,7 +26958,6 @@ email.vmotori.com$image
 ||odnaknopka.ru/stat.js
 email.kjbm.visualpiano.io$image
 email.gh-mail.angi.com$image
-||euleriancdn.net^$third-party
 email.kcncampgrounds.com$image
 link.news.mailplus.co.uk$image
 email.ezzewearstore.com$image
@@ -27650,7 +27794,6 @@ link.glamour.de$image
 track.mbuzz.io$image
 vps.ubilab.me$image
 email.lareina.myenotice.com$image
-||u5e.com^$third-party
 email.allgohike.com$image
 email.bookprintinguk.co.uk$image
 email.mailfromyourwebsite.com$image
@@ -27661,7 +27804,6 @@ email.kjbm.fitbrutal.com$image
 email.xyo.network$image
 link.adorama.com$image
 link.saveur.com$image
-||webtrafficagents.com^$third-party
 email.ultimaker.com$image
 email.p.panels.no$image
 email.descript.com$image
@@ -27914,7 +28056,6 @@ email.sure-shield.info$image
 email.app.applauz.me$image
 email.emailing.hotelesposeidon.com$image
 email.cryptowild.com$image
-||vivistats.com^$third-party
 email.mg.costamar.com.pe$image
 email.mg.iapac.org$image
 @@||analytics.digitalpfizer.com/js/prod/pcc/pf_appmeasurement.js$domain=pfizer-covid19-vaccine.jp
@@ -28571,7 +28712,6 @@ mail.mollyduggan.io$image
 email.camecolektia.com$image
 email.engg.ksu.edu$image
 email.kjbm.presence-active.org$image
-||urlbrief.com^$third-party
 email.promomail.casdep.com$image
 email.kjbm.homeschoolourway.com$image
 email.absolutefin.com.au$image
@@ -29005,7 +29145,6 @@ email.fpmleads.com$image
 email.figvt.com$image
 mailx.biolam59.ubilab.me$image
 email.email.emailsofiadate.com$image
-||vertster.com^$third-party
 email.evolutionimport.com$image
 email.covalco.es$image
 ||portalcms.bm5.pl/Stat/statystyki.aspx
@@ -29376,7 +29515,6 @@ email.justmop.com$image
 email.mg.curanet.dk$image
 email.mg.pack.ly$image
 email.alfonesltd.com$image
-||wywy.com^$third-party
 email.askthescientists.com$image
 email.mg.auxiinsurance.com$image
 /json/count?
@@ -29909,7 +30047,6 @@ email.heartland.webspecmail.com$image
 email.zippi.com.br$image
 email.clearviewfs.com$image
 @@||vaillant.de/inc/assets/js/webtrekk_$script
-||verticalscope.com^$third-party
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 email.go-van.com$image
 email.mail.tcgsniper.com$image
@@ -30236,7 +30373,6 @@ email.getupgraded.com$image
 email.jobadder.skillforcerecruitment.com.au$image
 email.kishcom.com$image
 email.reply.viomedspa.com$image
-||visitorjs.com^$third-party
 email.kjbm.ai-academy.com$image
 ||files.cdn.spilcloud.com/*_adomic_hb_analytic.js
 email.2fast4buds.com$image
@@ -30354,7 +30490,6 @@ email.essentiallandscapes.net$image
 email.kjbm.asreemployeeperks.com$image
 ||reformal.ru/log.php
 email.lc.bookkeeping.com$image
-||webtrekk.net^$third-party
 email.gh-mail.underarmour.com$image
 links1.mail.producthunt.com$image
 email.kjbm.simonhamptaux.com$image
@@ -30879,7 +31014,6 @@ email.notifications.citystoragesystems.com$image
 ||cdn3.net/pixe/
 @@||bdash-cloud.com/recommend-script/$script,domain=junonline.jp
 email.calzedoniagroup.movidesk.com$image
-||usuarios-online.com^$third-party
 email.pareassurances.com$image
 email.xo-game.com$image
 /cdn-cgi/pe/bag2?*piwik.js
@@ -31178,7 +31312,6 @@ email.hello.ladonnamcabee.com$image
 email.mail.get-yuno.com$image
 /2010/JS/AnalTrack.js^
 email.mg.protectmyappliance.com$image
-||webstat.com^$third-party
 email.kjbm.prowessprojecttraining.com$image
 email.lists.lexum.org$image
 email.crisis24.com$image
@@ -31377,7 +31510,6 @@ email.outgoing.oberd.com$image
 email.mg.carsdetailing.shop$image
 email.bman.happycustomer.io$image
 email.t.ticketmaster.com.mx$image
-||video.oms.eu^$third-party
 email.newlook.ua$image
 email.dapper.no$image
 ||pornbest.org/site/stat?
@@ -31741,7 +31873,6 @@ email.sounds-write.co.uk$image
 email.sudolio.io$image
 email.jungledisk.com$image
 email.candidates.cavallats.com$image
-||webtrekk-asia.net^$third-party
 email.co.glamefrance.fr$image
 email.reply.thecreditgod.com$image
 email.tradesmanstrust.com$image
@@ -32101,7 +32232,6 @@ mail.tips.stellarsleep.com$image
 email.crm.crmraptor.email$image
 email.kjbm.elevateyourphotography.com$image
 email.betterchoice.net.au$image
-||webtrends.com^$third-party
 email.kjbm.maggalife.com$image
 email.mowlavi.ca$image
 email.bnm.foldhealth.io$image
@@ -32276,7 +32406,6 @@ email.mg.wikicasa.it$image
 email.smartr.frontlinehobbies.com.au$image
 email.connect.myfunnel.co.in$image
 /google-analyticator/*$script
-||wa4y.com^$third-party
 email.appointments.rb-wellness.co.za$image
 email.kjbm.neuropost.com.br$image
 email.afdc.com$image
@@ -32372,7 +32501,6 @@ email.fabulousitem.com$image
 email.email.csgobig.com$image
 email.nyksund.no$image
 email.starcycleride.com$image
-||webstatistika.lv^$third-party
 email.schoolportraitart.com.au$image
 email.johnsautomotivecarelamesa.us$image
 ||huffpost.com/ping?
@@ -32499,7 +32627,6 @@ email.legalleconcursos.com.br$image
 mail02.limbsaver.happycustomer.io$image
 email.bhcsecretaries.co.uk$image
 mail.trujay.com$image
-||upstats.ru^$third-party
 email.tarrasoletang.com.au$image
 ||app.link/_r?sdk=*&callback=branch_callback
 @@||cdn.segment.com/analytics.js/v*/*/analytics.min.js$domain=learning.edx.org
@@ -32660,7 +32787,6 @@ email.email.throttlecrm.com$image
 email.careers.keshet-mediagroup.com$image
 email.akunacapital.com$image
 email.dorisdegen.com$image
-||www.hey.lt^$third-party
 ||tower.jp/bundle/beacon
 email.purebroadband.net$image
 email.triventi.wm-marketing.it$image
@@ -32671,7 +32797,6 @@ email.ninja-loans.com$image
 email.do-not-reply.seedyourbusiness.ca$image
 email.instapaper.com$image
 email.futurehawk.umes.edu$image
-||tapstream.com^$third-party
 email.newsletter.myhealthyhobby.co$image
 email.ltfsoft.com$image
 email.rikskampen.se$image
@@ -33433,7 +33558,6 @@ email.ghl.gdss.us$image
 email.vae.mundipharma.com$image
 email.mail.punkt.co$image
 email.betaplex.com$image
-||tanx.com^$third-party
 email.casetify.com$image
 email.melanie9069.elite360.io$image
 email.hannonmurphy.com$image
@@ -34637,7 +34761,6 @@ email.systeme.ma$image
 email.cleangames.ru$image
 link.u.sabiotrade.info$image
 email.mail.beeautomation.co.uk$image
-||whoseesyou.com^$third-party
 email.allbirds.com$image
 email.niagarapumphouse.ca$image
 @@||google-analytics.com/gtm/js?id=$domain=joblo.com
@@ -34654,7 +34777,6 @@ email.mail.plumbsociallearning.com$image
 email.reds.com$image
 @@||d1z2jf7jlzjs58.cloudfront.net/p.js$domain=nfl.com
 @@||cdn.segment.com/analytics.js^$domain=authenticate.trustpilot.com
-||webtraxs.com^$third-party
 sailthru.emagazines.com$image
 email.mail.blueoctopusmaritime.com$image
 email.mail.scbio.org$image
@@ -34774,7 +34896,6 @@ email.onapsis.com$image
 email.tucsonstorefixtures.com$image
 email.mail.genierocket.com$image
 email.cybernav.com$image
-||visitstreamer.com^$third-party
 ||synthira.ru/*.php|$script
 email.machaikchevy.machaikapps.net$image
 email.loanmarket.co.nz$image
@@ -35459,7 +35580,6 @@ email.mrantenna.com.au$image
 email.chat.expedia.de$image
 mg.techambition.com$image
 email.erfgoedcelleuven.be$image
-||woopra-ns.com^$third-party
 email.notifications.estatesales.net$image
 email.shop.dsrperformance.com$image
 email.portaljuris.com.br$image
@@ -36852,7 +36972,6 @@ email.dooleys-hotel.tpced.com$image
 email.mg.zippia.com$image
 email.drkampouris.com$image
 email.justsleep.com.tw$image
-||vtracker.net^$third-party
 email.kjbm.victorantonio.com$image
 email.notifications.probablygenetic.com$image
 email.mail.appingcsa.com$image
@@ -36903,7 +37022,6 @@ email.abrapos.org.br$image
 email.kjbm.learnchristmaslighting.com$image
 email.hondazoneparts.com$image
 email.info-ce.cepremium.com$image
-||w3counter.com^$third-party
 email.gd.signarama-greatneck.com$image
 email.forum.polygon.technology$image
 email.kleimail.com$image
@@ -37228,7 +37346,6 @@ email.ssicenter.pro$image
 @@||rt.rtoaster.jp^$image,domain=ec-store.net
 email.co.fibroid-tea.fr$image
 email.footballfanapp.com$image
-||visioncriticalpanels.com^$third-party
 /js/tracking-*.js$domain=cinkciarz.pl|conotoxia.com
 email.iupcrunchweb-send.com$image
 email.perspective-daily.de$image
@@ -37274,7 +37391,6 @@ link.hellobeautiful.com$image
 email.mg.voxremover.com$image
 email.qa2.mail.makanaplatform.com$image
 email.mg.deliciousacademy.nl$image
-||vmweb.net^$third-party
 email.reply.functionaltraininginstitute.com$image
 email.mm.edm-gbg.se$image
 @@||googletagmanager.com/gtm.js$domain=independent.co.uk
@@ -37638,7 +37754,6 @@ email.fitstopcleveland.gymleads.fit$image
 email.gh-mail.lily.ai$image
 email.mtc.ps$image
 email.cloudmailapp.net$image
-||web-counter.net^$third-party
 email.kjbm.becomingemotionallyhealthy.org$image
 email.replies.hallwaystories.com$image
 email.mg.quv.kr$image
@@ -37657,7 +37772,6 @@ email.wrmsoftware.com$image
 email.unsinc.com$image
 email.thepitttowndentist.com.au$image
 email.emails.obfgyms.com$image
-||xiti.com^$third-party
 email.fha.gov.ng$image
 email.mutek.org$image
 email.mail.apvstruck.vc$image
@@ -38145,7 +38259,6 @@ email.fatima.dk$image
 email.mg.kemok.tech$image
 /snowplow.*.js$domain=~snowplow.io
 email.mg.hotstockanalyst.com$image
-||websitewelcome.com^$third-party
 email.thongtinvacxin.com$image
 email.go.peopletruckinginsurance.com$image
 email.mediashop.cz$image
@@ -38738,7 +38851,6 @@ email.omail.idc.com$image
 email.shelcom.com.au$image
 email.swapfiets.com$image
 email.mail.webull.com$image
-||webglstats.com^$third-party
 email.newsletter.mydailybrain.co$image
 email.mail.pokergo.com$image
 intercom-mail.com/via/o?$image
@@ -39000,7 +39112,6 @@ email.sail-la-vie.com$image
 email.sovereignwealth.ch$image
 email.support.sandooksutras.com$image
 email.ebano.no$image
-||www.net.kg^$third-party
 email.cartoes.itau.com.br$image
 regroupemail.rccc.edu$image
 email.offor.co$image
@@ -39340,7 +39451,6 @@ email.mail.rootsud.fr$image
 email.viaevangelica.com.br$image
 email.kjbm.datastorytellers.training$image
 email.crossclothing.com$image
-||umbel.com^$third-party
 email.kjbm.intentionalbirth.co$image
 email.profreehost.com$image
 @@||d2.alternativeto.net/dist/*/piwik_*.png
@@ -39457,7 +39567,6 @@ email.sms-friend.co$image
 email.affinityclick.com$image
 email.chatterblock.com$image
 email.mg.romulation.net$image
-||wiredminds.de^$third-party
 email.prospiant.com$image
 email.highachievers.com$image
 email.westmin.playmetrics.com$image
@@ -40165,7 +40274,6 @@ email.jobposts.net$image
 email.mavnet.com$image
 email.reporting.biwiser.com$image
 email.campus.scalper.com.br$image
-||velaro.com^$third-party
 email.kjbm.tevasamorir.live$image
 email.noredink.com$image
 email.technext.it$image
@@ -40210,7 +40318,6 @@ email.wbais.myenotice.com$image
 email.bids.elelyon-networksio.com$image
 webmail.pureheavenly.happycustomer.io$image
 email.whiteinsurance.com$image
-||vertical-leap.co.uk^$third-party
 email.kediaorganic.com$image
 email.gdt.grazecraze.com$image
 email.floenvy.com$image
@@ -40228,7 +40335,6 @@ email.mkt.souldiveintoanewdimension.com$image
 email.techwisely.co.uk$image
 email.beardandbarnet.co.uk$image
 email.nysmi.com$image
-||visualrevenue.com^$third-party
 email.revive.be$image
 email.mailer-esb.com$image
 email.send.airplantdesignstudio.com$image
@@ -41495,12 +41601,10 @@ email.lerocknyc-site.email.getbento.com$image
 email.mg.robertshawandco.co.uk$image
 email.gh-mail.seesaw.me$image
 email.gh-mail.winhomeoffice.com$image
-||tyxo.bg^$third-party
 email.news.msb.nsw.edu.au$image
 email.kelly.foreverfree.co$image
 email.kjbm.thespiritnomad.com$image
 email.poundit.com$image
-||ubertags.com^$third-party
 ||googletagmanager.com/gtm.js$script,redirect=google-analytics_analytics.js,important,domain=m2o.it|deejay.it|capital.it
 email.10up.com$image
 email.iprocbtpn.pengadaan.com$image
@@ -41849,7 +41953,6 @@ email.emails.getmolo.com$image
 tracking.oxygenyogafitness.com$image
 email.kjbm.kathymccabelifecoach.com$image
 email.info.squigleyfinancial.com$image
-||visitor-track.com^$third-party
 email.ccnew.foody.com.cy$image
 ||s3.amazonaws.com/hcluster4^
 email.altfa.com$image
@@ -42583,7 +42686,6 @@ email.mg.i-to-i.com$image
 email.cart.jeffclarktrader.com$image
 email.kutkevich.org$image
 @@||media.ft.com/j/optimost-$domain=ft.com
-||uarating.com^$third-party
 email.gh-mail.send.technology$image
 email.my.bottcher.io$image
 email.boosting-lab.com$image
@@ -43782,7 +43884,6 @@ emailcio.izzigaming.com.br$image
 email.catira.com.br$image
 email.informationtechnologypros.com$image
 email.survivaltoolbox.net$image
-||webcompteur.com^$third-party
 ||dropbox.com/destiny_log
 email.datad0g.com$image
 nettiauto.com##+js(set-constant, listingGoogleEETracking, noopFunc)
@@ -43914,7 +44015,6 @@ email.lunarproductions.com$image
 email.wildtimecaribbean.com$image
 email.reply.smileagaindental.ca$image
 email.tupeloschoolscom.myenotice.com$image
-||vantage-media.net^$third-party
 @@||log.mmstat.com/eg.js$domain=youku.tv
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
 email.mailing.procfit.com.br$image
@@ -44157,7 +44257,6 @@ email.mail.singaporeairshow.com$image
 email.abihome.be$image
 email.teaguechokes.com$image
 email.pkqsb.com$image
-||vizisense.net^$third-party
 email.crypto-fundraising.info$image
 email.lag.cx$image
 email.f.producehealthy.com$image
@@ -44225,7 +44324,6 @@ email.ed-admin.com$image
 email.zakazlinz.ru$image
 email.gdvinsurance.com$image
 email.universitas123.com$image
-||visitorpath.com^$third-party
 email.heartsforhealthcare.ca$image
 email.jobadder.equiprecruitment.co.nz$image
 email.alfamart24.ru$image
@@ -44615,7 +44713,6 @@ email.chicagolab.myenotice.com$image
 email.mg.credacuity.com$image
 email.mg.kygunco.com$image
 email.drivertechnologies.com$image
-||xg4ken.com^$third-party
 email.hellobody.de$image
 email.replies.themaximizelife.com$image
 email.msg.cbdgroup.network$image
@@ -45013,7 +45110,6 @@ email.mtbhopper.abprotectorplus.com$image
 email.iccs.it$image
 ||dax.yle.fi/yya/event
 email.bloodsugarnhealth.com$image
-||vidigital.ru^$third-party
 email.rechat-mail.twelveriversrealty.com$image
 email.referetecnologia.movidesk.com$image
 email.mail.fitsys.com$image
@@ -45077,7 +45173,6 @@ email.docs.navient.com$image
 horizon.oregonlive.com$image
 email.mm.livetsgoda.se$image
 gh-email.lookout.com$image
-||vihtori-analytics.fi^$third-party
 email.capsulerx.com$image
 email.br.mudartitular.com$image
 email.carvajalonline.com$image
@@ -45098,7 +45193,6 @@ email.gd.signarama-allenpark.com$image
 email.dev.igraal.com$image
 email.mg.thenile.co.nz$image
 @@||google-analytics.com/analytics.js$domain=infoq.com
-||webmeter.ws^$third-party
 email.replies.o2-wellness.com$image
 email.simpsonmotorcyclehelmets.com$image
 email.thenewconcept.com$image
@@ -45237,7 +45331,6 @@ email.pubcrawls.com$image
 email.mail.manuales.mx$image
 @@||google-analytics.com/analytics.js$domain=cuk.pl
 email.mitglieder.albaberlin.de$image
-||wundercounter.com^$third-party
 email.rise.us$image
 email.betmoose.com$image
 email.dreamdinners.com$image
@@ -45268,7 +45361,6 @@ email.theatermakersstudio.co$image
 email.encuestas.tuopinion.net$image
 link.inman.com$image
 email.mg.launchmybiz.net$image
-||visitor-analytics.net^$third-party
 bellemag.e.aremedia.com.au$image
 pconline.pcvideo.com.cn##+js(set-constant, sensorsDataAnalytic201505.init, noopFunc)
 email.scm.wimbleballsc.com$image
@@ -45504,7 +45596,6 @@ email.send.businesscsajok.hu$image
 email.lentiamo.be$image
 email.send.lcmsgsndr.com$image
 email.ahava.com$image
-||uptime.monitorus.ru^$third-party
 email.snappyk.vsainc.com$image
 email.mytitaniumcards.com$image
 ||comcast.net/measurements/
@@ -45829,7 +45920,6 @@ email.stoops.223education.com$image
 email.jobadder.morcare.com.au$image
 email.cloudbilling.acronis.com$image
 email.mailgun.authenticimaging.com$image
-||vivocha.com^$third-party
 email.shirleybaxtercounselling.co.uk$image
 email.fina-direkt.com$image
 email.txn-gamma.compass.com$image
@@ -45888,7 +45978,6 @@ email.blumob.movidesk.com$image
 email.classicaz.com$image
 email.sbcoragulac.catholic.edu.au$image
 email.superiorinstrument.com$image
-||userneeds.dk^$third-party
 email.thankview.com$image
 ||beaconimages.netflix.net^$image
 email.regalooriginal.com$image
@@ -46140,7 +46229,6 @@ email.ca4.libertylinkus.com$image
 email.mg.getleadlion.com$image
 email.gulfshoresalgov.myenotice.com$image
 link.newsletters.hearst.com$image
-||visitortracklog.com^$third-party
 email.energy-enc.com$image
 email.kjbm.goldenmayediting.com$image
 email.cobford.com$image
@@ -46255,7 +46343,6 @@ email.campus3.fr$image
 email.mailgun2.assoconnect.com$image
 email-interact.kaizenams.com$image
 email.kjbm.jardindevie.com$image
-||wishloop.com^$third-party
 email.mg.bamlt.com$image
 email.gh-mail.yembo.ai$image
 email.email.switchrewardcard.com$image
@@ -46867,8 +46954,6 @@ email.superpixel.net$image
 email.mail.newwavehomecare.com$image
 ||clickiocdn.com/utr/$image
 email.insightautomotive.com$image
-||whoaremyfriends.net^$third-party
-||weblist.de^$third-party
 email.gh-mail.flighthub.com$image
 email.aperiatech.com$image
 email.reply.propertyinabox.net.au$image
@@ -47398,7 +47483,6 @@ email.summitdirectcapital.com$image
 email.mail.nomadcoders.co$image
 email.kjbm.badmarketingco.com$image
 email.mg.iremboston.org$image
-||visitorprofiler.com^$third-party
 email.discoverheidelberg.com$image
 ||nsandi.com/sites/all/themes/nsandi/js/webtrends_multitrack.js
 email.sephora.ae$image
@@ -48194,7 +48278,6 @@ email.la7.cbcoflosangeles.com$image
 home-learn.co.kr##+js(set-constant, eglc, noopFunc)
 email.pagedesk.com$image
 email.email.themarketerstoolkit.com$image
-||twcount.com^$third-party
 email.noreply.bitrue.com$image
 email.stjeromechrysler.activix.com$image
 email.vineyardfinancial.net$image
@@ -48567,7 +48650,6 @@ email.techtime.co.nz$image
 email.transactions-highwaycasino.com$image
 email.mg.asklinda.co.uk$image
 email.noreply.theself.club$image
-||valuedopinions.co.uk^$third-party
 email.kjbm.enhanced-body.com$image
 email.lewescycleshack.co.uk$image
 sparkmail.onemanhattansquare.com$image
@@ -48576,7 +48658,6 @@ email.mg.supergoedspaansleren.nl$image
 link.daytonainternationalspeedway.com$image
 email.mail.maebornillo.com$image
 e.emails.huffpost.com/o/p/$image
-||visualdna.com^$third-party
 email.forestparkschools.org$image
 cmail.trapcall.com$image
 email.kjbm.ghbci.org$image
@@ -48949,7 +49030,6 @@ email.toolsinmotionautoserviceairdrie.us$image
 email.chateauprime.com$image
 email.marinamatasaru.ro$image
 email.simplycook.com$image
-||visitlog.net^$third-party
 email.abdental.com.au$image
 ns2.ubilab.me$image
 email.alert.4bee.com.br$image
@@ -49742,7 +49822,6 @@ email.umail.connecticutjobdepartment.com$image
 email.notefolio.net$image
 email.mail.kenvanliew.com$image
 email.radarbot.com$image
-||wpdstat.com^$third-party
 a.mx.biocompiegne.ubilab.me$image
 email.info.barnet.gov.uk$image
 email.mg.circleonereferralclub.com$image
@@ -50125,7 +50204,6 @@ email.mailgun.thestar.com.my$image
 email.hooksettersupply.com$image
 email.rusgolf.ru$image
 email.mailer.pflanzmich.de$image
-||votistics.com^$third-party
 email.contractorexamschools.com$image
 email.degreethree.com$image
 email.dapper.com$image
@@ -50623,7 +50701,6 @@ email.woven.co$image
 email.newsletter.nutrifit.org$image
 email.brght.org$image
 track.manageartworks.info$image
-||ubertracking.info^$third-party
 email.dertouristik.cz$image
 horizon.turtlebeach.com$image
 email.zatar.nyc$image
@@ -51151,7 +51228,6 @@ mailgun.airtable.com$image
 email.mg.iamfashionglobal.com$image
 email.mail.loopreturns.com$image
 email.trans.ogaan.com$image
-||waudit.cz^$third-party
 email.companyfolders.com$image
 email.mg.celticarts.org$image
 email.mg.spline.design$image
@@ -51521,7 +51597,6 @@ email.musiclift.com$image
 email.lc.7einvestments.com$image
 email.scrapdelight.nl$image
 email.em.feedly.com$image
-||waplog.net^$third-party
 email.mg.combatsportsnow.com$image
 email.kjbm.buttercreampetals.com$image
 email.thekidsrightschangemakers.org$image
@@ -51538,7 +51613,6 @@ email.llcashback.com$image
 email.agency.realtycord.com$image
 email.rigocaro.com$image
 ||paypalobjects.com/web/res/*/js/summary-analytics.js
-||uadx.com^$third-party
 email.info.cepremium.com$image
 ||qoe-*.yottaa.net/*/configure.rapid.js$xmlhttprequest,redirect=noop.txt,domain=northerntool.com
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -51655,7 +51729,6 @@ email.elmetools.com$image
 email.pro-jerseys.com$image
 email.replies.traceydafoe.com$image
 email.shermanparty.com$image
-||webtraffic.se^$third-party
 audiobb.com##.sidebar > #custom_html-4
 email.mentonegirlsviceduau.myenotice.com$image
 email.the-whales-tail.tpced.com$image
@@ -51752,7 +51825,6 @@ email-cio.fable.co$image
 email.notifications.policygenius.com$image
 email.mg.expandfurniture.com$image
 email.prco.kortrijk.be$image
-||virool.com^$third-party
 email.shoppanther.com$image
 email.smartr.iharttoys.com$image
 email.desmeuleschrysler.activix.com$image
@@ -52506,7 +52578,6 @@ mail.guardianwp.com$image
 email.mail.enblocpress.com$image
 email.email.richard-clarke.co.uk$image
 link.newscientist.com$image
-||whosclickingwho.com^$third-party
 email.mg.prndoedeals.com$image
 email.ranxplorer.com$image
 @@||bam.nr-data.net^$xmlhttprequest,domain=abema.tv
@@ -52679,7 +52750,6 @@ email.kjbm.magickgoddess.com.au$image
 ||o.techmaniak.pl^$image
 email.lc.emgpublishinggroup.com$image
 email.m.vimonttoyotalaval.activix.com$image
-||woopra.com^$third-party
 email.starkprint.com$image
 email.andyet.com$image
 email.signmyemails.com$image
@@ -52820,7 +52890,6 @@ email.app.lynk.ie$image
 ||data-e0448d0e4a.herz-fuer-tiere.de/base.io
 link.herschel.ca$image
 email.naupdates.e.afterpay.com$image
-||web-stat.net^$third-party
 email.m.hackthebox.eu$image
 email.estateplanning567.com$image
 email.kjbm.lacierodriguez.com$image
@@ -52836,7 +52905,6 @@ link.abc-7.com$image
 email.epictech.ca$image
 email.eandlcleaningsolutions.org$image
 email.email.camp4211.co.uk$image
-||vdna-assets.com^$third-party
 email.mail.fertilitypro.com$image
 email.xd.com$image
 userstyles.org##+js(set-constant, poptin_display, noopFunc)
@@ -53072,7 +53140,6 @@ email.mail.emailcloud.info$image
 ||dis.criteo.com/dis/
 email.yogatuneup.com$image
 mx.mailgun.commpartners.com$image
-||dataunlocker.com^$third-party
 email.kjbm.grupoubique.com$image
 email.kjbm.thearttrotter.com$image
 email.mg.propertywebmasters.com$image
@@ -53439,7 +53506,6 @@ email.newjerseyregisteredagent.com$image
 email.ueber.biz$image
 email.o.recora.us$image
 email.credentialmanager.co$image
-||usercycle.com^$third-party
 email.kjbm.wholewomanhood.com$image
 @@||google-analytics.com/plugins/ua/ecommerce.js$domain=flyingv.cc
 email.mc.pmaschoolportraits.com$image
@@ -54041,7 +54107,6 @@ email.mg.south-plus.net$image
 email.solis.movidesk.com$image
 email.primedoc.co.uk$image
 email.mg.padeltennis.at$image
-||webtemsilcisi.com^$third-party
 to.mail.techtunes.io$image
 link.windsorstar.com$image
 track.email.qiniu.com$image
@@ -54395,7 +54460,6 @@ email.smirnoffsodacashback.com.au$image
 email.unbreakablegear.com$image
 email.coreyskleencutz.co.uk$image
 email.kjbm.sobyartacademy.com$image
-||webwise.org^$third-party
 email.sealinkrottnest.com.au$image
 email.saif-zone.com$image
 email.bitstarz.com$image
@@ -54685,7 +54749,6 @@ email.khanacademy.org$image
 email.quick-switch.com$image
 email.avmail3.com$image
 email.duane.virginiamortgageresource.com$image
-||urstats.de^$third-party
 link.chinalawandpractice.com$image
 email.johngaltsystems.com$image
 ||findme.ru/Counter$third-party
@@ -54698,7 +54761,6 @@ email.afar.com$image
 email.cloudscribe.com$image
 email.lc.leadengineai.com$image
 email.mail.kullanimkilavuzu.com.tr$image
-||whoson.com^$third-party
 email.campaign.cakeresume.com$image
 email.martha.mgamericantitle.com$image
 email.support.wizzardapp.com$image
@@ -55188,7 +55250,6 @@ email.mailgun.essencialbpms.com.br$image
 email.mg.fulcrum-advertising.com$image
 email.stratus-clean-ny.com$image
 email.volvotroisrivieres.activix.com$image
-||wisetrack.net^$third-party
 email.m1.canadamotorjobs.com$image
 email.iam-genius.org$image
 email.gestaomax.movidesk.com$image
@@ -55485,7 +55546,6 @@ link.360dx.com$image
 email.accesscomtech.com$image
 email.aioliwpb.com$image
 email.news.pedace.de$image
-||taps.io^$third-party
 email.tempersonalizados.com.br$image
 email.email.jumia.com.gh$image
 email.pss-russia.ru$image
@@ -56480,7 +56540,6 @@ email.gh-mail.miro.com$image
 email.gh-mail.creditkarma.com$image
 email.kjbm.drlisacooney.com$image
 email.kjbm.morningcoach.com$image
-||visitor-stats.de^$third-party
 email.mais.nz$image
 email.petfun4you.com$image
 email.mail.eqmac.app$image
@@ -56839,7 +56898,6 @@ email.mail.hays-emea.3storysoftware.com$image
 email.meditatevip.com$image
 email.odoo.taxelco.com$image
 email.betterinsurancefinder.com$image
-||webkatalog.li^$third-party
 email.axioshq.hennepinhealthcare.org$image
 email.shipper.sa$image
 email.mail-mg.mundopsicologos.com$image
@@ -57290,7 +57348,6 @@ salesforceiq.com/t.png$image
 email.activeofferworld.online$image
 email.marketing.webull.com.sg$image
 email.mg.karenhoyos.net$image
-||unknowntray.com^$third-party
 email.mg.v2.boa.gezondverzekerd.nl$image
 email.mg.businessflightpath.com$image
 email.gh-mail.ext.getpenta.com$image
@@ -57397,7 +57454,6 @@ email.leonorgreyl-usa.com$image
 vmail.eurofins-labazur-provence.ubilab.me$image
 email.gbl.hu$image
 email.inflowential.email$image
-||data.adobedc.net^$third-party
 email.aviles-analitica.com$image
 kalamazoo.townsquaremedia.info$image
 email.mg.showingsmart.com$image
@@ -57492,7 +57548,6 @@ email.mgal.sbermarket.ru$image
 email.logiscenter.com$image
 email.lc.ghlclientleads.com$image
 email.droghedahire.com$image
-||wunderloop.net^$third-party
 email.foleyandfitzgerald.com$image
 email.isn.com$image
 email.premiumqualityumbrellas.com$image
@@ -57751,7 +57806,6 @@ email.triviatodayemail.com$image
 ||d1gofkrkum4ehe.cloudfront.net/tracker.js
 email.bulk.reviews.walmart.com$image
 ||s3a.pstatp.com/toutiao/push.js
-||webstats4u.com^$third-party
 email.splashlearn.com$image
 email.mail.a2la.org$image
 email.haircair.co.za$image
@@ -58017,7 +58071,6 @@ email.mg.certify.one$image
 email.conservativewoman.com$image
 email.mg.blackarchholsters.com$image
 email.louisville-institute.org$image
-||visibility-stats.com^$third-party
 email.javabica.com$image
 email.cardfusion.co.uk$image
 email.oneillsbarberhouse.co.uk$image
@@ -58610,7 +58663,6 @@ email.smartr.klenspop.com$image
 email.support.danlingaya.com$image
 email.gh-mail.honorlock.com$image
 email.webinarsbyandy.com$image
-||webttracking.de^$third-party
 email.elektroretail.nl$image
 email.em.trustdice.win$image
 email.mg.mon-essence.fr$image
@@ -58731,7 +58783,6 @@ email.49s.fg-mail.com$image
 email.bmbe.be$image
 email.pattrns.com$image
 email.www.sightsource.net$image
-||uptracs.com^$third-party
 email.emails.physiotowellness.com.au$image
 ||glbimg.com/vendor/libs/comScore-*.min.js
 email.spectory.com$image
@@ -59066,7 +59117,6 @@ email.heidlerroofing.com$image
 email.hill-smith.co.uk$image
 email.myzombie.store$image
 email.dressupdeal.net$image
-||uzrating.com^$third-party
 email.mails.plannedway.com$image
 email.mail.tuvalabs.com$image
 email.vietkieu.com$image
@@ -59623,7 +59673,6 @@ email.gh-mail.travelperk.com$image
 email.mundal.org$image
 email.saegsrl.com$image
 /lunalys/analyzer/*
-||webhits.de^$third-party
 email.mg.rickysguitar.com$image
 email.mg.digitalagepatients.com$image
 email.mg.nerdlevel.io$image
@@ -60174,7 +60223,6 @@ email.mg.century21.com.au$image
 email.mg.esim.sm$image
 email.reply.pipelinepro.co$image
 email.gh-mail.winrock.org$image
-||vdoing.com^$third-party
 tracking.marketing.rushtranslate.com$image
 email.nominalia.com$image
 email.vanfin.com$image
@@ -60822,7 +60870,6 @@ email.mail.emseeliving.co.uk$image
 email.kjbm.dominatetestprep.com$image
 email.kjbm.alanpbrown.com$image
 email.stany.org$image
-||ventivmedia.com^$third-party
 email.informacion.fullcreditsweep.com$image
 email.popgear.com$image
 email.mail.haanum.com$image
@@ -61848,14 +61895,12 @@ email.mg.mybillbuster.co.uk$image
 email.portadelaidefc.com.au$image
 email.ontrayapp.com$image
 email.mg.play-re-play.com$image
-||visistat.com^$third-party
 email.oyez.org$image
 ||seesaa.net/common/track.gif^
 ||canvas.*.ac.*/page_views
 link.wearethemighty.com$image
 @@||stat.tiara.kakao.com/track?d=*%22%3A%22go_*%22%$domain=map.kakao.com
 email.mail.onlinemarketingupdatess.com$image
-||visadd.com^$third-party
 email.correo.davidsoto.co$image
 email.sgtravelbookings.com$image
 email.sitewiz.co.uk$image
@@ -61935,7 +61980,6 @@ email.hellosplice.com$image
 email.kjbm.galikklara.com$image
 email.fkpartners.com$image
 email.varianse.info$image
-||visibli.com^$third-party
 email.allerganaestheticspromotion.com$image
 email.alerts.elastic.co$image
 email.aumadvantage.com$image
@@ -62435,7 +62479,6 @@ email.realprorealestate.com$image
 email.bitly.com$image
 email.community.naimaudio.com$image
 email.mg.simonehenry.com$image
-||whoisvisiting.com^$third-party
 email.kjbm.reliance.school$image
 mailgun-email.fairwaymc.com$image
 email.osklen.com$image
@@ -62797,7 +62840,6 @@ email.romeinternationalschoolit.myenotice.com$image
 email.mail.prp.solutions$image
 ||daxab.com/cdn-cgi/beacon/
 email.my.boatlifeevents.com$image
-||vmm-satellite1.com^$third-party
 email.victussports.com$image
 email.mail.moreresults.co$image
 email.stopandshop.ecrebo.com$image
@@ -63080,7 +63122,6 @@ email.mg.leaptodigital.com$image
 email.elicpower.info$image
 ||istoe.com.br/@nave/gateway/reply?navtrackdata=
 email.varevolutionsoccer.playmetrics.com$image
-||webservis.gen.tr^$third-party
 email.adriasonline.it$image
 email.lc.bersejiwa.com$image
 email.mg.mattessam.co.uk$image
@@ -63191,7 +63232,6 @@ email.charteredfairworklegislation.com$image
 email.kroezen.nl$image
 email.acds.co$image
 email.ravensmere.co.uk$image
-||vendri.io^$third-party
 email.mail.breakinout.info$image
 email.concursosgg.com.br$image
 link.harpercollins.com$image
@@ -63521,7 +63561,6 @@ email.haveibeenpwned.com$image
 email.stunning.kr$image
 t.mail.onefeather.ca$image
 smtp.mailgun.net$image
-||vinsight.de^$third-party
 email.bodor.nl$image
 email.mailgun.raiolanetworks.es$image
 email.ourparks.org.uk$image
@@ -64746,7 +64785,6 @@ email.firstorion.com$image
 email.bdc-report.com$image
 email.kjbm.kamyata.de$image
 email.360imprimir.com$image
-||wrating.com^$third-party
 links.plivo.com$image
 ||connatix.com^*/pixel?
 @@||w88.go.com^$domain=abc.go.com
@@ -65142,7 +65180,6 @@ email.friendsonly.me$image
 email.shift.it$image
 ||sales-crowd.jp/js/sc-web-access-analysis.js
 ||cc.cc/visit_log_ajax/
-||wysistat.com^$third-party
 link.bespokepost.com$image
 email.cbdsense.de$image
 email.generalleathercraft.com$image
@@ -65167,7 +65204,6 @@ email.publicdocument.io$image
 @@||adobe.tt.omtrdc.net/rest/v1/delivery?client=adobe&sessionId=$domain=acrobat.adobe.com
 email.orcatv.com$image
 ||gateway.boredpanda.com/event^
-||voicefive.com^$third-party
 email.servicefinance.com.au$image
 email.paisnerlitvin.com$image
 email.beautyworks.co.uk$image
@@ -65229,7 +65265,6 @@ email.m2informatica.it$image
 email.delivery.kiaofbillings.com$image
 email.m.curaregroupinc.com$image
 email.notifications.amazingtalker.com$image
-||visitorville.com^$third-party
 email.mg.phantombuster.com$image
 email.popadppc.com$image
 email.notifications.crbox.cr$image
@@ -65291,7 +65326,6 @@ email.mailgun.fastic.com$image
 email.realesmart.co.nz$image
 email.aesauctions.org$image
 email.rivervalleyloans.com$image
-||vinub.com^$third-party
 email.email.hyundaimail.no$image
 email.childconnect.com$image
 email.thirdeye.mu$image
@@ -65394,7 +65428,6 @@ email.volvopartscounter.com$image
 @@||cdn.personaclick.com/shop_css/$domain=elektromarketim.com
 email.gamestart.asia$image
 email.greatpondpress.com$image
-||verticalsearchworks.com^$third-party
 email.kjbm.dopecontentonly.net$image
 email.mg.sofiahthom.com$image
 email.newsletter.tip.com.sg$image
@@ -65820,7 +65853,6 @@ email.kjbm.angela-murray.com$image
 email.mg.telegraphcoveresort.com$image
 mail.e-safer.com.br$image
 email.nettrust.ch$image
-||up-rank.com^$third-party
 email.emailing.villapalmarcancun.com$image
 email.esf.news$image
 email.work.co$image
@@ -66080,7 +66112,6 @@ email.billing.resurgens.com$image
 email.mg.nps.contmatic.com.br$image
 email.email.plutio.com$image
 eml.happycustomer.io$image
-||web100kz.com^$third-party
 email.bodyspec.com$image
 email.check-in.senator-hotels.com$image
 email.mg.parkwayfellowship.com$image
@@ -66270,7 +66301,6 @@ email.mypastimes.club$image
 email.smartr.myaderm.com$image
 @@||cdn.tagcommander.com/1491/tc_LaboutiqueLaPoste_6.js$domain=laposte.fr
 ||ocnk.net/include/access.php
-||wt-eu02.net^$third-party
 email.mg.businesshealthmarket.com$image
 email.undergrad.sfsu.edu$image
 email.isimple.net$image
@@ -66547,7 +66577,6 @@ email.simwood.com$image
 ||srv.onedio.com/track
 email.goldrush.perimeter.digital$image
 @@||google-analytics.com/analytics.js$domain=etcher.io
-||webtraffiq.com^$third-party
 /pixel.swf?
 ||tweakers.net^*&p=$image
 email.century21.co.nz$image
@@ -66568,7 +66597,6 @@ email.mg.corsidia.org$image
 email.mg.stockinvestorsnews.com$image
 email.shop.spatrendshop.hu$image
 email.email.winnrsc.com$image
-||worldlogger.com^$third-party
 email.atsg.com.br$image
 email.mg.agstaff.co.nz$image
 email.stratuscleaners.net$image
@@ -66630,7 +66658,6 @@ email.correo.hotelessantos.es$image
 email.dealer.rollick.io$image
 email.mail.franklinmarshall.org$image
 email.mg2.getdiscovered.com$image
-||vizu.com^$third-party
 email.mail.marketplace.tf$image
 email.justfashion.vip$image
 ||rmc-cx.api.rakuten.co.jp/*/web/events|
@@ -66782,7 +66809,6 @@ email.seenextu.com$image
 email.email.lyft.me$image
 email.speakerdeck.com$image
 email.ropestore.com.br$image
-||upalytics.com^$third-party
 email.campai.foerdergruppe-cc.de$image
 email.trixum.de$image
 email.cwsreal.com$image
@@ -67087,7 +67113,6 @@ email.mail.heartwoodpine.com$image
 email.ghost.savingsasaservice.com.au$image
 email.cartecadeau.leroymerlin.fr$image
 email.mg.jsimmigration.net$image
-||whitepixel.com^$third-party
 @@||eddiebauer.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js
 email.mail3.talkonlinepanel.com$image
 email.goriverwalk.com$image
@@ -67337,7 +67362,6 @@ email.mg.bazaraki.com$image
 @@||googletagmanager.com/gtm.js$domain=whatcar.com
 clicks.mg.hclglobal.com$image
 email.givingtreerealty.com$image
-||webcounter.co.za^$third-party
 email.mijnesjouwes.nl$image
 email.mg.arbi-grid.com$image
 mx.medilys.ubilab.me$image
@@ -67756,7 +67780,6 @@ links1.mail.seed.com$image
 email.lacomadreja.net$image
 email.support.bukiesignature.com$image
 email.mail.jimnealrealty.com$image
-||vinlens.com^$third-party
 email.44ideas.co.uk$image
 email.mg.india5000.com$image
 email.e.expandedge.io$image
@@ -68168,7 +68191,6 @@ email.kjbm.powerofvoiceacademy.com$image
 email.app.civfund.org$image
 email.oyna.no$image
 email.road2skoda.com$image
-||commandersact.com^$third-party
 link.insidehook.com$image
 email.mg0.4myteam.ca$image
 email.lyfemarketing.com$image
@@ -68225,7 +68247,6 @@ email.mg.growtok.com$image
 email.de.iperjob.com$image
 ||js.selfimg.com.cn/statistics/total.js
 email.mail.theactionsportsclub.com$image
-||vmmpxl.com^$third-party
 email.nortechlabsonline.com$image
 email.mail.caterdaddy.org$image
 email.r2.prestigelabs.com$image
@@ -68362,7 +68383,6 @@ email.mail.som-info.com$image
 mx3.mine.ubilab.me$image
 mail.segurospromo.com$image
 email.mail.cgfitness.fit$image
-||waplog.mobi^$third-party
 email.gh-mail.ghoststorygames.com$image
 email.perfectsnacks.com$image
 email.basstacklemaster.com$image
@@ -69037,7 +69057,6 @@ email.gatenbysanderson.com$image
 email.nasc.playmetrics.com$image
 email.rocca-clients.co.uk$image
 email.mail.inturotel.com$image
-||webforensics.co.uk^$third-party
 email.gh-mail.ext.careem.com$image
 link.vfiles.com$image
 email.canadianmortgageapp.com$image
@@ -69106,7 +69125,6 @@ email.mailtoshop.com$image
 email.mail.knasterr.com$image
 ||st.work.ua/js/site_counters-min_*.js
 link.theclose.com$image
-||viewar.org^$third-party
 email.replies.beachesdetoxification.co$image
 link.itworks.com$image
 ||support.huawei.com/enterprisesearch/3rdParty/opensource/analytics/
@@ -69222,7 +69240,6 @@ email.mauioil.com$image
 email.mailer.netjobs.com$image
 /t.gif?
 ||traders.co.kr/common/js/makePCookie.js
-||videostat.com^$third-party
 email.mazda-parts.com$image
 email.wowtea-customers.com$image
 email.mg.ovice.io$image
@@ -69583,7 +69600,6 @@ email.stuffle.com$image
 email.mg.sohhq.co.nz$image
 email.integratedtm.dev$image
 email.europasonic.com$image
-||wikia-beacon.com^$third-party
 email.thejunctionbroadstone.co.uk$image
 email.email.howmuchdv.net$image
 email.mail.thrivendesign.com$image
@@ -69700,7 +69716,6 @@ email.news.freedomnewsreport.com$image
 email.justbabybuys.com$image
 email.loyalty.pier1.com$image
 email.mail.leads.sg$image
-||webstat.no^$third-party
 email.email.unbreakablemanplan.com$image
 email.mg.gatlinstays.com$image
 email.formed.com$image
@@ -69887,7 +69902,6 @@ email.mg.iabcdallas.com$image
 email.northerngas.co.uk$image
 ||tresorit.com/page-init-tracking.*.js
 email.engd.co.kr$image
-||videos.oms.eu^$third-party
 email.mg.jessicaviera.com$image
 email.steelsupplylp.com$image
 email.stickies.co.il$image
@@ -70087,7 +70101,6 @@ email.msg.pubfnls1.com$image
 email.article-1.eu$image
 email.hireart.com$image
 @@||cdn.wazimo.com/engine/common/js/$domain=lastnighton.com
-||virtualnet.co.uk^$third-party
 email.replies.hammerlaneconsultants.com$image
 email.fuckbook.tv$image
 email.judaicapress.com$image
@@ -70914,7 +70927,6 @@ email.hello.minifeel.in$image
 email.mxn136.nissantracyca.com$image
 email.vibimobiliare.ro$image
 email.coachmans.vexall.rocks$image
-||ugdturner.com^$third-party
 @@||media.wazimo.com/favicons/$domain=lastnighton.com
 email.coverfx.com$image
 email.invio.playeasygrip.com$image
@@ -71012,7 +71024,6 @@ email.mg.findox.com$image
 email.amoparstore.com$image
 email.cawi-survey.com$image
 email.mail.vca365.nl$image
-||w55c.net^$third-party
 email.tehingukeskus.ee$image
 email.stevesautorepairtirewoodbridge.us$image
 email.xbillionskillslab.com$image
@@ -71177,7 +71188,6 @@ email.mg.parkstamps.org$image
 email.gem-online.net$image
 email.system.portchain.com$image
 @@||googletagmanager.com/gtm.js$domain=app.writesonic.com
-||vertical-leap.net^$third-party
 link.ted.com$image
 ||static-cdn.spot.im/production/topic-tracker/tags/*/topic-tracker.js
 email.kneeguru.co.uk$image
@@ -71295,7 +71305,6 @@ email.thealex.ru$image
 email.billing.millesima.com$image
 email.fitgym.pro$image
 email.fullypromoted.com.au$image
-||webvisor.ru^$third-party
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=fckrasnodar.ru
 email.localhyundaidealer.biz$image
 email.mg.lse.co.uk$image
@@ -71870,7 +71879,6 @@ email.kjbm.paulofvenus.com$image
 link.gmapp*.net$image
 email.soytoyotabc.com$image
 email.kjbm.cnrl.com$image
-||users.51.la^$third-party
 email.email.ahigherliving.com$image
 track.mail.hibid.com$image
 ||dr.dk/mu-online/api/*/reporting/
@@ -71989,7 +71997,6 @@ link.newyorkupstate.com$image
 ||community.checkpoint.com/beacon/$image
 email.raen.com.tr$image
 email.mg.attractwell.com$image
-||webstats.com^$third-party
 email.asistencia.franquiciasselectas.com$image
 email.mg.gsmpartscenter.com$image
 ||responder.wt.heise.de/resp/api/
@@ -72321,7 +72328,6 @@ email.geelongcats.com.au$image
 @@||images.apple.com/metrics/scripts/s_code_h.js$domain=apple.com
 email.minelist.kr$image
 email.nhgives.org$image
-||wildxtraffic.com^$third-party
 email.nis.myenotice.com$image
 email.varos.com$image
 email.iceam.org$image
@@ -72800,7 +72806,6 @@ email.parquelaforesta.queop.com$image
 email.system.contety.com$image
 dovetails.happycustomer.io$image
 email.bbassurantieservice.nl$image
-||webflowmetrics.com^$third-party
 email.email.senior-excel-specialists.com$image
 email.notify.rddigitalsolutions.com$image
 email.themathergroupllc.com$image
@@ -72982,7 +72987,6 @@ email.claimsjournal.com$image
 email.online.sunderland.ac.uk$image
 email.sterkfinancialservices.com$image
 email.e.mhu.edu$image
-||wstatslive.com^$third-party
 email.kjbm.mindivia.com$image
 email.fanaa.com.my$image
 email.snappyk.eliasonwealthmanagement.com$image
@@ -73363,7 +73367,6 @@ email.mail.azimedia.digital$image
 email.kupime.com$image
 email.mg.gorilladesk.com$image
 email.kustomkombi.com$image
-||targetfuel.com^$third-party
 email.mbelibrary.org$image
 email.mg.qrcodecreator.com$image
 link.tannico.com$image
