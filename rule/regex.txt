@@ -1,7 +1,11 @@
-# Update time: 2024-03-20 09:12:31
+# Update time: 2024-03-20 20:30:39
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -35,12 +39,9 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -124,7 +125,6 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -158,7 +158,6 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||xlog*-*.tiktokv.com^
 ||analytics*.prezly.com^
 ||collector-*.tvsquared.com^
 ||collect-v*.51.la^
@@ -167,15 +166,16 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||track.tiara.
+||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stat.tiara.
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.px-client.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -241,10 +241,10 @@
 ||142.91.159.
 ||23.109.87.
 ||spryptvqguhpwt^
+||xlog*-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mon-*.tiktokv.com^
 directtrack.*.js
-||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
