@@ -1,4 +1,4 @@
-# Update time: 2024-03-22 09:12:32
+# Update time: 2024-03-22 20:30:51
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -158,6 +158,11 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||bc.geocities.
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -175,11 +180,6 @@
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||mon*-*.tiktokv.us^
-||bc.geocities.
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
