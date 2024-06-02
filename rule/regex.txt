@@ -1,4 +1,4 @@
-# Update time: 2024-06-01 20:33:01
+# Update time: 2024-06-02 09:24:57
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -36,14 +36,13 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+||cas.*.criteo.com^
+||allsportsflix.
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||cas.*.criteo.com^
-||allsportsflix.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -77,6 +76,8 @@
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
@@ -127,7 +128,6 @@
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -165,6 +165,7 @@
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
+||stat.tiara.
 ||xlog*-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
 ||analytics*.prezly.com^
@@ -175,6 +176,7 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
+||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||mon*-*.tiktokv.us^
@@ -253,5 +255,3 @@
 ||spryptvqguhpwt^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
-||track.tiara.
-||stat.tiara.
