@@ -1,4 +1,4 @@
-# Update time: 2024-06-26 09:21:50
+# Update time: 2024-06-26 20:37:26
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -97,7 +97,6 @@
 ||analytics-api.dvdfab.
 ||app-analytics-*.snapchat.com^
 ||track.zalando.
-||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
 ||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
@@ -117,7 +116,6 @@
 ||cnt.vivatube.
 ||edgetrksvc.ebay.
 ||host*.rvshare.com^
-||collector-*.px-cdn.net^
 ||stats.zone-telechargement.
 ||cnt.tubeon.
 ||host*.polaroid.com^
@@ -144,7 +142,6 @@
 ||analytics*.carambo.la^
 ||collect-elb-*.amazonaws.com^
 ||gscounters.*.gigya.com^
-||collector-*.px-cloud.net^
 ||c*hit.zerkalo.io^
 ||events-api*.outfit7.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -166,6 +163,11 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||bc.geocities.
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -184,11 +186,6 @@
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
 ||mon*-*.tiktokv.us^
-||bc.geocities.
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
