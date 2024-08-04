@@ -1,4 +1,4 @@
-# Update time: 2024-08-04 09:37:26
+# Update time: 2024-08-04 20:34:37
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -36,12 +36,14 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||cas.*.criteo.com^
-||allsportsflix.
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||cas.*.criteo.com^
+||allsportsflix.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
 ||datacollector-*.dt.hicloud.com^
@@ -163,8 +165,6 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -175,14 +175,12 @@
 ||collector-*.tvsquared.com^
 ||mcs-va-*.tiktokv.com^
 ||px*.mediahills.ru^
-||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
-||mon*-*.tiktokv.us^
 ||ad*.nownews.com^
 ||bc.geocities.
 ||log-*.previewnetworks.com^
@@ -259,4 +257,6 @@
 ||142.91.159.
 ||23.109.87.
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||mon-*.tiktokv.com^
 directtrack.*.js
+||mon*-*.tiktokv.us^
