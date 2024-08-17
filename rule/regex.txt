@@ -1,4 +1,4 @@
-# Update time: 2024-08-16 20:37:39
+# Update time: 2024-08-17 09:24:03
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -36,12 +36,12 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||cas.*.criteo.com^
-||allsportsflix.
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||cas.*.criteo.com^
+||allsportsflix.
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||mapi-log.qoo*.jp^
@@ -173,14 +173,12 @@
 ||analytics*.prezly.com^
 ||collector-*.tvsquared.com^
 ||px*.mediahills.ru^
-||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
-||mon*-*.tiktokv.us^
 ||bc.geocities.
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
@@ -261,4 +259,6 @@
 ||sock*-goguardian.pusher.com^
 ||mcs-va-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||mon-*.tiktokv.com^
 directtrack.*.js
+||mon*-*.tiktokv.us^
