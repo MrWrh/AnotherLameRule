@@ -1,6 +1,7 @@
-# Update time: 2024-09-17 20:40:36
+# Update time: 2024-09-18 09:38:19
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -76,7 +77,6 @@
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||prebid-*.rubiconproject.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
