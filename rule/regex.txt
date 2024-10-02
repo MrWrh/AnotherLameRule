@@ -1,4 +1,4 @@
-# Update time: 2024-10-01 20:43:31
+# Update time: 2024-10-02 09:42:23
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -174,7 +174,6 @@
 ||pixel-*.convertagain.net^
 ||analytics*.prezly.com^
 ||collector-*.tvsquared.com^
-||mcs-va-*.tiktokv.com^
 ||px*.mediahills.ru^
 ||query*.petametrics.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -258,6 +257,7 @@
 ||142.91.159.
 ||23.109.87.
 ||xlog*-*.tiktokv.com^
+||mcs-va-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mon-*.tiktokv.com^
 directtrack.*.js
