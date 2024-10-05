@@ -1,4 +1,4 @@
-# Update time: 2024-10-04 20:41:34
+# Update time: 2024-10-05 09:41:23
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -164,30 +164,32 @@
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
 ||stat.tiara.
-||sock*-goguardian.pusher.com^
+||xlog*-*.tiktokv.com^
 ||pixel-*.convertagain.net^
 ||analytics*.prezly.com^
 ||collector-*.tvsquared.com^
 ||mcs-va-*.tiktokv.com^
 ||px*.mediahills.ru^
 ||query*.petametrics.com^
+||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
+||mon*-*.tiktokv.us^
 ||bc.geocities.
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
 ||ad*.nownews.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -257,8 +259,6 @@
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
-||xlog*-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||mon-*.tiktokv.com^
 directtrack.*.js
-||mon*-*.tiktokv.us^
