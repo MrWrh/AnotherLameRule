@@ -1,4 +1,4 @@
-# Update time: 2024-11-08 09:41:49
+# Update time: 2024-11-08 20:40:49
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -37,10 +37,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
 ||tracking.*.miui.com^
@@ -173,8 +169,10 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||mssdk*.zijieapi.com^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
@@ -182,7 +180,6 @@
 ||polaris*-normal-*.zijieapi.com^
 ||stat.tiara.
 ||tnc*.zijieapi.com^
-||sock*-goguardian.pusher.com^
 ||pixel-*.convertagain.net^
 ||log*.zijieapi.com^
 ||analytics*.prezly.com^
@@ -195,6 +192,8 @@
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||bc.geocities.
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
@@ -267,5 +266,6 @@
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
