@@ -1,4 +1,4 @@
-# Update time: 2024-11-16 20:40:18
+# Update time: 2024-11-17 09:53:15
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -43,6 +43,7 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||mapi-log.qoo*.jp^
@@ -139,7 +140,6 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -185,6 +185,7 @@
 ||polaris*-normal-*.zijieapi.com^
 ||stat.tiara.
 ||tnc*.zijieapi.com^
+||sock*-goguardian.pusher.com^
 ||pixel-*.convertagain.net^
 ||log*.zijieapi.com^
 ||analytics*.prezly.com^
@@ -269,6 +270,5 @@
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
-||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
