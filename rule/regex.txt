@@ -1,7 +1,11 @@
-# Update time: 2024-11-26 09:49:25
+# Update time: 2024-11-26 20:46:31
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -38,13 +42,8 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -144,6 +143,7 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -189,6 +189,7 @@
 ||polaris*-normal-*.zijieapi.com^
 ||stat.tiara.
 ||tnc*.zijieapi.com^
+||sock*-goguardian.pusher.com^
 ||pixel-*.convertagain.net^
 ||log*.zijieapi.com^
 ||analytics*.prezly.com^
@@ -273,6 +274,5 @@
 ||142.91.159.
 ||23.109.87.
 ||stepup99^
-||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
