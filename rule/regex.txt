@@ -1,11 +1,7 @@
-# Update time: 2024-12-15 20:42:21
+# Update time: 2024-12-16 09:56:29
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -42,9 +38,12 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -91,8 +90,6 @@
 ||batchlogging*-noneu.truecaller.com^
 ||mon*-misc-lf.fqnovel.com^
 ||imp-*.jampp.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
@@ -147,6 +144,7 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -185,6 +183,12 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+||bc.geocities.
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||mssdk*.zijieapi.com^
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
@@ -205,10 +209,6 @@
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
-||bc.geocities.
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -271,11 +271,11 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||stepup99^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+||stepup99^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
