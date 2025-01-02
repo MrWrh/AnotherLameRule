@@ -1,4 +1,4 @@
-# Update time: 2025-01-02 09:42:15
+# Update time: 2025-01-02 20:41:34
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
@@ -184,11 +184,16 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||bc.geocities.
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 |load.sgtm.
 ||collect-v*.51.la^
 ||tccd.douglas.
 ||rum*.a.trbcdn.net^
 ||polaris*-normal-*.zijieapi.com^
+||sock*-goguardian.pusher.com^
 |load.ss.
 |load.sst.
 ||thegreatesthits.
@@ -209,10 +214,6 @@
 ||collector*.ex.co^
 ||track.tiara.
 ||analytics*.clickdimensions.com^
-||bc.geocities.
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -281,6 +282,5 @@
 ||142.91.159.
 ||23.109.87.
 ||stepup99^
-||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
