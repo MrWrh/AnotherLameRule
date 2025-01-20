@@ -1,13 +1,7 @@
-# Update time: 2025-01-20 09:42:18
+# Update time: 2025-01-20 20:41:55
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
-||prebid-*.rubiconproject.com^
-||reachableads-av.*.amazonaws.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -43,9 +37,14 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+||reachableads-av.*.amazonaws.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
+||prebid-*.rubiconproject.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -148,6 +147,7 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 |piwik.
 ||pixel*.adswizz.com
@@ -176,6 +176,7 @@
 ||ad*.ettoday.net^
 ||eum*.instana.io^
 ||ads-dmp-collect.*.karrotmarket.com^
+||clickstream-*.homedepot.com^
 ||log*.aliyuncs.com^
 ||button.blogs.yandex.
 ||stat*.1internet.tv^
@@ -277,12 +278,12 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||stepup99^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+||stepup99^
 ||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
