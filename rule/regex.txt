@@ -1,4 +1,4 @@
-# Update time: 2025-01-22 09:42:28
+# Update time: 2025-01-22 20:41:33
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -171,6 +171,7 @@
 ||acr-*-prd.samsungcloud.tv^
 ||analytics.streamfab.
 ||auth-*.hismarttv.com^
+||collector-*.px-client.net^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad*.ettoday.net^
@@ -192,6 +193,7 @@
 ||tccd.douglas.
 ||rum*.a.trbcdn.net^
 ||polaris*-normal-*.zijieapi.com^
+||sock*-goguardian.pusher.com^
 |load.ss.
 |load.sst.
 ||thegreatesthits.
@@ -278,12 +280,12 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||stepup99^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
-||stepup99^
-||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+%2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
