@@ -1,8 +1,13 @@
-# Update time: 2025-02-10 20:42:31
+# Update time: 2025-02-11 09:42:38
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
 ||prebid-*.rubiconproject.com^
+||reachableads-av.*.amazonaws.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -39,14 +44,8 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||reachableads-av.*.amazonaws.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||ulog*.kwai-pro.com^
 ||datacollector-*.dt.hicloud.com^
@@ -94,8 +93,6 @@
 ||batchlogging*-noneu.truecaller.com^
 ||mon*-misc-lf.fqnovel.com^
 ||imp-*.jampp.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
@@ -129,6 +126,7 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||ce-global-track-*.amazonaws.com^
@@ -152,6 +150,7 @@
 ||stat*.1internet.tv^
 ||analyzer*.fc2.com^
 ||geoloc*.geovisite.ovh^
+||mssdk*.capcutapi.com^
 ||cnt.winporn.
 ||t*.zcvh.net^
 ||cs*.mp3bars.com^
@@ -199,11 +198,14 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 |load.sgtm.
 ||collect-v*.51.la^
 ||tccd.douglas.
 ||rum*.a.trbcdn.net^
 ||polaris*-normal-*.zijieapi.com^
+||sock*-goguardian.pusher.com^
 |load.ss.
 |load.sst.
 ||thegreatesthits.
@@ -296,7 +298,6 @@
 ||142.91.159.
 ||23.109.87.
 ||stepup99^
-||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
