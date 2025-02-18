@@ -1,4 +1,4 @@
-# Update time: 2025-02-17 20:44:04
+# Update time: 2025-02-18 09:42:34
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -49,6 +49,7 @@
 ||cas.*.criteo.com^
 ||allsportsflix.
 ||ulog*.kwai-pro.com^
+||hotapi*.tiktokv.us^
 ||mapi-log.qoo*.jp^
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
@@ -78,6 +79,7 @@
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||sonar*.xy.fbcdn.net^
+||t*.playdigo.live^
 ||mon*-platform-*.tiktokv.com^
 ||invenio_tracking_*.sgnapps.com^
 ||mcs-va-*.tiktokv.com^
@@ -92,6 +94,7 @@
 ||beacons*.gvt3.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||rtlog*.tiktokv.com^
+||use-trk*.bluevoox.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||log*-normal-useast1a.lemon8-app.com^
 ||flurry.agentportal-*.yahoodns.net^
