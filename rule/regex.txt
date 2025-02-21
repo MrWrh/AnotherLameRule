@@ -1,9 +1,9 @@
-# Update time: 2025-02-21 09:44:20
+# Update time: 2025-02-21 20:42:20
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
+||zbb.bbb.*.pics^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
-||zbb.bbb.*.pics^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -71,10 +71,10 @@
 ||log*-misc-lf.amemv.com^
 ||ulog*.kwaipros.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||gecko*.tiktov.us^
 ||mon*-*.tiktokv.us^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -136,6 +136,7 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
+||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||ce-global-track-*.amazonaws.com^
