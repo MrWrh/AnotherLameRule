@@ -1,9 +1,14 @@
-# Update time: 2025-02-25 09:46:06
+# Update time: 2025-02-25 20:44:09
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
+||reachableads-av.*.amazonaws.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -41,11 +46,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||reachableads-av.*.amazonaws.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
 ||ulog*.kwai-pro.com^
@@ -60,16 +60,17 @@
 ||rtlog*.tiktokv.us^
 ||log*-normal-*.tiktokv.us^
 ||hw-sh-pcdn-*.biliapi.net^
-||log*-applog-*.tiktokv.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
 ||appanalysis*.banggood.com^
 ||device-metrics-*.amazon.com^
 ||maas-*.phunware.com^
 ||admob-app-id-*.firebaseio.com^
+||mcs.*.tiktokv.com^
 ||fp-*it*.fengkongcloud.com^
 ||log*-misc-lf.amemv.com^
 ||ulog*.kwaipros.com^
+||log*-*.tiktokv.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||gecko*.tiktov.us^
 ||mon*-*.tiktokv.us^
@@ -81,11 +82,11 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||sonar*.xy.fbcdn.net^
 ||t*.playdigo.live^
-||mon*-platform-*.tiktokv.com^
 ||invenio_tracking_*.sgnapps.com^
 ||mcs-va-*.tiktokv.com^
 ||tracking-*.trnox.com^
 ||mon-*.tiktokv.com^
+||mon*-*.tiktokv.com^
 ||tnc*.tiktokv.us^
 ||snowplow-collector.
 ||batchlogging*-eu.truecaller.com^
@@ -308,6 +309,8 @@
 ||23.109.87.
 ||stepup99^
 ||sock*-goguardian.pusher.com^
+||mon*-platform-*.tiktokv.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
+||log*-applog-*.tiktokv.com^
