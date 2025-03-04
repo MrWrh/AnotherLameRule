@@ -1,9 +1,9 @@
-# Update time: 2025-03-04 09:47:55
+# Update time: 2025-03-04 20:44:45
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
-||zbb.bbb.*.pics^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
+||zbb.bbb.*.pics^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -75,6 +75,7 @@
 ||mon*-*.tiktokv.us^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -100,6 +101,8 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
@@ -134,7 +137,6 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||ce-global-track-*.amazonaws.com^
@@ -207,14 +209,11 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 |load.sgtm.
 ||collect-v*.51.la^
 ||tccd.douglas.
 ||rum*.a.trbcdn.net^
 ||polaris*-normal-*.zijieapi.com^
-||sock*-goguardian.pusher.com^
 |load.ss.
 |load.sst.
 ||thegreatesthits.
@@ -308,6 +307,7 @@
 ||142.91.159.
 ||23.109.87.
 ||stepup99^
+||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
