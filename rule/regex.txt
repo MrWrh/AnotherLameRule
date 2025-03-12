@@ -1,4 +1,4 @@
-# Update time: 2025-03-11 20:46:43
+# Update time: 2025-03-12 09:47:43
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -100,8 +100,6 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
@@ -209,6 +207,8 @@
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 |load.sgtm.
 ||collect-v*.51.la^
 ||tccd.douglas.
