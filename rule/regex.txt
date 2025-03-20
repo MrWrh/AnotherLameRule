@@ -1,9 +1,7 @@
-# Update time: 2025-03-20 09:48:56
+# Update time: 2025-03-20 20:44:07
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -48,6 +46,8 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ulog*.kwai-pro.com^
 ||grs.dbankcloud.
 ||hotapi*.tiktokv.us^
@@ -101,6 +101,8 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
@@ -235,13 +237,11 @@
 ||collector*.ex.co^
 ||track.tiara.
 ||analytics*.clickdimensions.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-||ad*.nownews.com^
 ||bc.geocities.
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
