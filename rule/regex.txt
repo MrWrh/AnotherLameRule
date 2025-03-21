@@ -1,7 +1,9 @@
-# Update time: 2025-03-20 20:44:07
+# Update time: 2025-03-21 09:50:55
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -46,8 +48,6 @@
 ||rgfftupf.
 ||cas.*.criteo.com^
 ||allsportsflix.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ulog*.kwai-pro.com^
 ||grs.dbankcloud.
 ||hotapi*.tiktokv.us^
@@ -76,6 +76,7 @@
 ||mon*-*.tiktokv.us^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -138,7 +139,6 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||ce-global-track-*.amazonaws.com^
@@ -216,7 +216,6 @@
 ||tccd.douglas.
 ||rum*.a.trbcdn.net^
 ||polaris*-normal-*.zijieapi.com^
-||sock*-goguardian.pusher.com^
 |load.ss.
 |load.sst.
 ||thegreatesthits.
@@ -224,6 +223,7 @@
 ||px*.mediahills.ru^
 ||pixelapi-*.cs.mysamba.tv^
 ||rum*.cdnvideo.ru^
+||install*.zonastat.com^
 ||mssdk*.zijieapi.com^
 ||browser-intake-*-datadoghq.com^
 ||stat.tiara.
@@ -232,7 +232,6 @@
 ||log*.zijieapi.com^
 ||analytics*.prezly.com^
 |load.gtm.
-||query*.petametrics.com^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
 ||track.tiara.
@@ -310,7 +309,9 @@
 ||142.91.159.
 ||23.109.87.
 ||stepup99^
+||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||query*.petametrics.com^
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
 click.official.infomaniak.com%2Fo%2F
