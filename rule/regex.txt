@@ -1,4 +1,4 @@
-# Update time: 2025-03-22 09:47:49
+# Update time: 2025-03-22 20:40:39
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -232,6 +232,7 @@
 ||log*.zijieapi.com^
 ||analytics*.prezly.com^
 |load.gtm.
+||query*.petametrics.com^
 ||stats*.videonow.ru^
 ||collector*.ex.co^
 ||track.tiara.
@@ -311,7 +312,6 @@
 ||stepup99^
 ||sock*-goguardian.pusher.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||query*.petametrics.com^
 %2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 directtrack.*.js
 click.official.infomaniak.com%2Fo%2F
