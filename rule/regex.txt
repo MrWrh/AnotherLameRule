@@ -1,4 +1,4 @@
-# Update time: 2025-03-24 20:48:17
+# Update time: 2025-03-25 09:51:28
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -76,6 +76,7 @@
 ||mon*-*.tiktokv.us^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -101,6 +102,8 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
@@ -109,7 +112,6 @@
 ||tracking.olx.
 ||adservice.google.
 ||analytics-api.dvdfab.
-||mssdk*.tiktokw.us^
 ||host*.carl-ras.dk^
 ||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
@@ -136,7 +138,6 @@
 ||apple-*.le.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||mobileanalytics.*.amazonaws.com^
 ||cnt.hd21.
 ||pixel*.adswizz.com
 ||ce-global-track-*.amazonaws.com^
@@ -176,7 +177,6 @@
 ||track.zalando.
 ||mcs-*.tiktok.com^
 ||t.delfi.
-||mssdk*.tiktokv.us^
 ||hstats*.hepsiburada.com^
 ||ubt.tracking.shopee.
 ||geoloc*.geo20120530.com^
@@ -201,17 +201,13 @@
 ||backstory.ebay.
 ||auth-*.hismarttv.com^
 ||eum*.instana.io^
-||mssdk*.tiktok.com^
 ||ads-dmp-collect.*.karrotmarket.com^
-||mssdk*.tiktokv.eu^
 ||button.blogs.yandex.
 ||collector.xhamster*.
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 |load.sgtm.
 ||collect-v*.51.la^
 ||tccd.douglas.
