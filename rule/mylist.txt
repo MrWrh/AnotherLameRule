@@ -1,6 +1,7 @@
 !-------------白名单---------------
 
-# @@||myqcloud.com^$important
+@@||myqcloud.com^$important
+@@||pdf.dfcfw.com^$important
 
 #图床
 @@||pic.imgdb.cn
@@ -25,3 +26,5 @@
 @@||amdc.m.taobao.com^$important
 
 !-------------黑名单--------------------
+
+||wifi.lead.com^
