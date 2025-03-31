@@ -57,6 +57,8 @@ application:
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/mv.txt' #乘风视频过滤规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt' #乘风通用过滤规则
       - 'https://easylist-downloads.adblockplus.org/fanboy-social.txt' #Fanboy's Social Blocking List 禁止社交媒体图标列表
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt' #cjx-annoyance
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjxlist.txt' #cjxlist
       # 整合
       #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
       #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
