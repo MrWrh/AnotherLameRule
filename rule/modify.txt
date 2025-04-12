@@ -1,4 +1,4 @@
-# Update time: 2025-04-11 20:47:29
+# Update time: 2025-04-12 09:49:38
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clickguardian.app^$third-party
@@ -556,6 +556,7 @@ yaociyuan.bid#%#//scriptlet('set-constant', 'killads', 'true')
 @@||slit.cn/source/plugin/unadblock/*.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=linetv.tw
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mcappx.com
+bilinovel.com#%#//scriptlet('set-constant', 'checkAndHandleAdBlock', 'undefined')
 hmanga.world#%#//scriptlet('prevent-fetch', 'method:HEAD')
 @@||moviesunuss.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/r*show_ads_impl.js$domain=alotof.software
@@ -609,6 +610,7 @@ game735.com##div[id^="ysmAD"]
 mpyit.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 @@.php?id=$script,domain=surirt.com
 ekamus.info#%#//scriptlet("prevent-setTimeout", "ins.adsbygoogle")
+bilinovel.com#@#.adv-box
 jkpan.cc#%#//scriptlet("abort-current-inline-script", "document.writeln", "\u")
 alotof.software#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 @@||getitfree.cn/wp-content/plugins/adunblocker/public/js/banner_ads_*.js
@@ -1903,6 +1905,7 @@ douyu.com,huya.com##a[href^="https://g.wan."]
 ||linkconnector.com/tr.php
 ||lottoelite.com/banners/
 ||aspencore.com/syndication/v3/partnered-content/
+||ibyteimg.com/obj/ad-$xmlhttprequest
 ||glam.com/app/
 ||any.gs/visitScript/
 ||contentexchange.me/widget/$third-party
@@ -2050,6 +2053,7 @@ douyu.com,huya.com##a[href^="https://g.wan."]
 ||shorte.st/link-converter.min.js
 ||t.babelmedia.global^$third-party
 ||shopmyshelf.us^$third-party
+||autoembed.cc/vast/vast3.xml
 ||hostmonster.com/src/js/$third-party
 ||bit.ly^$script,domain=dailyuploads.net|freeshot.live
 ||zergnet.com/zerg.js
@@ -30880,6 +30884,7 @@ lbx777.com,lbx777.net##table[width="325"][height="280"]
 @@||mmgd.xyz^$generichide
 @@||bagehd.com/iplookup.
 aihami.com##.context_ad
+||djdedu.net/static/*.gif
 ||dftoutiao.com/ssp/
 ahtv.cn,sexbarss.net##.l1
 ##.mobadsq
