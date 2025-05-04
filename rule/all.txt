@@ -1,4 +1,4 @@
-# Update time: 2025-05-03 20:43:40
+# Update time: 2025-05-04 10:06:24
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ads.tvb.com^
 ||one.fsylr.com^
@@ -182,286 +182,6 @@ baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar)
 app.n26.com#@#.bl > .gg
 @@||mcc.xunliandata.com/mci-reward/static/img/ad.
 @@||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-||img.911787.com^
-||chushoushijian.cn^$third-party
-||y.21haodianmt.com^$third-party
-||n55ylc001.vip^
-||156.233.32.123^$third-party
-||adserve.work^$third-party
-||ef9i0f3oev47.com^
-||xjwhtz6.com^
-||ee.m08pe.cn^$third-party
-||bobobo6688.top^
-||zhengliyqq.com^
-||xiaoshuotxt668.org^
-||mernrza.com^
-||hfisngksng.com^
-||shilian168.cn^$third-party
-||gzzkjdam.cn^$third-party
-||vip.ludu319.com^$third-party
-||p.eikuaitao.com^$third-party
-||lnhsjob.com^$third-party
-||cos1999.top^
-||lh49dki80.com^
-||dns.chuzushijian.cn^$third-party
-||1x5jlh.xyz^$popup
-||zjgfq.com^$third-party
-||bbk5921.yncjsc.cn^$third-party
-||a.dlads.cn^$third-party
-||b10.justacdn.net^
-||002777.xyz^
-||jciwztfj.com^
-||cnzz.991yue.com^$third-party
-||aizhantj.com^
-||gzhying1.cn^$third-party
-||kolsh.cn^$third-party
-||996js123.com^
-||adbottw.net^$third-party
-||xxl.bt-xd.com^$third-party
-||d2kadvyeq051an.cloudfront.net^$third-party
-||1iuh5l.com^
-||xjwhtz4.com^
-||cdn.holmesmind.com^$third-party
-||qichetuoyun.com.cn^$third-party
-||trenhdg.com^$third-party
-||xxsmtz3.com^
-||xn860wu.vlxue.cn^
-||j.sdqoi2d.com^$third-party
-||fam-8.net^$third-party
-||renrenkanpian.com^
-||local.hniux.cn^$third-party
-||dfqzah.xyz^
-||xxsmtz8.com^
-||sikncs.com^
-||itadapi.ithome.com.tw^
-||dian.brecm.xyz^
-||byscy.cn^$third-party
-||chinagcdxyjng.cn^$third-party
-||tfcdn.jingmiuyyds.com^$all
-||d.6xw.com^
-||zsyk91.cn^$third-party
-||szjyfund.com^$third-party
-||a.breaktime.com.tw^$third-party
-||xjwhtz8.com^
-||ofd.meng-an.cn^$third-party
-||98765.pw^
-||m.m216j.cn^$third-party
-||n55cpw.vip^
-||adotone.com^$third-party
-||tu2.taohuaimg.com^$third-party
-/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
-||ad.886112.xyz^
-||web-ad.xyz^$third-party
-||huaerdadi.com^$third-party
-||cadke.xyz^
-||666hh999gg.com^
-||luolitang.com^$third-party
-||2cnjuh34jbman.com^$third-party
-||ig66.vip^
-||xxsmtz6.com^
-||shouldercommandmentlimitless.com^
-||pxx.tnklrs.cn^$third-party
-||kebi1.top^$third-party
-||eq.af31f.site^
-||yeyemo4.com^$third-party,image
-||ig65.vip^
-||bilec.xyz^
-||zs.rzijjeb.cn^
-||nzydzsw.com^$third-party
-||count.xxxssk.com^$third-party
-||xpjcg.oss-accelerate.aliyuncs.com^
-||0351dvd.cn^$third-party
-||a32a.com.cn^$third-party
-||mgzjin.cn^$third-party
-||cdntlz.cn^$third-party
-||sdofp9c.cddrhx.cn^$third-party
-||qxwoiv.com^
-||sogo.uc.continuefaf.top^$third-party
-||dpjzr.top^
-||files.xtpag.top^
-||776.jstatic.xyz^
-||x.dmouy.cn^$third-party
-||beacher56.xyz^
-||dadatuwz.com^
-||ulukaris.com^$third-party
-||img.175532.com^
-||ydxdg.xyz^
-||zhongwangmy.cn^$third-party
-||zxptw.cn^$third-party
-||dkweuy.com^
-||87uq.com^$third-party
-||theweeklydonut.org^
-||aziekg.xyz^
-||adbot.tw^
-||jgstny.com^$third-party
-||1s8pj.cn^$third-party
-||u40pdqw.com^
-||mg.xhkvff.cn^
-||aafns.xyz^
-||fuoo1.top^$third-party
-||qxaz2xcw.com^
-||uu8811uu.com^
-||99886aaa.com^
-||xxsmtz7.com^
-||tongbaimi.cn^$third-party
-||dr.mlcuzee.cn^
-||lafacw.xyz^
-||xxsmtz1.com^
-||sofseo.cn^$third-party
-||og.zyzjpx.cn^$third-party
-||ziweuu.com^
-||yruadj.top^
-||pop.wioau.com^$third-party
-||jcreje.com^
-||m.nanyangqiaoxiang.cn^$third-party
-||ymdxl.com^
-||yitongfang.com^$third-party
-||tu0379199038.cc^
-||sx.fakjkwp.cn^
-||zbb.bbb.*.pics^
-||7daystodie.cn^$third-party
-207.148.44.179$network
-||ra5.xyz^
-||xjwhtz7.com^
-||ysx8.vip^$third-party
-||rz261.cn^$third-party
-||n0611.com^
-||haoxxwang.com^$third-party
-||tp4sul.jwzd.com.cn^
-||power.adhacker.online^$third-party
-||mdfsbn.com^$third-party
-||wap.hfoyjg.cn^$third-party
-||m.ailezhai.cn^$third-party
-||qienews.cn^$third-party
-||yxgfcj.com^$third-party
-||192.151.218.66^$third-party
-||xjwhtz10.com^
-||acgshenshicha.cn^$third-party
-||cdxyb.cn^$third-party
-||tagtoo.co^$third-party
-/^https:\/\/[a-z0-9-]{3,12}\.[a-z0-9]+\.com\/([A-Za-z0-9.]+)(?:\/([A-Za-z0-9.]+))?\.\d{4}\.(doc|docx|html|jpeg|jpg|js|json|odf|pdf|png|ppt|psd|rtf|shtml|sxml|txt|wedp|wps|xml|xps)\?\d{13}$/$third-party,match-case
-||lh1dki82.com^
-||tu5551976196.cc^
-||cengqinglin.cn^
-||okmwfq.xyz^
-||hbzjht.com^$third-party
-||d24fnxkxwarvg8.cloudfront.net^
-||9kh5b.cn^$third-party
-||st-fly.b-cdn.net^
-||krbulhb.com^
-||fq67.top^
-||ce.wlaoc.cn^$third-party
-||c.pcswtw.cn^$third-party
-||m.gongzhilian.com.cn^$third-party
-||jp.twww.sbs^
-||dat1.jzjxmj.com^$third-party
-||muxingkj.com^$third-party,image
-||cdn.upthinking.cn^$third-party
-||jsckjqr.com^$third-party
-||pnez8.rut6m.xyz^
-||avspda.xyz^$third-party
-||ahejtw.onelink.me^$third-party
-||oaftaijo.net^$third-party
-||vzttq.brfvyrrp.com^$all
-||koudaiyundong.com^$third-party
-||mc.mwgpg.cn^
-||kkkjpg-522.cc^$third-party
-||p.wktfkj.com^$third-party
-||web.51fishplace.com^$third-party
-||kqzyfj.com^
-||a.tyncar.com^
-||xxsmtz9.com^
-||r528e.cn^$third-party
-||fpoyvjgdm.com^
-||tngmn.com^$third-party
-||xxsmtz2.com^
-||cxdcn9c.fjshxjs.cn^$third-party
-||t.yzwr588.com^$third-party
-||spl.ztvx8.com^$third-party
-||daliantong.com.cn^$third-party
-||666579.xyz^
-||youqunjx.com^$third-party
-||xj-oss.com^
-||safe524.xyz^$third-party
-||dwyeuy.com^
-||yu.dlxxjsh.top^
-||ra1.xyz^
-||xjwhtz5.com^
-||m.21haodianmt.com^$third-party
-||remehealth.net^$third-party
-||afqgqg4e.com^
-||fjuga.top
-||kai5741.xyz^
-||u.xogu.cn^$third-party
-||m.91heima.cn^$third-party
-||yijuxie.com^$third-party
-||m.qhxcdmfj.cn^$third-party
-||img.qxwoiv.com^
-||cg-pao-tu.nanyanglk.com^
-||1200555.com^
-||noafoaji.xyz^
-||xxsmtz5.com^
-||zhibo128x1.xyz^
-||xjwhtz2.com^
-||ue8im.com^
-||mlstx.cn^
-||wkzw.me^
-||jg1668.com^$third-party
-||mscs.svaeuzh.cn^$third-party
-||yclxrj.top^$third-party
-||uu3192uu.com^
-||awoudsoo.xyz^
-||vip.min1319.com^$third-party
-||73652253191.com^$third-party
-||wildwist.com^
-||pm.poqwua.cn^
-||phk.nmkstcrt.xyz^
-||ad.ettoday.net^$redirect=nooptext
-||fanzhuang.net.cn^$third-party
-||v.pcswtw.cn^$third-party
-||1990tu.com^$third-party
-||telecome.cn^
-||hlstlyy.com^$third-party
-||k2n0f.cn^$third-party
-||ddgjjj.com^$third-party
-||ig67.vip^
-||zhy333.com^$third-party
-||ouiokaq.top^
-||bjjabc.com^$third-party
-||hnyishidengbao.com^$third-party
-||cnzz.yifenghuyu.com^$third-party
-||i3535.com^$third-party
-||joiwnq2.cn^
-||m.ercos.cn^$third-party
-||yinyouapp.com^
-||cosmo202.top^
-||app2.10090dfs.com^
-||ggsfq.xyz^$third-party
-||qguwoq.cn^$third-party
-||taoguohe.com^$third-party
-||dun8qk8.lkmxqq.com^
-||sm-cloud.yunsafe.top^
-||xjwhtz9.com^
-||ad.zui.com^
-||pv.dakawm.cc^$third-party
-||xn--mts60is5y5uk.com^
-||mm.wxc.cc^
-||js.xz6d.com^$third-party
-||xxsmtz10.com^
-||xxsmtz4.com^
-||xn--2ss830adjbqy7h.xn--fiqs8s^
-||soorbka.cn^$third-party
-||23.224.89.2^$third-party
-||xjwhtz3.com^
-||8jrc564wtf.cn^$third-party
-||kmqianneng66.com^
-||p97387hj.xyz^
-||w94.1qlgi.top^
-||sncop.uioozpxq.com^$all
-||cwmlm.com^$third-party
-||26gg.bnq86.com^$third-party
-||wl.uqwjdhgv.top^
-||dhkqqe.top^
 ||marafonec.com/jquerys.js
 vkcdnservice.appspot.com^$third-party
 .ru/jquerys.js
@@ -470,10 +190,13 @@ vkcdnservice.appspot.com^$third-party
 ||mepirtedic.com^$third-party
 .su/jquerys.js
 .net/jquerys.js
+||coinpot.co^$third-party
 ://mine.torrent.pw^
 ||rocks.io^$third-party
 ||vuryua.ru^$third-party
 ||zona.plus/*.php|
+||hemnes.win^$third-party
+||becanium.com^$third-party
 ||sweetbook.net/templates/skin/sweetnew/js/internal.js
 ||coin-have.com^$third-party
 ||pampopholf.com^$third-party
@@ -481,10 +204,13 @@ vkcdnservice.appspot.com^$third-party
 ||bmwebm.org^
 ||vidzi.tv/plays.js
 ||statdynamic.com^$third-party
+||coinpirate.cf^$third-party
 .info/jquerys.js
 ||thepiratebay-proxylist.se/filter$websocket
 ||jsfiddle.net^$important,domain=7torr.com
 ||party-vqgdyvoycc.now.sh^$third-party
+||acbp0020171456.page.tl^
+||crypto-loot.com^$third-party
 ||s3.amazonaws.com/imgint/aaz.js
 .n.2.1.l60.js^$third-party
 ||fili.cc/assets/libs/mank/webmr.js
@@ -495,10 +221,13 @@ vkcdnservice.appspot.com^$third-party
 ||freecontent.date
 ||intersportv.com/canli-mac-yayinlari/wp-content/uploads/*/jZxl_2.js
 ||archer0*.tk:*/
+||coinrail.io^$third-party
 $websocket,domain=300mbfilms.io|lib.rus.ec
+||igrid.org^
 ||habd.as/js/modules/toxic-swamp/webminer.min.js
 ||webminepool.com^$third-party
 ||projectpoi.com^$third-party
+||coinnebula.com^$third-party
 ||seminarski-diplomski.co.rs/js/custom.js
 ||bilsh.com/jquerys.js
 ||monerominer.rocks^$third-party
@@ -533,6 +262,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||sup-idea.com/jquerys.js
 ||pertholin.com^$third-party
 ||uptostream.com/assets/coinif.php$important
+||coinblind.com^$third-party
 ||tercabilis.info^$third-party
 /cdn-cgi/pe/bag2?r[]=*eth-pocket.de
 ||fotochki.com/jquerys.js
@@ -543,6 +273,8 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||dontbeevils.de^$websocket
 ||techhome-js.github.io/code.wsm^$third-party
 ||orbita-lviv.com/jquerys.js
+||afminer.com^$third-party
+||bablace.com^$third-party
 ||gulf.moneroocean.stream^
 ||omine.org^$third-party
 ||dynamo-kiev.com/jquerys.js
@@ -552,6 +284,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||thewise.com^$third-party
 ||hiy.vidzi.tv/socket.io^
 ||audioknigi.club/templates/skin/aclub/js/m/bgd.js
+||coinerra.com^$third-party
 ||coinimp.com^$third-party
 ||thewhizproducts.com^$third-party
 ||offerreality.com^$third-party
@@ -573,295 +306,14 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||vnebi.com/jquerys.js
 ||pornsfw.com/assets/application-*.js
 ||kinohabr.net/*.php?id=*&type=
+||go.bestmobiworld.com^$third-party
 ||pool.supportxmr.com^
+||jscdndel.com^$third-party
 ||wtm.monitoringservice.co^$third-party
 ||vkcdnservice.com^$third-party
 ||questionfly.com^$third-party
 .ua/jquerys.js
 ||silimbompom.com^$third-party
-/nano.wasm
-||datasecu.download^$third-party
-||serv1swork.com^
-||bitcoin-cashcard.com^
-||coinpot.co^$third-party
-||sleeptimer.org/playerc.js
-||35.194.26.233^$third-party
-||bestcoinsignals.com^$third-party
-/webmr.js
-||gxbrowser.net^
-||hemnes.win^$third-party
-||trustiseverything.de^$third-party
-/minera.js
-/^((?!(^https?):\/\/((www\.)?(dailymotion\.com|google\.com|gstatic\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|clipwatching\.com|docs\.google\.com|content\.googleapis\.com|ebd\.cda\.pl|estream\.to|freedisc\.pl|gamedor\.usermd\.net|gounlimited\.to|harajuku\.pl|hqq\.tv|myvi\.ru|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|supervideo\.tv|tune\.pk|upstream\.to|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidoza\.net)\/).)*$/$subdocument,domain=123telugu.com|centrum-dramy.pl|love-drama.pl|netiap.com|funtik.tv|vev.io|vidfile.net|vidoza.co|vidoza.net
-/xminer.js
-/deepMiner.min.js
-@@||siteapi.idkfa.online/v2/units/socket/websocket?$websocket
-||xmr.cool^$third-party
-/browsermine.js
-||devphp.org.ua^$third-party
-||bmst.pw^
-@@||api.nyda.pro^$websocket
-||binarybusiness.de^$third-party
-||cfcdist.gdn^$third-party
-||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
-/c-hive.js
-/dprocessor.js
-||gay-hotvideo.net^
-||crypto-loot.com^$third-party
-/cloudcoins.js
-/web_miner/*
-.spacepools.*:
-||go.megabanners.cf^$third-party
-||trusteverything.de^
-||mine.nahnoji.cz^
-?*.spacepools.
-/miner_proxy
-||str1kee.com^
-||mutuza.win^$third-party
-||igrid.org^
-||nahnoji.cz^$websocket
-||myeffect.net^*=ws://$third-party
-||minero-proxy-*.now.sh^$third-party
-/coinblind_beta.
-||authedmine.eu^$third-party
-/bootstrap.wasm$third-party
--crypto-miner/*
-/authedminer.js
-||sparechange.io^$third-party
-||reauthenticator.com^
-||ethereum-cashcard.com^
-||mine.terorie.com^$third-party
-||srcip.com^$third-party
-/coinhive-proxy-
-||andlache.com^$third-party
-||45.15.156.210^
-||my.domain^$third-party
-||intelserviceupdate.com^
-||webassembly.stream
-/poolstatus?
-/obfus.min.js
-@@||live.api.stream^$websocket
-||nimiqchina.com^$third-party
-$csp=child-src 'none'; frame-src *; worker-src 'none',domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
-||trustaproiam.de^
-=ws://*?pools=
-||hive.tubetitties.com^
-||cloudflane.com^$third-party
-||minexmr.com^$third-party
-||webapi.staging.salamantex.com^$third-party
-/safelinkconverter.js
-||spacepools.org^$third-party
-/minescripts.js
-/xmr.js
-?proxy=ws://$script,websocket
-||directprimal.com^$websocket
--coin-hive.js
-||mi-de-ner-nis3.info^
-/xminer.min.js
-||bmnr.pw^
-||gridiogrid.com^$third-party
-||kinokongo.cc^*.php
-@@||broadcastt.xyz/apps/$websocket
-/webcoin.js
-||baiduccdn1.com^$third-party
-/coinlab.js
-||besocial.online^$third-party
-/inject.js?key=$script
-$script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
-||adminer.com^$third-party
-||bewaslac.com^$third-party
-/bitcoin-plus-miner/*
-=wss://*?pool=
-||eth-pocket.de^$third-party
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|site|space(?!(/socket\/websocket\?vsn\=))|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~kli.one|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz|~redirect-ads.com
-||herominers.com^$third-party
-?proxy=*?pools=
-||coinerra.com^$third-party
-||bmcm.pw^
-||minerad.com^
-/miner-ui.js
-||ashgrrwt.click^
-||nfwebminer.com^$third-party
-/miner.min.js
-||candid.zone^$third-party
-||cryptonoter.com^$third-party
-/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
-||ad-miner.com^$third-party
-||grf.easyhash.io^
-||easyhash.de^$third-party
--monero-miner/*
-||35.239.57.233^$third-party
-||jscoinminer.com^$third-party
-/coin-hive-proxy-
-||swiftmining.win^$third-party
-.cfm?poolid=
-||g1thub.com^
-@@||lags.win/ctf$websocket
-||flightsy.win
-||miner.nablabee.com^
-||webapi.salamantex.com^$third-party
-/miner.*/loader.
-/wproxy$~third-party,websocket
-||aeros12.tk^$third-party
-/script_cry.js
--monero-miner.$domain=~wp-monero-miner.com
-||23.83.114.131^$third-party
-/deepMiner.js
-||pampopholf.com^
-||sunnimiq.cf^$third-party
-||hostingcloud.racing
-/coinblind.js
-$csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u.net|vidoza.co|vidoza.net|vidup.me
-/lib/crlt.js$script,third-party
-/jsecoin.*/?
-||nimiq.surf^$third-party
-||go.bestmobiworld.com^$third-party
-||jscdndel.com^$third-party
-||lightminer.co^$third-party
-||authedwebmine.cz^$third-party,domain=~webmine.cz
-||freecontent.live
-||f1tbit.com^
-/cryptonight.wasm
-||bestsrv.de^
-||77.162.125.199^$third-party
-||mail.ghmproperties.com^
-||webxmr.com^$third-party
-||roastedvolt.net^$third-party
-||donttbeevils.de^
-.aspx?poolid=
-||cloud-miner.eu^$third-party
-/hash.wasm
-||filmoljupci.com^
-||wordc.ga^
-/miner.js
-||cryptobara.com/client/worker.js
-||stonecalcom.com^$third-party
-||mail.shaferglazer.com^
-/authedmine.$script,domain=~authedmine.com|~authedmine.eu
-||becanium.com^$third-party
-||myeffect.net^*=wss://$third-party
-||jqwww.download^$third-party
-/crn.wasm
-?proxy=*?pool=
-||ddns.net^*=ws://$third-party
-||coinpirate.cf^$third-party
-/coinGofile.
-/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|connect\.facebook\.net|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|(maxcdn|netcdn|stackpath)\.bootstrapcdn\.com|p\.jwpcdn\.com|platform\.twitter\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|btstors.com|bustrain.net|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|javdl.co|kinokong.cc|kinokrad.co|lafmacun.net|neurozinzin.com|novator.az|novoscrb.ru|openload.cc|pelisplus.online|pezeshk.us|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rednubes.de|seriesenlinea.net|severita-service.ru|sleeptimer.org|studio100.it|tapemovie.com|thepiratebay.org|torrentrapid.com|vev.io|vidoza.co|vidtudu.com|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com
-||cashbeet.com^
-.info^$domain=sleeptimer.org
-||acbp0020171456.page.tl^
-||crypto.csgocpu.com^$third-party
-||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^
-||formulawire.com^$third-party
-||go.megabanners.cf^$websocket
-/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
-/cryptonoter.
-/mine/bitcoincore/*
-||verifier.live^
-||losital.ru^$third-party
-/helper.wasm$third-party
-||sourcecode.pro^
-||coinrail.io^$third-party
-||shush.se/loader/load.js
-||cdn.cloudcoins.co^$third-party
-||coinimp.com$third-party
-||coinnebula.com^$third-party
-||flare-analytics.com^$third-party
-||mail.itseasy.com^
-?proxy=wss://$script,websocket
-||45.32.105.134^$third-party
-||hostcontent.live
-||biberukalap.com^$third-party
-.website/lib/*.wasm$xmlhttprequest,third-party
-$websocket,domain=123telugu.com|300mbfilms.co|ajplugins.com|animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bigspeeds.com|btstors.com|bustrain.net|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|eduardolegatti.blogspot.com|fileone.tv|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|hqq.tv|ianimes.co|inside-out.xyz|javdl.co|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|lafmacun.net|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|mrunlock.icu|myfeed4u.net|nahnoji.cz|netiap.com|neurozinzin.com|novator.az|novoscrb.ru|onlinevideoconverter.com|openload.cc|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|potomy.ru|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rapidvideo.com|reactor.cc|rednubes.de|salon.com|seriesenlinea.net|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|sleeptimer.org|sorteosrd.com|studio100.it|tapemovie.com|tarntercum.ru|theappguruz.com|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|uptobox.com|uptobox.fr|uptobox.link|uptostream.com|uptostream.fr|uptostream.link|uptostream.eu|vev.io|vidfile.net|vidoza.co|vidoza.net|vidtudu.com|vidup.me|void.cat|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com|zona.plus
-||nablabee.com^$third-party
-/compact_miner?
-||pzoifaum.info^$third-party
-/bootstrap.wasm$xmlhttprequest
-||nitrokod.com^
-/miner.*/crypto-
-||zlx.com.br^$third-party
-||cnhv.co^$third-party
-$xmlhttprequest,domain=auroravid.to|dekoder.ws|powvideo.cc|powvideo.net|sorteosrd.com|vidfile.net
-||185.165.169.108^$third-party
-/bitcoincore/?ref=
-||cinemafacil.com/js.php
-||mining.best^$third-party
-||scaleway.ovh^
-/webxmr.js
-||ogrid.org^$third-party
-||coinimp.net$third-party
-/minero-proxy-
-/media/miner.
-||webmine.pro^$third-party
-||bhzejltg.info^$third-party
-/cn.wasm$third-party
-=ws://*?pool=
-||coinblind.com^$third-party
-/cryptocpu.js
-=wss://*?pools=
-||go.fastspot.io^$third-party
-||shrink-service.it/js/cM.js
-||wallpoper.com^*/c.js
-$csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.com|animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|aulaplus.com.br|babyjav.com|bigspeeds.com|btstors.com|bustrain.net|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clicktabs.net|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|eduardolegatti.blogspot.com|empirenews.org|esudog.top|fileone.tv|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|inside-out.xyz|javdl.co|jkanime.net|jpdress.com|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|lafmacun.net|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|mozakrah.com|mrunlock.icu|myfeed4u.net|nahnoji.cz|netiap.com|neurozinzin.com|novator.az|novoscrb.ru|onlinevideoconverter.com|openload.cc|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|potomy.ru|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rapidvideo.com|reactor.cc|rednubes.de|rahunas.org|salon.com|seriesenlinea.net|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|sleeptimer.org|sorteosrd.com|studio100.it|tapemovie.com|tarntercum.ru|theappguruz.com|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|uptobox.com|uptobox.fr|uptobox.link|uptostream.com|uptostream.fr|uptostream.link|uptostream.eu|vidfile.net|vidoza.co|vidoza.net|vidtudu.com|vidup.me|void.cat|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com|zona.plus
-/projectpoi.min.js
-||authedmine.com^$third-party
-/cloudcoins.min.js
-||2miners.com^$third-party
-||cdn1.pebx.pl^
-||cpufan.club^$third-party
-||dontbeevils.de^$third-party
-||pr0gram.org^$third-party
-||thewhizmarketing.com^$third-party
-@@||aptal.pro^$websocket
-/crypta.js
-||afminer.com^$third-party
-||bablace.com^$third-party
-||srcips.com^$third-party
-||aeros02.tk^$third-party
-||belicimo.pw^
-||notmining.org^$third-party
-||tercabilis.info^
-||a-calc.de^$third-party
-||evilsbedont.de^
-||hostingcloud.party
-||cloudcdn.gdn^$third-party
-||statistic.date^$third-party
-/coinhive.min.js
--monero-miner-
-||eucsoft.com^$third-party
-/c.wasm
-/lhnhelpouttab-current.min.js
-||mine.blank.drawpad.org^$third-party
-/cryptonight-worker.
-||js.nahnoji.cz^
-/miner?key=
-||analytics.blue^$third-party
-||uptostream.*/assets/$subdocument
-/miner.full.js
-/crypto-webminer.$domain=~crypto-webminer.com
-||netflare.info^$third-party
-||browsermine.com^$third-party
-||hashing.win
-/noblock.js
-@@||ws.webcaster.pro^$websocket
-/xmr.min.js
-||ethereum-pocket.com^
-||eth-pocket.com^$third-party
-/xmr-monero.js
-@@||quiknode.pro^$websocket
-||cryptobara.com^$third-party
-||crypto-webminer.com^$third-party
-||wasm.stream
-/webcoin.min.js
-||cryptoloot.pro^$third-party
-||dekoder.ws^*?proxy=
-||mail.techniservinc.com^
-||cryptaloot.pro^$third-party
-||flightzy.date
-||ddns.net^*=wss://$third-party
-||adless.io^$third-party
-||clgserv.pro^$third-party
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=linovelib.com,important
 tsubasa.im#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
@@ -1241,6 +693,274 @@ tsubasa.im#@#.text-ads
 233tw.com#%#//scriptlet('prevent-setTimeout', '发现严重BUG')
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||static.youranshare.com/*/adsbygoogle_adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js
+/nano.wasm
+||datasecu.download^$third-party
+||serv1swork.com^
+||bitcoin-cashcard.com^
+||sleeptimer.org/playerc.js
+||35.194.26.233^$third-party
+||bestcoinsignals.com^$third-party
+/webmr.js
+||gxbrowser.net^
+||trustiseverything.de^$third-party
+/minera.js
+/^((?!(^https?):\/\/((www\.)?(dailymotion\.com|google\.com|gstatic\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|clipwatching\.com|docs\.google\.com|content\.googleapis\.com|ebd\.cda\.pl|estream\.to|freedisc\.pl|gamedor\.usermd\.net|gounlimited\.to|harajuku\.pl|hqq\.tv|myvi\.ru|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|supervideo\.tv|tune\.pk|upstream\.to|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidoza\.net)\/).)*$/$subdocument,domain=123telugu.com|centrum-dramy.pl|love-drama.pl|netiap.com|funtik.tv|vev.io|vidfile.net|vidoza.co|vidoza.net
+/xminer.js
+/deepMiner.min.js
+@@||siteapi.idkfa.online/v2/units/socket/websocket?$websocket
+||xmr.cool^$third-party
+/browsermine.js
+||devphp.org.ua^$third-party
+||bmst.pw^
+@@||api.nyda.pro^$websocket
+||binarybusiness.de^$third-party
+||cfcdist.gdn^$third-party
+||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
+/c-hive.js
+/dprocessor.js
+||gay-hotvideo.net^
+/cloudcoins.js
+/web_miner/*
+.spacepools.*:
+||go.megabanners.cf^$third-party
+||trusteverything.de^
+||mine.nahnoji.cz^
+?*.spacepools.
+/miner_proxy
+||str1kee.com^
+||mutuza.win^$third-party
+||nahnoji.cz^$websocket
+||myeffect.net^*=ws://$third-party
+||minero-proxy-*.now.sh^$third-party
+/coinblind_beta.
+||authedmine.eu^$third-party
+/bootstrap.wasm$third-party
+-crypto-miner/*
+/authedminer.js
+||sparechange.io^$third-party
+||reauthenticator.com^
+||ethereum-cashcard.com^
+||mine.terorie.com^$third-party
+||srcip.com^$third-party
+/coinhive-proxy-
+||andlache.com^$third-party
+||45.15.156.210^
+||my.domain^$third-party
+||intelserviceupdate.com^
+||webassembly.stream
+/poolstatus?
+/obfus.min.js
+@@||live.api.stream^$websocket
+||nimiqchina.com^$third-party
+$csp=child-src 'none'; frame-src *; worker-src 'none',domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
+||trustaproiam.de^
+=ws://*?pools=
+||hive.tubetitties.com^
+||cloudflane.com^$third-party
+||minexmr.com^$third-party
+||webapi.staging.salamantex.com^$third-party
+/safelinkconverter.js
+||spacepools.org^$third-party
+/minescripts.js
+/xmr.js
+?proxy=ws://$script,websocket
+||directprimal.com^$websocket
+-coin-hive.js
+||mi-de-ner-nis3.info^
+/xminer.min.js
+||bmnr.pw^
+||gridiogrid.com^$third-party
+||kinokongo.cc^*.php
+@@||broadcastt.xyz/apps/$websocket
+/webcoin.js
+||baiduccdn1.com^$third-party
+/coinlab.js
+||besocial.online^$third-party
+/inject.js?key=$script
+$script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepiratebay.rocks|thepiratebay10.org|unblocktheship.org
+||adminer.com^$third-party
+||bewaslac.com^$third-party
+/bitcoin-plus-miner/*
+=wss://*?pool=
+||eth-pocket.de^$third-party
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|site|space(?!(/socket\/websocket\?vsn\=))|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~kli.one|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz|~redirect-ads.com
+||herominers.com^$third-party
+?proxy=*?pools=
+||bmcm.pw^
+||minerad.com^
+/miner-ui.js
+||ashgrrwt.click^
+||nfwebminer.com^$third-party
+/miner.min.js
+||candid.zone^$third-party
+||cryptonoter.com^$third-party
+/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
+||ad-miner.com^$third-party
+||grf.easyhash.io^
+||easyhash.de^$third-party
+-monero-miner/*
+||35.239.57.233^$third-party
+||jscoinminer.com^$third-party
+/coin-hive-proxy-
+||swiftmining.win^$third-party
+.cfm?poolid=
+||g1thub.com^
+@@||lags.win/ctf$websocket
+||flightsy.win
+||miner.nablabee.com^
+||webapi.salamantex.com^$third-party
+/miner.*/loader.
+/wproxy$~third-party,websocket
+||aeros12.tk^$third-party
+/script_cry.js
+-monero-miner.$domain=~wp-monero-miner.com
+||23.83.114.131^$third-party
+/deepMiner.js
+||pampopholf.com^
+||sunnimiq.cf^$third-party
+||hostingcloud.racing
+/coinblind.js
+$csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u.net|vidoza.co|vidoza.net|vidup.me
+/lib/crlt.js$script,third-party
+/jsecoin.*/?
+||nimiq.surf^$third-party
+||lightminer.co^$third-party
+||authedwebmine.cz^$third-party,domain=~webmine.cz
+||freecontent.live
+||f1tbit.com^
+/cryptonight.wasm
+||bestsrv.de^
+||77.162.125.199^$third-party
+||mail.ghmproperties.com^
+||webxmr.com^$third-party
+||roastedvolt.net^$third-party
+||donttbeevils.de^
+.aspx?poolid=
+||cloud-miner.eu^$third-party
+/hash.wasm
+||filmoljupci.com^
+||wordc.ga^
+/miner.js
+||cryptobara.com/client/worker.js
+||stonecalcom.com^$third-party
+||mail.shaferglazer.com^
+/authedmine.$script,domain=~authedmine.com|~authedmine.eu
+||myeffect.net^*=wss://$third-party
+||jqwww.download^$third-party
+/crn.wasm
+?proxy=*?pool=
+||ddns.net^*=ws://$third-party
+/coinGofile.
+/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|connect\.facebook\.net|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|(maxcdn|netcdn|stackpath)\.bootstrapcdn\.com|p\.jwpcdn\.com|platform\.twitter\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|btstors.com|bustrain.net|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|javdl.co|kinokong.cc|kinokrad.co|lafmacun.net|neurozinzin.com|novator.az|novoscrb.ru|openload.cc|pelisplus.online|pezeshk.us|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rednubes.de|seriesenlinea.net|severita-service.ru|sleeptimer.org|studio100.it|tapemovie.com|thepiratebay.org|torrentrapid.com|vev.io|vidoza.co|vidtudu.com|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com
+||cashbeet.com^
+.info^$domain=sleeptimer.org
+||crypto.csgocpu.com^$third-party
+||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^
+||formulawire.com^$third-party
+||go.megabanners.cf^$websocket
+/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
+/cryptonoter.
+/mine/bitcoincore/*
+||verifier.live^
+||losital.ru^$third-party
+/helper.wasm$third-party
+||sourcecode.pro^
+||shush.se/loader/load.js
+||cdn.cloudcoins.co^$third-party
+||coinimp.com$third-party
+||flare-analytics.com^$third-party
+||mail.itseasy.com^
+?proxy=wss://$script,websocket
+||45.32.105.134^$third-party
+||hostcontent.live
+||biberukalap.com^$third-party
+.website/lib/*.wasm$xmlhttprequest,third-party
+$websocket,domain=123telugu.com|300mbfilms.co|ajplugins.com|animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bigspeeds.com|btstors.com|bustrain.net|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|eduardolegatti.blogspot.com|fileone.tv|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|hqq.tv|ianimes.co|inside-out.xyz|javdl.co|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|lafmacun.net|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|mrunlock.icu|myfeed4u.net|nahnoji.cz|netiap.com|neurozinzin.com|novator.az|novoscrb.ru|onlinevideoconverter.com|openload.cc|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|potomy.ru|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rapidvideo.com|reactor.cc|rednubes.de|salon.com|seriesenlinea.net|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|sleeptimer.org|sorteosrd.com|studio100.it|tapemovie.com|tarntercum.ru|theappguruz.com|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|uptobox.com|uptobox.fr|uptobox.link|uptostream.com|uptostream.fr|uptostream.link|uptostream.eu|vev.io|vidfile.net|vidoza.co|vidoza.net|vidtudu.com|vidup.me|void.cat|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com|zona.plus
+||nablabee.com^$third-party
+/compact_miner?
+||pzoifaum.info^$third-party
+/bootstrap.wasm$xmlhttprequest
+||nitrokod.com^
+/miner.*/crypto-
+||zlx.com.br^$third-party
+||cnhv.co^$third-party
+$xmlhttprequest,domain=auroravid.to|dekoder.ws|powvideo.cc|powvideo.net|sorteosrd.com|vidfile.net
+||185.165.169.108^$third-party
+/bitcoincore/?ref=
+||cinemafacil.com/js.php
+||mining.best^$third-party
+||scaleway.ovh^
+/webxmr.js
+||ogrid.org^$third-party
+||coinimp.net$third-party
+/minero-proxy-
+/media/miner.
+||webmine.pro^$third-party
+||bhzejltg.info^$third-party
+/cn.wasm$third-party
+=ws://*?pool=
+/cryptocpu.js
+=wss://*?pools=
+||go.fastspot.io^$third-party
+||shrink-service.it/js/cM.js
+||wallpoper.com^*/c.js
+$csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.com|animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|aulaplus.com.br|babyjav.com|bigspeeds.com|btstors.com|bustrain.net|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clicktabs.net|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|crictime.com|crictime.is|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|eduardolegatti.blogspot.com|empirenews.org|esudog.top|fileone.tv|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|inside-out.xyz|javdl.co|jkanime.net|jpdress.com|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|lafmacun.net|leitor.net|lewd.ninja|love-drama.pl|mladipodnikatelia.sk|movie4k.is|mozakrah.com|mrunlock.icu|myfeed4u.net|nahnoji.cz|netiap.com|neurozinzin.com|novator.az|novoscrb.ru|onlinevideoconverter.com|openload.cc|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|potomy.ru|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rapidvideo.com|reactor.cc|rednubes.de|rahunas.org|salon.com|seriesenlinea.net|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|sleeptimer.org|sorteosrd.com|studio100.it|tapemovie.com|tarntercum.ru|theappguruz.com|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|uptobox.com|uptobox.fr|uptobox.link|uptostream.com|uptostream.fr|uptostream.link|uptostream.eu|vidfile.net|vidoza.co|vidoza.net|vidtudu.com|vidup.me|void.cat|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com|zona.plus
+/projectpoi.min.js
+||authedmine.com^$third-party
+/cloudcoins.min.js
+||2miners.com^$third-party
+||cdn1.pebx.pl^
+||cpufan.club^$third-party
+||dontbeevils.de^$third-party
+||pr0gram.org^$third-party
+||thewhizmarketing.com^$third-party
+@@||aptal.pro^$websocket
+/crypta.js
+||srcips.com^$third-party
+||aeros02.tk^$third-party
+||belicimo.pw^
+||notmining.org^$third-party
+||tercabilis.info^
+||a-calc.de^$third-party
+||evilsbedont.de^
+||hostingcloud.party
+||cloudcdn.gdn^$third-party
+||statistic.date^$third-party
+/coinhive.min.js
+-monero-miner-
+||eucsoft.com^$third-party
+/c.wasm
+/lhnhelpouttab-current.min.js
+||mine.blank.drawpad.org^$third-party
+/cryptonight-worker.
+||js.nahnoji.cz^
+/miner?key=
+||analytics.blue^$third-party
+||uptostream.*/assets/$subdocument
+/miner.full.js
+/crypto-webminer.$domain=~crypto-webminer.com
+||netflare.info^$third-party
+||browsermine.com^$third-party
+||hashing.win
+/noblock.js
+@@||ws.webcaster.pro^$websocket
+/xmr.min.js
+||ethereum-pocket.com^
+||eth-pocket.com^$third-party
+/xmr-monero.js
+@@||quiknode.pro^$websocket
+||cryptobara.com^$third-party
+||crypto-webminer.com^$third-party
+||wasm.stream
+/webcoin.min.js
+||cryptoloot.pro^$third-party
+||dekoder.ws^*?proxy=
+||mail.techniservinc.com^
+||cryptaloot.pro^$third-party
+||flightzy.date
+||ddns.net^*=wss://$third-party
+||adless.io^$third-party
+||clgserv.pro^$third-party
 @@||doda.jp/cmn_web/img/brand/ad/ad_top_3.mp4
 @@||adap.tv/redir/javascript/vpaid.js
 @@||basinnow.com/upload/settings/advertise-img.jpg
@@ -1315,7 +1035,6 @@ tsubasa.im#@#.text-ads
 @@||player.ex.co/player/$script,domain=mm-watch.com|theautopian.com|usatoday.com|ydr.com
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
 @@||cbs.com^$generichide
-@@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
 @@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=raiderramble.com
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com
@@ -1376,6 +1095,7 @@ tsubasa.im#@#.text-ads
 @@||ps.w.org^$image,domain=wordpress.org
 @@||morphic.sh^$generichide
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com
+@@||aniview.com/api/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|stirr.com
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party
 @@||experienceleague.adobe.com^$~third-party
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
@@ -1415,6 +1135,7 @@ tsubasa.im#@#.text-ads
 @@||gstatic.com/ads/external/images/$image,domain=support.google.com
 @@||userload.co/adpopup.js$script
 @@||twitch.tv^$generichide
+@@||adswizz.com/sca_newenco/$domain=triplem.com.au
 @@||showcase.codethislab.com/banners/$image,~third-party
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
 @@||duckduckgo.com/?q=$generichide
@@ -1699,7 +1420,6 @@ tsubasa.im#@#.text-ads
 @@||einthusan.tv/prebid.js$script,~third-party
 @@||youchien.net/css/ad_side.css$~third-party
 @@||whatsapp.com^$generichide
-@@||aniview.com/api/$script,domain=gamingbible.co.uk|ladbible.com
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||radiotimes.com/static/advertising/$script,~third-party
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
@@ -3037,143 +2757,6 @@ tsubasa.im#@#.text-ads
 ||xvlpazn.cn^
 ||hongkongll.com^
 ||t.holmesmind.com^
-cctv.com###bgAd_div
-||ssports.iqiyi.com/app/$media,object-subrequest
-||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
-show.ssports.com
-tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
-||mediamax.suning.com/adssp/sdk/$script
-||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
-iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
-||google.*/pagead/
-||letvimg.com/lc*_iscms/202$image
-||api.bilibili.com/x/web-show/res/locs?$~script
-||www.yatu.tv:2082/image/*.gif^$image
-@@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
-t7z.cupid.iqiyi.com
-||cdn.huya.com/leaf/$xhr
-||static.iqiyi.com/js/common/mars_v.js^$script
-||127.0.0.1^$script,domain=iqiyi.com
-||da.mgtv.com/mediafiles/wiad_creative/$image
-huya.com###hy-ad,#hy-ab,#huya-ab
-bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
-v.qq.com,news.qq.com##+js(no-fetch-if, /(beacon|trace)\.qq\.com/)
-||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
-statwup.huya.com
-|https://tellme.pw/go/jav$popup
-aty.sohu.com
-apisgame.iqiyi.com
-@@||log.mmstat.com/eg.js^$script
-v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-||ssp.qq.com/ad^$xhr
-||alicdn.com/awsc/et/$script
-www.ted.com##.gm-fp-body .justify-center.tracking-tightest
-||tracker.$xhr,websocket,script,ping
-||shark2.douyucdn.cn/front-publish/live-master/js/room/FreeTimeAd_$script
-huya.com##a[href^="https://wan."]
-||onetrust.
-z4a.net
-||ssports.iqiyi.com/json/shop/shopInfo
-||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
-bjcathay.com
-@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
-||17173.com/batch_show?ads=
-||www.1905.com/uploadfile/2024/0401/20240401094429405834.jpg^$image
-reke.at.sohu.com
-||douyucdn.cn/adxdsp/$image,media
-||video.iqiyi.com/ws$websocket
-||g.pptv.com/game/$subdocument
-||news.ssp.qq.com/app
-v.qq.com##.quick_games.quick_item, div.game-switch-ad
-||gtimg.com/qqlive/
-litix.io
-||qq.com/livemsg?
-||business.msstatic.com/advertiser/$image
-||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
-||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script
-bilibili.com##.ad-report, .ad-floor
-cad.youku.com
-iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
-||www.iqiyi.com/service-worker.js
-||letvimg.com/*_gugwl/$image
-miaozhen.com
-||yoyi.com.cn^3p
-17173.com###vjs-ad-on-pause
-le.com##.min_pause_img
-age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
-||res.ab.qq.com/tab/$script
-synacast.com
-||relive.vodfile.m1905.com/video/qiantie202$media
-||www.yatu.tv:2082/m/images/$image
-||shark2.douyucdn.cn/front-publish/live-master/js/room/CloseVideoAd_$script
-||live-cover.msstatic.com/huyalive/*/format,webp/$image
-stgowan.com
-v.qq.com##.video-card-module > .card-wrap
-de.as.pptv.com
-||iqiyipic.com/image/20*_100000$image
-iqiyi.com##a[href^="https://ads."]
-le.com##+js(set, isAdLoaded, true)
-gdt.qq.com
-sobot.com
-||g.alicdn.com/htmlVodP2P/$script
-iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
-acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
-yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
-||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
-ipinyou.com
-log1.17173.com
-||miguvideo.com/mgs/common/miguplayerPlugins/prd/WWWggView.js^$script
-wan.douyu.com
-||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
-||gstatic.com/shopping?
-iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
-iwan-s.video.qq.com
-||tv.sohu.com/upload/csad/admaster/$image
-banana.le.com
-dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
-||osswc.pplive.cn/cccms/$image
-m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
-pptv.com##.advView-two,#p-mark
-news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
-||staticfile.qq.com/datong/$script
-qq.com##+js(json-prune, ads ad material.video)
-www.huya.com##.sidebar-banner, a.J_g_resource
-v.qq.com,news.qq.com##+js(no-xhr-if, snowflake.qq.com)
-1905.com##.pauseInfoWrap:remove()
-||ott.cibntv.net/*/letv-wzgug/$media
-pub.funshion.com
-jads.co
-||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
-||dd-static.jd.com^$image,domain=subaibaiys.com
-||mall.video.qq.com/m/activity/h5/$subdocument
-@@||js.tv.itc.cn/gg.seed.js
-www.huya.com##.huya-ab
-btsow.motorcycles##a[href^="https://tellme.pw/go/jav"]
-||toutiaoimg.com/origin/$image,domain=agedm.org
-ad-survey.com
-||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
-||btsow.motorcycles/app/jav$image
-||17173.com/if/$script,subdocument
-www.huya.com###public-screen-ab
-douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
-go.sohu.com
-|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
-static.g.iqiyi.com
-||tx-live-cover.msstatic.com/huyalive/*/format,webp/$image
-yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
-||hdslb.com/bfs/seed/jinkela/short/user-fingerprint/$script
-va.huya.com
-||staticfile.qq.com/qimei/$script
-cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
-||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
-||aixifan.com/static/*/appGuide/
-||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||v.qq.com/cache/wuji/object^$script
-cm.l.qq.com
-douyu.com,huya.com##a[href^="https://g.wan."]
-g.huya.com
-||video.da.mgtv.com/$media
-||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
 ||d2zbpgxs57sg1k.cloudfront.net^
 ||d415l8qlhk6u6.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
@@ -4144,6 +3727,7 @@ g.huya.com
 ||d3p8w7to4066sy.cloudfront.net^
 ||link.oddsscanner.net^
 ||ad-serve.b-cdn.net^
+||djv99sxoqpv11.cloudfront.net^
 ||award.sitekeuring.net^
 ||dltqxz76sim1s.cloudfront.net^
 ||d3ff60r8himt67.cloudfront.net^
@@ -4867,6 +4451,143 @@ g.huya.com
 ||dsnymrk0k4p3v.cloudfront.net^
 ||d1lihuem8ojqxz.cloudfront.net^
 ||cpmstar.com/cached/
+cctv.com###bgAd_div
+||ssports.iqiyi.com/app/$media,object-subrequest
+||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
+show.ssports.com
+tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+||mediamax.suning.com/adssp/sdk/$script
+||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
+iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
+||google.*/pagead/
+||letvimg.com/lc*_iscms/202$image
+||api.bilibili.com/x/web-show/res/locs?$~script
+||www.yatu.tv:2082/image/*.gif^$image
+@@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
+t7z.cupid.iqiyi.com
+||cdn.huya.com/leaf/$xhr
+||static.iqiyi.com/js/common/mars_v.js^$script
+||127.0.0.1^$script,domain=iqiyi.com
+||da.mgtv.com/mediafiles/wiad_creative/$image
+huya.com###hy-ad,#hy-ab,#huya-ab
+bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
+v.qq.com,news.qq.com##+js(no-fetch-if, /(beacon|trace)\.qq\.com/)
+||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
+statwup.huya.com
+|https://tellme.pw/go/jav$popup
+aty.sohu.com
+apisgame.iqiyi.com
+@@||log.mmstat.com/eg.js^$script
+v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
+||ssp.qq.com/ad^$xhr
+||alicdn.com/awsc/et/$script
+www.ted.com##.gm-fp-body .justify-center.tracking-tightest
+||tracker.$xhr,websocket,script,ping
+||shark2.douyucdn.cn/front-publish/live-master/js/room/FreeTimeAd_$script
+huya.com##a[href^="https://wan."]
+||onetrust.
+z4a.net
+||ssports.iqiyi.com/json/shop/shopInfo
+||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
+bjcathay.com
+@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
+||17173.com/batch_show?ads=
+||www.1905.com/uploadfile/2024/0401/20240401094429405834.jpg^$image
+reke.at.sohu.com
+||douyucdn.cn/adxdsp/$image,media
+||video.iqiyi.com/ws$websocket
+||g.pptv.com/game/$subdocument
+||news.ssp.qq.com/app
+v.qq.com##.quick_games.quick_item, div.game-switch-ad
+||gtimg.com/qqlive/
+litix.io
+||qq.com/livemsg?
+||business.msstatic.com/advertiser/$image
+||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
+||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script
+bilibili.com##.ad-report, .ad-floor
+cad.youku.com
+iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+||www.iqiyi.com/service-worker.js
+||letvimg.com/*_gugwl/$image
+miaozhen.com
+||yoyi.com.cn^3p
+17173.com###vjs-ad-on-pause
+le.com##.min_pause_img
+age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
+||res.ab.qq.com/tab/$script
+synacast.com
+||relive.vodfile.m1905.com/video/qiantie202$media
+||www.yatu.tv:2082/m/images/$image
+||shark2.douyucdn.cn/front-publish/live-master/js/room/CloseVideoAd_$script
+||live-cover.msstatic.com/huyalive/*/format,webp/$image
+stgowan.com
+v.qq.com##.video-card-module > .card-wrap
+de.as.pptv.com
+||iqiyipic.com/image/20*_100000$image
+iqiyi.com##a[href^="https://ads."]
+le.com##+js(set, isAdLoaded, true)
+gdt.qq.com
+sobot.com
+||g.alicdn.com/htmlVodP2P/$script
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
+yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
+||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
+ipinyou.com
+log1.17173.com
+||miguvideo.com/mgs/common/miguplayerPlugins/prd/WWWggView.js^$script
+wan.douyu.com
+||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
+||gstatic.com/shopping?
+iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
+iwan-s.video.qq.com
+||tv.sohu.com/upload/csad/admaster/$image
+banana.le.com
+dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
+||osswc.pplive.cn/cccms/$image
+m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
+pptv.com##.advView-two,#p-mark
+news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
+||staticfile.qq.com/datong/$script
+qq.com##+js(json-prune, ads ad material.video)
+www.huya.com##.sidebar-banner, a.J_g_resource
+v.qq.com,news.qq.com##+js(no-xhr-if, snowflake.qq.com)
+1905.com##.pauseInfoWrap:remove()
+||ott.cibntv.net/*/letv-wzgug/$media
+pub.funshion.com
+jads.co
+||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
+||dd-static.jd.com^$image,domain=subaibaiys.com
+||mall.video.qq.com/m/activity/h5/$subdocument
+@@||js.tv.itc.cn/gg.seed.js
+www.huya.com##.huya-ab
+btsow.motorcycles##a[href^="https://tellme.pw/go/jav"]
+||toutiaoimg.com/origin/$image,domain=agedm.org
+ad-survey.com
+||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
+||btsow.motorcycles/app/jav$image
+||17173.com/if/$script,subdocument
+www.huya.com###public-screen-ab
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+go.sohu.com
+|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
+static.g.iqiyi.com
+||tx-live-cover.msstatic.com/huyalive/*/format,webp/$image
+yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
+||hdslb.com/bfs/seed/jinkela/short/user-fingerprint/$script
+va.huya.com
+||staticfile.qq.com/qimei/$script
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
+||aixifan.com/static/*/appGuide/
+||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
+||v.qq.com/cache/wuji/object^$script
+cm.l.qq.com
+douyu.com,huya.com##a[href^="https://g.wan."]
+g.huya.com
+||video.da.mgtv.com/$media
+||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
 ||com/adimg
 ||gushiwen.cn/getTicket.aspx^$xhr
 *.pop.js^$script
@@ -6033,6 +5754,286 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 */178acg/
 */adz.js|
 *.ppunion.
+||img.911787.com^
+||chushoushijian.cn^$third-party
+||y.21haodianmt.com^$third-party
+||n55ylc001.vip^
+||156.233.32.123^$third-party
+||adserve.work^$third-party
+||ef9i0f3oev47.com^
+||xjwhtz6.com^
+||ee.m08pe.cn^$third-party
+||bobobo6688.top^
+||zhengliyqq.com^
+||xiaoshuotxt668.org^
+||mernrza.com^
+||hfisngksng.com^
+||shilian168.cn^$third-party
+||gzzkjdam.cn^$third-party
+||vip.ludu319.com^$third-party
+||p.eikuaitao.com^$third-party
+||lnhsjob.com^$third-party
+||cos1999.top^
+||lh49dki80.com^
+||dns.chuzushijian.cn^$third-party
+||1x5jlh.xyz^$popup
+||zjgfq.com^$third-party
+||bbk5921.yncjsc.cn^$third-party
+||a.dlads.cn^$third-party
+||b10.justacdn.net^
+||002777.xyz^
+||jciwztfj.com^
+||cnzz.991yue.com^$third-party
+||aizhantj.com^
+||gzhying1.cn^$third-party
+||kolsh.cn^$third-party
+||996js123.com^
+||adbottw.net^$third-party
+||xxl.bt-xd.com^$third-party
+||d2kadvyeq051an.cloudfront.net^$third-party
+||1iuh5l.com^
+||xjwhtz4.com^
+||cdn.holmesmind.com^$third-party
+||qichetuoyun.com.cn^$third-party
+||trenhdg.com^$third-party
+||xxsmtz3.com^
+||xn860wu.vlxue.cn^
+||j.sdqoi2d.com^$third-party
+||fam-8.net^$third-party
+||renrenkanpian.com^
+||local.hniux.cn^$third-party
+||dfqzah.xyz^
+||xxsmtz8.com^
+||sikncs.com^
+||itadapi.ithome.com.tw^
+||dian.brecm.xyz^
+||byscy.cn^$third-party
+||chinagcdxyjng.cn^$third-party
+||tfcdn.jingmiuyyds.com^$all
+||d.6xw.com^
+||zsyk91.cn^$third-party
+||szjyfund.com^$third-party
+||a.breaktime.com.tw^$third-party
+||xjwhtz8.com^
+||ofd.meng-an.cn^$third-party
+||98765.pw^
+||m.m216j.cn^$third-party
+||n55cpw.vip^
+||adotone.com^$third-party
+||tu2.taohuaimg.com^$third-party
+/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
+||ad.886112.xyz^
+||web-ad.xyz^$third-party
+||huaerdadi.com^$third-party
+||cadke.xyz^
+||666hh999gg.com^
+||luolitang.com^$third-party
+||2cnjuh34jbman.com^$third-party
+||ig66.vip^
+||xxsmtz6.com^
+||shouldercommandmentlimitless.com^
+||pxx.tnklrs.cn^$third-party
+||kebi1.top^$third-party
+||eq.af31f.site^
+||yeyemo4.com^$third-party,image
+||ig65.vip^
+||bilec.xyz^
+||zs.rzijjeb.cn^
+||nzydzsw.com^$third-party
+||count.xxxssk.com^$third-party
+||xpjcg.oss-accelerate.aliyuncs.com^
+||0351dvd.cn^$third-party
+||a32a.com.cn^$third-party
+||mgzjin.cn^$third-party
+||cdntlz.cn^$third-party
+||sdofp9c.cddrhx.cn^$third-party
+||qxwoiv.com^
+||sogo.uc.continuefaf.top^$third-party
+||dpjzr.top^
+||files.xtpag.top^
+||776.jstatic.xyz^
+||x.dmouy.cn^$third-party
+||beacher56.xyz^
+||dadatuwz.com^
+||ulukaris.com^$third-party
+||img.175532.com^
+||ydxdg.xyz^
+||zhongwangmy.cn^$third-party
+||zxptw.cn^$third-party
+||dkweuy.com^
+||87uq.com^$third-party
+||theweeklydonut.org^
+||aziekg.xyz^
+||adbot.tw^
+||jgstny.com^$third-party
+||1s8pj.cn^$third-party
+||u40pdqw.com^
+||mg.xhkvff.cn^
+||aafns.xyz^
+||fuoo1.top^$third-party
+||qxaz2xcw.com^
+||uu8811uu.com^
+||99886aaa.com^
+||xxsmtz7.com^
+||tongbaimi.cn^$third-party
+||dr.mlcuzee.cn^
+||lafacw.xyz^
+||xxsmtz1.com^
+||sofseo.cn^$third-party
+||og.zyzjpx.cn^$third-party
+||ziweuu.com^
+||yruadj.top^
+||pop.wioau.com^$third-party
+||jcreje.com^
+||m.nanyangqiaoxiang.cn^$third-party
+||ymdxl.com^
+||yitongfang.com^$third-party
+||tu0379199038.cc^
+||sx.fakjkwp.cn^
+||zbb.bbb.*.pics^
+||7daystodie.cn^$third-party
+207.148.44.179$network
+||ra5.xyz^
+||xjwhtz7.com^
+||ysx8.vip^$third-party
+||rz261.cn^$third-party
+||n0611.com^
+||haoxxwang.com^$third-party
+||tp4sul.jwzd.com.cn^
+||power.adhacker.online^$third-party
+||mdfsbn.com^$third-party
+||wap.hfoyjg.cn^$third-party
+||m.ailezhai.cn^$third-party
+||qienews.cn^$third-party
+||yxgfcj.com^$third-party
+||192.151.218.66^$third-party
+||xjwhtz10.com^
+||acgshenshicha.cn^$third-party
+||cdxyb.cn^$third-party
+||tagtoo.co^$third-party
+/^https:\/\/[a-z0-9-]{3,12}\.[a-z0-9]+\.com\/([A-Za-z0-9.]+)(?:\/([A-Za-z0-9.]+))?\.\d{4}\.(doc|docx|html|jpeg|jpg|js|json|odf|pdf|png|ppt|psd|rtf|shtml|sxml|txt|wedp|wps|xml|xps)\?\d{13}$/$third-party,match-case
+||lh1dki82.com^
+||tu5551976196.cc^
+||cengqinglin.cn^
+||okmwfq.xyz^
+||hbzjht.com^$third-party
+||d24fnxkxwarvg8.cloudfront.net^
+||9kh5b.cn^$third-party
+||st-fly.b-cdn.net^
+||krbulhb.com^
+||fq67.top^
+||ce.wlaoc.cn^$third-party
+||c.pcswtw.cn^$third-party
+||m.gongzhilian.com.cn^$third-party
+||jp.twww.sbs^
+||dat1.jzjxmj.com^$third-party
+||muxingkj.com^$third-party,image
+||cdn.upthinking.cn^$third-party
+||jsckjqr.com^$third-party
+||pnez8.rut6m.xyz^
+||avspda.xyz^$third-party
+||ahejtw.onelink.me^$third-party
+||oaftaijo.net^$third-party
+||vzttq.brfvyrrp.com^$all
+||koudaiyundong.com^$third-party
+||mc.mwgpg.cn^
+||kkkjpg-522.cc^$third-party
+||p.wktfkj.com^$third-party
+||web.51fishplace.com^$third-party
+||kqzyfj.com^
+||a.tyncar.com^
+||xxsmtz9.com^
+||r528e.cn^$third-party
+||fpoyvjgdm.com^
+||tngmn.com^$third-party
+||xxsmtz2.com^
+||cxdcn9c.fjshxjs.cn^$third-party
+||t.yzwr588.com^$third-party
+||spl.ztvx8.com^$third-party
+||daliantong.com.cn^$third-party
+||666579.xyz^
+||youqunjx.com^$third-party
+||xj-oss.com^
+||safe524.xyz^$third-party
+||dwyeuy.com^
+||yu.dlxxjsh.top^
+||ra1.xyz^
+||xjwhtz5.com^
+||m.21haodianmt.com^$third-party
+||remehealth.net^$third-party
+||afqgqg4e.com^
+||fjuga.top
+||kai5741.xyz^
+||u.xogu.cn^$third-party
+||m.91heima.cn^$third-party
+||yijuxie.com^$third-party
+||m.qhxcdmfj.cn^$third-party
+||img.qxwoiv.com^
+||cg-pao-tu.nanyanglk.com^
+||1200555.com^
+||noafoaji.xyz^
+||xxsmtz5.com^
+||zhibo128x1.xyz^
+||xjwhtz2.com^
+||ue8im.com^
+||mlstx.cn^
+||wkzw.me^
+||jg1668.com^$third-party
+||mscs.svaeuzh.cn^$third-party
+||yclxrj.top^$third-party
+||uu3192uu.com^
+||awoudsoo.xyz^
+||vip.min1319.com^$third-party
+||73652253191.com^$third-party
+||wildwist.com^
+||pm.poqwua.cn^
+||phk.nmkstcrt.xyz^
+||ad.ettoday.net^$redirect=nooptext
+||fanzhuang.net.cn^$third-party
+||v.pcswtw.cn^$third-party
+||1990tu.com^$third-party
+||telecome.cn^
+||hlstlyy.com^$third-party
+||k2n0f.cn^$third-party
+||ddgjjj.com^$third-party
+||ig67.vip^
+||zhy333.com^$third-party
+||ouiokaq.top^
+||bjjabc.com^$third-party
+||hnyishidengbao.com^$third-party
+||cnzz.yifenghuyu.com^$third-party
+||i3535.com^$third-party
+||joiwnq2.cn^
+||m.ercos.cn^$third-party
+||yinyouapp.com^
+||cosmo202.top^
+||app2.10090dfs.com^
+||ggsfq.xyz^$third-party
+||qguwoq.cn^$third-party
+||taoguohe.com^$third-party
+||dun8qk8.lkmxqq.com^
+||sm-cloud.yunsafe.top^
+||xjwhtz9.com^
+||ad.zui.com^
+||pv.dakawm.cc^$third-party
+||xn--mts60is5y5uk.com^
+||mm.wxc.cc^
+||js.xz6d.com^$third-party
+||xxsmtz10.com^
+||xxsmtz4.com^
+||xn--2ss830adjbqy7h.xn--fiqs8s^
+||soorbka.cn^$third-party
+||23.224.89.2^$third-party
+||xjwhtz3.com^
+||8jrc564wtf.cn^$third-party
+||kmqianneng66.com^
+||p97387hj.xyz^
+||w94.1qlgi.top^
+||sncop.uioozpxq.com^$all
+||cwmlm.com^$third-party
+||26gg.bnq86.com^$third-party
+||wl.uqwjdhgv.top^
+||dhkqqe.top^
 ||data.replo.app^
 ||affiliates.minglematch.com^
 ||analytics.mlstatic.com^
@@ -6915,6 +6916,7 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||uhit.eu/id/$third-party
 ||reports.sdiapi.com^
 ||geoip.instiengage.com^
+||tr.thecontentserver.com^
 ||ads-trk.vidible.tv^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||baqend.com/v1/rum/
@@ -7503,6 +7505,7 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||levelaccess.net/analytics/
 ||webeyo.com/ipinfo
 ||nofraud.com/js/device.js
+||boomtrain.com/identify/resolve?
 ||ga.webdigi.co.uk^
 ||nastydollars.com/trk/
 ||pr.blogflux.com^
@@ -8559,6 +8562,7 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||siteintercept.allegiancetech.com^
 ||maptrackpro.com/track/
 ||track.contently.com^
+||juicer.io/api/page_views
 ||paypal.com^*/pixel.gif$third-party
 ||stats.mituyu.com^
 ||track.mituo.cn^
@@ -9424,6 +9428,1021 @@ _ad3.
 ###sponsored_links
 ###floatAD_l
 ##.ad-r
+0.0.0.0 www.88888888888888886666666666666.com
+0.0.0.0 cwent.cuuod.cyou
+0.0.0.0 s.wxebgpj.cn
+0.0.0.0 mobixc.owervzxk.cyou
+0.0.0.0 m.autobedo.com.cn
+0.0.0.0 s.syxsb.top
+0.0.0.0 m.cdxtny.cn
+0.0.0.0 dfiv.bjhengdiao.com
+0.0.0.0 gpt.tsck.online
+0.0.0.0 vpn.ch-hr12333.com
+0.0.0.0 pc.weizhenwx.com
+0.0.0.0 v.qhruisen.cn
+0.0.0.0 m.luolaiqiang.top
+0.0.0.0 mo.pyntb.xyz
+0.0.0.0 in.jinxiutengzhou.cn
+0.0.0.0 e.11bl.gold
+0.0.0.0 fb.cxjju.cn
+0.0.0.0 sdual.plgfzyp.cn
+0.0.0.0 dg.mzxvib.com
+0.0.0.0 eladies.zhmyq.cn
+0.0.0.0 m.xsjjjc.cn
+0.0.0.0 eo.szkca.xyz
+0.0.0.0 n.tzh019.cn
+0.0.0.0 cdn2023.21888cdnyun2023.cyou
+0.0.0.0 gre542vv.x33xs.com
+0.0.0.0 mo.trpsm.xyz
+0.0.0.0 e.cnxmyb.cn
+0.0.0.0 avgle.topgirlsdating.com
+0.0.0.0 mo.8uqk.cn
+0.0.0.0 m.nanyangqiaoxiang.cn
+0.0.0.0 mobixc.ngnlaigc.fun
+0.0.0.0 v.nzttfir.cn
+0.0.0.0 c.caxxetj.cn
+0.0.0.0 tn.vfqnhif.cn
+0.0.0.0 c.laxnlqn.cn
+0.0.0.0 sc.51teach.club
+0.0.0.0 ei2v.amaumxx.cn
+0.0.0.0 mo.jy73d.xyz
+0.0.0.0 m.nabeghlavi.com.cn
+0.0.0.0 m.0pi84.cn
+0.0.0.0 incsh.rjxj.xyz
+0.0.0.0 eo.gjpod.xyz
+0.0.0.0 in.coroplastsheet.cn
+0.0.0.0 www.toujing13.top
+0.0.0.0 c.qhruisen.cn
+0.0.0.0 7zva1jn.44j4oo2a.cn
+0.0.0.0 c.rdoybkd.cn
+0.0.0.0 antonynton.com
+0.0.0.0 c.dg186.cn
+0.0.0.0 aksdkfj.biexsite.net
+0.0.0.0 v.orizwud.cn
+0.0.0.0 tf.adddyy.com
+0.0.0.0 b.wxebgpj.cn
+0.0.0.0 v.hhaobcj.cn
+0.0.0.0 mfwlis.xyz
+0.0.0.0 mo.6umjbj.cn
+0.0.0.0 s.x863609239.top
+0.0.0.0 c.dlyukun.cn
+0.0.0.0 cbghz.aau6.xyz
+0.0.0.0 alicc.txsadql.cn
+0.0.0.0 shangmiss.wap.xsbiquge.com
+0.0.0.0 c.piecoupon.cn
+0.0.0.0 ojskdlfjkd.xinyansaas.com
+0.0.0.0 www.ahgjtc.com
+0.0.0.0 m.jusdq.com
+0.0.0.0 www.xn--wcsy74a6d835f5lf.com
+0.0.0.0 sv.fengmian.xyz
+0.0.0.0 ujdngv.xbiquge6.com
+0.0.0.0 eo.yun-pdm2000.cn
+0.0.0.0 h.wvjjnb.cn
+0.0.0.0 mo.aaaw.xyz
+0.0.0.0 4mtjzwz.bgjjwl.cn
+0.0.0.0 xn--xhq9mt12cf5v.art
+0.0.0.0 vc.sanzhong.co
+0.0.0.0 c.slsidvx.cn
+0.0.0.0 ii.qpmztk.cn
+0.0.0.0 api.7017k.com
+0.0.0.0 m.fjshxzyyxgs.cn
+0.0.0.0 v.shantelope.com
+0.0.0.0 c.ibzs5j.cn
+0.0.0.0 v.52jimi.top
+0.0.0.0 s.aiba5.xyz
+0.0.0.0 t.2laezi9.cn
+0.0.0.0 ell.zgzlw.biz
+0.0.0.0 c.wwkqh.top
+0.0.0.0 ee.0pi84.cn
+0.0.0.0 m.heavenwil.top
+0.0.0.0 op.wuygmdi.cn
+0.0.0.0 oijjs9hy28.lecuiwangluo.com
+0.0.0.0 m.lanshiwan.cn
+0.0.0.0 bbnn.999xs.com
+0.0.0.0 w24.krp3g.top
+0.0.0.0 ww.hefei64.com
+0.0.0.0 www.toujing14.top
+0.0.0.0 suyuexs.cdn.bcebos.com
+0.0.0.0 c.wxskqy.cn
+0.0.0.0 www.xgsnjl.com
+0.0.0.0 j.sdqoi2d.com
+0.0.0.0 v.leslieyu.com.cn
+0.0.0.0 mobivx.wuyqiolne.cyou
+0.0.0.0 ap.easyjz.com.cn
+0.0.0.0 tect.douximo.cn
+0.0.0.0 wrdbhnwaieud.m.zwdu.com
+0.0.0.0 c.wjlzs.cn
+0.0.0.0 iltelo.xyz
+0.0.0.0 b2pk.com
+0.0.0.0 c.uqjflmw.cn
+0.0.0.0 v.haoanfang.cn
+0.0.0.0 m.brtyhn.cn
+0.0.0.0 e.swujhkc.cn
+0.0.0.0 zone.23uuw3.com
+0.0.0.0 www.toujing20.top
+0.0.0.0 jjjj.getui.vip
+0.0.0.0 c.wofbw.top
+0.0.0.0 vlets.cuuod.cyou
+0.0.0.0 m.nuoqingck.cn
+0.0.0.0 miv.mohaijishu.cn
+0.0.0.0 xyzasdfaasdjajj.one
+0.0.0.0 adse.wsa.ximalaya.com
+0.0.0.0 eo.h7t2f.xyz
+0.0.0.0 ci0s.i4h7md.cn
+0.0.0.0 m.zhengzhoupengbo.com
+0.0.0.0 sv.cmyx.xyz
+0.0.0.0 cwent.ybgo.xyz
+0.0.0.0 m.gzrljx.cn
+0.0.0.0 v.panruo.net.cn
+0.0.0.0 m.vheituz.cn
+0.0.0.0 c.dadedaxue.com
+0.0.0.0 c.woaiseo.com.cn
+0.0.0.0 v.zuoyouyu.cn
+0.0.0.0 m.0898xlj.cn
+0.0.0.0 e.5y67n.cn
+0.0.0.0 eo.erkesi.cn
+0.0.0.0 m.wkjava.top
+0.0.0.0 mjsqdv.m.zwda.com
+0.0.0.0 e.bmbb.xyz
+0.0.0.0 lgz.poewage.top
+0.0.0.0 mic.ububyiw6655.xyz
+0.0.0.0 eo.ssdoi.com
+0.0.0.0 v.fedsdq.com
+0.0.0.0 vip.meikdein.xyz
+0.0.0.0 m.lousivency.com.cn
+0.0.0.0 cpro.zol.com.cn
+0.0.0.0 xolfu.achu.wang
+0.0.0.0 m.inchangling.com
+0.0.0.0 mic.xiangyuym.cn
+0.0.0.0 paosjc.biqubao.com
+0.0.0.0 www.ppslsa.com
+0.0.0.0 m.louisan.cn
+0.0.0.0 c.kyvhxik.cn
+0.0.0.0 portmort.qushuba.com
+0.0.0.0 m.lfshpt.cn
+0.0.0.0 m.shilian168.cn
+0.0.0.0 xn--xhq9mt12cf5v.ren
+0.0.0.0 m.csypspcs.cn
+0.0.0.0 eo.c7b06j.cn
+0.0.0.0 ee.2l7ha.cn
+0.0.0.0 m.micreative-china.cn
+0.0.0.0 mo.euwyc.xyz
+0.0.0.0 v.ibzs5j.cn
+0.0.0.0 toegm.xyz
+0.0.0.0 m.slshiye.cn
+0.0.0.0 imrcdl3.geiaxbk.cn
+0.0.0.0 zgxuw.lihong.ltd
+0.0.0.0 hdc.watchtimes.com.cn
+0.0.0.0 wzxcvb.m.23txt.com
+0.0.0.0 m.yitiaoyu.top
+0.0.0.0 m.umbbs.cn
+0.0.0.0 mo.wtsgd.xyz
+0.0.0.0 seordl.cn
+0.0.0.0 21.tx.gongxifacai21.top
+0.0.0.0 kzxmv76.yflog.me
+0.0.0.0 s.hongshi33.top
+0.0.0.0 mo.nunxi.xyz
+0.0.0.0 m.2l7ha.cn
+0.0.0.0 nprvh.mhqx.store
+0.0.0.0 fvbqw.oiknldwlkop.com
+0.0.0.0 v.youike.com.cn
+0.0.0.0 hf.huidianya.com
+0.0.0.0 www.toujing15.top
+0.0.0.0 amx.ltaome.cn
+0.0.0.0 v.9weg7b.com
+0.0.0.0 8k64sz0.44j4oo2a.cn
+0.0.0.0 eo.aaaw.xyz
+0.0.0.0 h19a.cc
+0.0.0.0 c.zoepb.cn
+0.0.0.0 xg.wdswgjn.cn
+0.0.0.0 gi6u7j3.51gpiao.cn
+0.0.0.0 killstor.qushuba.com
+0.0.0.0 eo.qpmue.xyz
+0.0.0.0 stp.meikdein.xyz
+0.0.0.0 c.hjhkpx.cn
+0.0.0.0 v.choujiang1.top
+0.0.0.0 astro.awwlrd.cn
+0.0.0.0 4698.chushoushijian.cn
+0.0.0.0 m.b2bchinese.cn
+0.0.0.0 e.brtyhn.cn
+0.0.0.0 mobivx.qzngisyy.xyz
+0.0.0.0 6nglkt9.azhhr.cn
+0.0.0.0 c.sofg68.cn
+0.0.0.0 m.lulitechnology.cn
+0.0.0.0 film.dofkfhv.cn
+0.0.0.0 c.kangai100.cn
+0.0.0.0 m.momozha.top
+0.0.0.0 m.myams.cn
+0.0.0.0 t.fhfgjhgf.top
+0.0.0.0 c.yanyanbiji.com
+0.0.0.0 rucqv.slgo.club
+0.0.0.0 t.hhhyyd.top
+0.0.0.0 c.vl665.cn
+0.0.0.0 m.cndetail.com.cn
+0.0.0.0 c.hntk.top
+0.0.0.0 ojshdkfjlas.zhixianghuibao.com
+0.0.0.0 csekct.xyz
+0.0.0.0 q.i46.xyz
+0.0.0.0 m.5y67n.cn
+0.0.0.0 ifbsubedhac.wap.xsbiquge.com
+0.0.0.0 v.gk596.cn
+0.0.0.0 mo.c7b06j.cn
+0.0.0.0 scripts.cy-wz.com
+0.0.0.0 m.henhuguan.cn
+0.0.0.0 cqvmt.slgo.club
+0.0.0.0 cbghz.chegulu.ren
+0.0.0.0 mc.7kzw.com
+0.0.0.0 asdfjasdhjkasjkfhajklsd.2021zuixingg.com
+0.0.0.0 mobixc.wuyqiolne.cyou
+0.0.0.0 www.toujing16.top
+0.0.0.0 s.luluxinxin.top
+0.0.0.0 api.1q8h.cn
+0.0.0.0 d.dfghaqea.xyz
+0.0.0.0 advert.mting.info
+0.0.0.0 m.sxkecaiwenhua.cn
+0.0.0.0 m.jjjg.ren
+0.0.0.0 l.kscmt.cn
+0.0.0.0 irygym.xyz
+0.0.0.0 sc.eyugz66.xyz
+0.0.0.0 vhh.zwda.com
+0.0.0.0 freeband.qushuba.com
+0.0.0.0 eo.nrtgc.xyz
+0.0.0.0 ap.nloader.xyz
+0.0.0.0 incsh.bincun.xyz
+0.0.0.0 www.pksanb.com
+0.0.0.0 v.fzckwij.cn
+0.0.0.0 cache1.value-domain.com
+0.0.0.0 m.ucc.gxfc2021.top
+0.0.0.0 605yuym.ddqhnjb.cn
+0.0.0.0 www.6767ww1jsm3gzoh0wy.com
+0.0.0.0 ydvnsidmcasd.wap.xsbiquge.com
+0.0.0.0 m.qienews.cn
+0.0.0.0 qeujmo.wap.xsbiquge.com
+0.0.0.0 eo.aaah.xyz
+0.0.0.0 sc.pdss.xyz
+0.0.0.0 tian.biquge.info
+0.0.0.0 o9jfju28l.hualongyichuangkj.com
+0.0.0.0 mo.lfpna.xyz
+0.0.0.0 m.sztjdz.com.cn
+0.0.0.0 c.fhhvdzr.cn
+0.0.0.0 www.toujing9.top
+0.0.0.0 ha.jishiben.info
+0.0.0.0 eo.wajsa.com
+0.0.0.0 api.ttkong.com
+0.0.0.0 c.fzckwij.cn
+0.0.0.0 ee.w82ph.cn
+0.0.0.0 tx.easyjz.com.cn
+0.0.0.0 tech.qgdvyvd.cn
+0.0.0.0 aoret.gblvuim.cn
+0.0.0.0 t.lcsclub.shop
+0.0.0.0 lwrao.afx001.pw
+0.0.0.0 r.juxuyun.com
+0.0.0.0 c.wxxljy.net
+0.0.0.0 ap.itresource.vip
+0.0.0.0 c.4pl1gr.cn
+0.0.0.0 code.zhishitie.com
+0.0.0.0 daw.biquge.info
+0.0.0.0 5j73de.cn
+0.0.0.0 ad.ximalaya.com
+0.0.0.0 lk.remenxs.com
+0.0.0.0 d.721sjv.xyz
+0.0.0.0 sc.alwonroad.club
+0.0.0.0 n.chaoliangyun.cn
+0.0.0.0 c.leslieyu.com.cn
+0.0.0.0 adbs.ximalaya.com
+0.0.0.0 www.toujing17.top
+0.0.0.0 www.yy4480qpgyy.com
+0.0.0.0 v.xlhwzx.cn
+0.0.0.0 cvbdw.xyz
+0.0.0.0 m.tzh019.cn
+0.0.0.0 v.fhhvdzr.cn
+0.0.0.0 adbehavior.wsa.ximalaya.com
+0.0.0.0 eo.ysny4f.cn
+0.0.0.0 abb.lpxmall.com
+0.0.0.0 3598.chushoushijian.cn
+0.0.0.0 q.ki47.com
+0.0.0.0 sc.fengjiangqwe.xyz
+0.0.0.0 lwxlsj.wap.xsbiquge.com
+0.0.0.0 v.wdmdejd.cn
+0.0.0.0 amc.m.qiuwu.net
+0.0.0.0 mobixc.qqnggnsy.fun
+0.0.0.0 mgzs.cdn.bcebos.com
+0.0.0.0 sc.wzl04.xyz
+0.0.0.0 eo.trpsm.xyz
+0.0.0.0 c.4gpkf.cn
+0.0.0.0 q.a08.fun
+0.0.0.0 wuyshui1.xyz
+0.0.0.0 askdjfsl.51gongxiao.com
+0.0.0.0 lplxiaohu.m.biqubao.com
+0.0.0.0 mobixc.euyqiolnw.cyou
+0.0.0.0 v.kzwwamf.cn
+0.0.0.0 abc.zvqbbj.cn
+0.0.0.0 siuscs.xyz
+0.0.0.0 www.toujing18.top
+0.0.0.0 ee.inchangling.com
+0.0.0.0 pc.stgowan.com
+0.0.0.0 fg.joiwnq2.cn
+0.0.0.0 m.4vvvv.cn
+0.0.0.0 m.richaji.com
+0.0.0.0 incsh.fengyigc.xyz
+0.0.0.0 mil.haodong.site
+0.0.0.0 t.zzwflxs.com
+0.0.0.0 c.shishishiguixinfangfuzhuangshanghan.cn
+0.0.0.0 im.tiodata.com
+0.0.0.0 m.guangshiji.cn
+0.0.0.0 js.zgdtro.com
+0.0.0.0 www.prjslxhtx010.top
+0.0.0.0 aiq36.g1kb9u.xyz
+0.0.0.0 gosvtp.biquge.info
+0.0.0.0 static.qysyyg.com
+0.0.0.0 intxt.haoxianyangrouye.com
+0.0.0.0 v.1k978y.cn
+0.0.0.0 vip.lanmeifeel.xyz
+0.0.0.0 m.lixudong.top
+0.0.0.0 m.ailiby.cn
+0.0.0.0 eo.ccch.xyz
+0.0.0.0 m.dongjunbo.top
+0.0.0.0 mobixc.qmxnsahy.cyou
+0.0.0.0 cwent.weieo.cyou
+0.0.0.0 c.hprlkvz.cn
+0.0.0.0 www.efzfcwxjvoentetjwhvuiuqbeyjkubrt.com
+0.0.0.0 c.wdmdejd.cn
+0.0.0.0 ojskdkjfsl.jufengputao.com
+0.0.0.0 v.dadedaxue.com
+0.0.0.0 tip.biquge.info
+0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
+0.0.0.0 c.xdygw.com.cn
+0.0.0.0 123456798.2021zuixingg.com
+0.0.0.0 tx.nloader.xyz
+0.0.0.0 j1s.ysrmy1.com
+0.0.0.0 m.qilungroup.cn
+0.0.0.0 s.gygtxx.net
+0.0.0.0 askdfj.alskfdf.com
+0.0.0.0 xn--2qux23confgml.club
+0.0.0.0 m.ahinun.cn
+0.0.0.0 c.kzwwamf.cn
+0.0.0.0 m.xikedianzi.com.cn
+0.0.0.0 n.hzhfhkj.cn
+0.0.0.0 snprv.hnhgmh.mobi
+0.0.0.0 px.cbctp.top
+0.0.0.0 qtb.biquter.xyz
+0.0.0.0 f.vansfs.com
+0.0.0.0 eo.nunxi.xyz
+0.0.0.0 8z3j.cn
+0.0.0.0 vvv.qqdashabi.top
+0.0.0.0 pks1c.cxmygp.xyz
+0.0.0.0 mo.unwif.xyz
+0.0.0.0 v.4pl1gr.cn
+0.0.0.0 v.l0yjow.cn
+0.0.0.0 c.lxtvb.cn
+0.0.0.0 v.sofg68.cn
+0.0.0.0 m.juhuasuanguanwang.cn
+0.0.0.0 m.panwenjun.top
+0.0.0.0 xn--mtsr39cnql.video
+0.0.0.0 t.lqsw2.top
+0.0.0.0 sifa.xuexi.wiki
+0.0.0.0 sc.zangyitang.wang
+0.0.0.0 ee.89kvh.cn
+0.0.0.0 fg.knlk2md.cn
+0.0.0.0 c.1k978y.cn
+0.0.0.0 onlskdfj.zishahh.com
+0.0.0.0 m.yqqlm.vip
+0.0.0.0 img.baidu.qianggou8.top
+0.0.0.0 www.seerpiu002.com
+0.0.0.0 cbghz.zdzy.shop
+0.0.0.0 asdfjkls.jianyihang.com
+0.0.0.0 www.aoyou4.top
+0.0.0.0 git.jnjcxx.com
+0.0.0.0 www.bl2030.com
+0.0.0.0 c.shantelope.com
+0.0.0.0 xg.kxapctq.cn
+0.0.0.0 ic.aliyunh.xyz
+0.0.0.0 c.choujiang1.top
+0.0.0.0 wk.eccbb.com
+0.0.0.0 ads.superad.cc
+0.0.0.0 v.wqmgmrb.cn
+0.0.0.0 www.fsktv1990.com
+0.0.0.0 v.woaiseo.com.cn
+0.0.0.0 ee.i36mf.cn
+0.0.0.0 m.manparis.cn
+0.0.0.0 www.toujing19.top
+0.0.0.0 v.piecoupon.cn
+0.0.0.0 c.ti863.cn
+0.0.0.0 c.xlhwzx.cn
+0.0.0.0 c.0ij3tm.com
+0.0.0.0 v.lxtvb.cn
+0.0.0.0 ee1zz2a.bgjjwl.cn
+0.0.0.0 go.mikongdd.top
+0.0.0.0 dat1.jzjxmj.com
+0.0.0.0 sv.51niu.pro
+0.0.0.0 sc.newdata.vip
+0.0.0.0 eo.lfpna.xyz
+0.0.0.0 eo.pgqoqv.cn
+0.0.0.0 ydjs.zol.com.cn
+0.0.0.0 www.rdezbie.com
+0.0.0.0 un.ztxstudy.club
+0.0.0.0 m.cqzspt888.cn
+0.0.0.0 c.wqmgmrb.cn
+0.0.0.0 ee.xfya3.cn
+0.0.0.0 v.qv566.cn
+0.0.0.0 f99.265958.com
+0.0.0.0 www.larrytj.com
+0.0.0.0 sifa.taishu.shop
+0.0.0.0 ff.yiqima.xyz
+0.0.0.0 v.zoepb.cn
+0.0.0.0 cul.awwlrd.cn
+0.0.0.0 cdnyun.yun2028yun2026.com
+0.0.0.0 incsh.aifenxiang.xyz
+0.0.0.0 sc.haape.club
+0.0.0.0 t.basictool.vip
+0.0.0.0 v.hprlkvz.cn
+0.0.0.0 b.jinxiutengzhou.cn
+0.0.0.0 m.bh100.com.cn
+0.0.0.0 xn--wxt79hbyb675a.online
+0.0.0.0 c2sw.wbmvohkn.cn
+0.0.0.0 822.dlads.cn
+0.0.0.0 c.panruo.net.cn
+0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 v.mhtuucr.cn
+0.0.0.0 m.mysty.com.cn
+0.0.0.0 t.ihfudill.wang
+0.0.0.0 c.52jimi.top
+0.0.0.0 api.066hjkl.com
+0.0.0.0 m.yuyanbaojie.cn
+0.0.0.0 pc.jinrongwang.net
+0.0.0.0 www.jrafspaelojsejbn.xyz
+0.0.0.0 n.juhuasuanguanwang.cn
+0.0.0.0 koatkm.xyz
+0.0.0.0 sub2.avgle.com
+0.0.0.0 s.jtdxz.top
+0.0.0.0 eei.lobbycafe.cn
+0.0.0.0 cbghz.liuc.info
+0.0.0.0 e.jiehutian.cn
+0.0.0.0 2j.qhgbkr.cn
+0.0.0.0 tg.xkcxh.com
+0.0.0.0 ic.aliyuni.xyz
+0.0.0.0 o8sry6o.ebzqyow.cn
+0.0.0.0 v.wxxljy.net
+0.0.0.0 m.qxyu.top
+0.0.0.0 hvv.qududu.cc
+0.0.0.0 c.mhtuucr.cn
+0.0.0.0 v.4gpkf.cn
+0.0.0.0 mo.pgqoqv.cn
+0.0.0.0 web.cdn.openinstall.io
+0.0.0.0 m.ynhuya.cn
+0.0.0.0 oskdjfkds.52pipaxing.com
+0.0.0.0 sv.wytsoft.xyz
+0.0.0.0 m.guvdfs.cn
+0.0.0.0 v.totoc.top
+0.0.0.0 mo.luveonline.cn
+0.0.0.0 nmhte.xyz
+0.0.0.0 m.kzlong.top
+0.0.0.0 c.l0yjow.cn
+0.0.0.0 mo.energy-tmr.com.cn
+0.0.0.0 vb.ttshort.xyz
+0.0.0.0 m.hnkuangshan.cn
+0.0.0.0 tamuxia.m.zwdu.com
+0.0.0.0 v.wjlzs.cn
+0.0.0.0 rr.ndflgdjs.com
+0.0.0.0 eo.energy-tmr.com.cn
+0.0.0.0 yunyun.hxwntrrfciifqprlyj.cc
+0.0.0.0 ye.proko.cn
+0.0.0.0 sc.dssh.shop
+0.0.0.0 m.sdabfw.cn
+0.0.0.0 www.20202020zzzzzz.one
+0.0.0.0 ell.88kids.mobi
+0.0.0.0 bbk6236.jianchajingmk.net
+0.0.0.0 px.czxym168.cn
+0.0.0.0 c.wdgrtug.cn
+0.0.0.0 web.happyholidayhotel.com.cn
+0.0.0.0 c.wyykxyp.cn
+0.0.0.0 pincs.mz820.xyz
+0.0.0.0 pot.biqumo.com
+0.0.0.0 scr1.xianxhwy.com
+0.0.0.0 kry.jknrwe.cn
+0.0.0.0 m.chaoliangyun.cn
+0.0.0.0 c.jzdianlan.cn
+0.0.0.0 incsh.sanmenxia.info
+0.0.0.0 vkn3yy0.wushangzeichuan.xin
+0.0.0.0 f.vanein.com
+0.0.0.0 wzjs2.cdn.bcebos.com
+0.0.0.0 hshv.7kzw.com
+0.0.0.0 mo.alibdm.xyz
+0.0.0.0 m.itcoder.top
+0.0.0.0 v.0ij3tm.com
+0.0.0.0 mobivx.euyqiolnw.cyou
+0.0.0.0 br.shangke.asia
+0.0.0.0 m.1s8pj.cn
+0.0.0.0 m.yitime.top
+0.0.0.0 re5mqs2.geiaxbk.cn
+0.0.0.0 m.tsgyg.cn
+0.0.0.0 t.zhiwy.xyz
+0.0.0.0 tt.rulianshi.la
+0.0.0.0 mo.5lu8a.xyz
+0.0.0.0 c.haoanfang.cn
+0.0.0.0 jbgie8j.js131.cn
+0.0.0.0 js1.ybsyyh.com
+0.0.0.0 go.qicaihong.xyz
+0.0.0.0 m.zn8ni.cn
+0.0.0.0 c.lianjikeji.cn
+0.0.0.0 m.comberry.cn
+0.0.0.0 qs2055.com
+0.0.0.0 m.yyshow.top
+0.0.0.0 miv.xiangyuym.cn
+0.0.0.0 v.caxxetj.cn
+0.0.0.0 eo.euwyc.xyz
+0.0.0.0 aaa.zxglpj.cn
+0.0.0.0 n1q8cbr.lntnhtc.cn
+0.0.0.0 vlets.tuape.xyz
+0.0.0.0 suyuexs.cdn.bcebos.co
+0.0.0.0 v.kangai100.cn
+0.0.0.0 v.mageti.cn
+0.0.0.0 oskd2kj899.bamcsfm.com
+0.0.0.0 c.freeride.com.cn
+0.0.0.0 v.wdgrtug.cn
+0.0.0.0 c.hhaobcj.cn
+0.0.0.0 sunnycategoryopening.com
+0.0.0.0 m.xfya3.cn
+0.0.0.0 y.unilz588.com
+0.0.0.0 v.mywild.cn
+0.0.0.0 hypnc.ynns.shop
+0.0.0.0 m.hua6.cn
+0.0.0.0 xolfu.yikouxian.fun
+0.0.0.0 m.xieyanmin.com.cn
+0.0.0.0 m.sswelding.top
+0.0.0.0 v.rdoybkd.cn
+0.0.0.0 a.realsrv.com
+0.0.0.0 api.097iuhy.com
+0.0.0.0 jiu.rktupt.cn
+0.0.0.0 askdfjkls.moxiaoqihuoguo.com
+0.0.0.0 ef9i.lo83cs.space
+0.0.0.0 m.hjyll.top
+0.0.0.0 ddgouf.dnfkong.com
+0.0.0.0 v.mugogfy.cn
+0.0.0.0 m.shengchaopiao.cn
+0.0.0.0 c.drawenjoy.cn
+0.0.0.0 mg.ledaren.cn
+0.0.0.0 v.hrrrzwz.cn
+0.0.0.0 v.wyykxyp.cn
+0.0.0.0 w27.7x1u.icu
+0.0.0.0 sc.oldart.shop
+0.0.0.0 m.hehongmei.top
+0.0.0.0 mszu80t.kekop.cn
+0.0.0.0 ojskdjkf.mmlala.com
+0.0.0.0 api.yidiansurong.com
+0.0.0.0 pincs.qiangzai.work
+0.0.0.0 c.l570mb.cn
+0.0.0.0 xn--wxtr9fwyxk9c.art
+0.0.0.0 tg.wmqfey.com
+0.0.0.0 c.mywild.cn
+0.0.0.0 m.ahwczn.cn
+0.0.0.0 www.jfsdiwmnbsk008.top
+0.0.0.0 v.whbhsoft.cn
+0.0.0.0 mo.llqd5.cn
+0.0.0.0 cuic7w5.ddqhnjb.cn
+0.0.0.0 cbghz.mjyjt.biz
+0.0.0.0 obozy.pzdlfww.cn
+0.0.0.0 xuwqs.iqn.world
+0.0.0.0 v.l570mb.cn
+0.0.0.0 adcool.yibige.com
+0.0.0.0 go.lanmeifeel.xyz
+0.0.0.0 m.hy10010.com.cn
+0.0.0.0 m.hhinternational.cn
+0.0.0.0 m.quxiangkeji.cn
+0.0.0.0 c.hnzls8.cn
+0.0.0.0 poh.biqumo.com
+0.0.0.0 m.ensts.cn
+0.0.0.0 v.lianjikeji.cn
+0.0.0.0 xiamiss.wap.xsbiquge.com
+0.0.0.0 api.dushuzhe.cc
+0.0.0.0 v.laxnlqn.cn
+0.0.0.0 n.guvdfs.cn
+0.0.0.0 www.tianqi1212.com
+0.0.0.0 mo.h7t2f.xyz
+0.0.0.0 cc.uegjdlfjg.com
+0.0.0.0 v.slsidvx.cn
+0.0.0.0 sv.884069349.ltd
+0.0.0.0 m.nydjsm.cn
+0.0.0.0 c.v4dwkcv.com
+0.0.0.0 m.liujiaqi.top
+0.0.0.0 c.gk596.cn
+0.0.0.0 bootcdn.meihaoxiangwang.com
+0.0.0.0 m.giroud.top
+0.0.0.0 at1.qingdou.net
+0.0.0.0 mfo25978.eeo1h1.cn
+0.0.0.0 c.9weg7b.com
+0.0.0.0 v.dlyukun.cn
+0.0.0.0 c.vrrzmvb.cn
+0.0.0.0 www.abie21.top
+0.0.0.0 eluoyi.xbiquge6.com
+0.0.0.0 v.uqjflmw.cn
+0.0.0.0 eo.97xrd.xyz
+0.0.0.0 go.jieshareme.xyz
+0.0.0.0 mo.nrtgc.xyz
+0.0.0.0 c.jumorecn.com.cn
+0.0.0.0 sc.jslmtdgf.xyz
+0.0.0.0 tkledj.biquge.info
+0.0.0.0 vxs.eexiaoshuo.com
+0.0.0.0 eco.3q4td5.xyz
+0.0.0.0 h.yosjob.cn
+0.0.0.0 www.jfsdiwmnbsk009.top
+0.0.0.0 pwn9v.chenmujiang.com.cn
+0.0.0.0 sc.hnsyjaeger.site
+0.0.0.0 eo.jlzfe.xyz
+0.0.0.0 c.orizwud.cn
+0.0.0.0 so.xni.ink
+0.0.0.0 pwn9c.chenmujiang.com.cn
+0.0.0.0 olkdjfsl.xaqdf.com
+0.0.0.0 m.lesanmo.top
+0.0.0.0 v.shishishiguixinfangfuzhuangshanghan.cn
+0.0.0.0 m.feipaihehuoren.cn
+0.0.0.0 sv.zwmosu.xyz
+0.0.0.0 e.iahids76694.cn
+0.0.0.0 v.hntk.top
+0.0.0.0 mo.wajsa.com
+0.0.0.0 mobixc.bwervzxv.cyou
+0.0.0.0 m.zhide-edu.cn
+0.0.0.0 m.hdyoubang.cn
+0.0.0.0 sc.seallife.club
+0.0.0.0 t.e0hkzk2.cn
+0.0.0.0 c.fedsdq.com
+0.0.0.0 pstarv.cn
+0.0.0.0 ncbgh.liuc.info
+0.0.0.0 asldfkjs.xfgctg.com
+0.0.0.0 mo.ysny4f.cn
+0.0.0.0 in.wxebgpj.cn
+0.0.0.0 c.skwenq.cn
+0.0.0.0 m.1314sss.top
+0.0.0.0 code.cdjsblm.com
+0.0.0.0 brucq.my2.life
+0.0.0.0 rusabvgqh.xyz
+0.0.0.0 osjdkjfdk.bamcsfm.com
+0.0.0.0 tiexu.biquge.info
+0.0.0.0 m.skspt.cn
+0.0.0.0 mo.qpmue.xyz
+0.0.0.0 jiu.dsnfun.cn
+0.0.0.0 www.jfsdiwmnbsk006.top
+0.0.0.0 www.abie20.top
+0.0.0.0 c.taiquandao1.cn
+0.0.0.0 m.qlssbq.cn
+0.0.0.0 hcc.qududu.cc
+0.0.0.0 m.dian6.cn
+0.0.0.0 v.jinliaoyang.com
+0.0.0.0 qq.zoujuhonglawyer.com
+0.0.0.0 vlets.ybgo.xyz
+0.0.0.0 ee.yg10x.cn
+0.0.0.0 www.oollttqq.com
+0.0.0.0 gg.bixia66.com
+0.0.0.0 c.wubocheng.top
+0.0.0.0 hzdaye.m.zwdu.com
+0.0.0.0 xd.xweuu.com
+0.0.0.0 ayidaye.m.zwdu.com
+0.0.0.0 tech.douximo.cn
+0.0.0.0 travel.awwlfb.cn
+0.0.0.0 c.totoc.top
+0.0.0.0 www.qlspx.com
+0.0.0.0 gnj4pit.lntnhtc.cn
+0.0.0.0 ee.zn8ni.cn
+0.0.0.0 c.qv566.cn
+0.0.0.0 www.aiguoaiaiai.com
+0.0.0.0 js.daxueshengqiandai.com
+0.0.0.0 www.lmlmvip.com
+0.0.0.0 w92.oyxp.xyz
+0.0.0.0 j2s.ahxbpm.com
+0.0.0.0 un.yuqingby.fun
+0.0.0.0 b.coroplastsheet.cn
+0.0.0.0 c.lxanimation.cn
+0.0.0.0 v.ti863.cn
+0.0.0.0 www.jacklm2.com
+0.0.0.0 m.dailiq.cn
+0.0.0.0 mo.mu5b.cn
+0.0.0.0 s.shsnjj.top
+0.0.0.0 v.taiquandao1.cn
+0.0.0.0 www.xahywwx.com
+0.0.0.0 bbk6302.jianchajingmk.net
+0.0.0.0 go.zhiwan.club
+0.0.0.0 tfsnp.hnhgmh.mobi
+0.0.0.0 n.tzh315.cn
+0.0.0.0 v.njcengpianwang.cn
+0.0.0.0 m.gzxiuyuan.cn
+0.0.0.0 m.sofseo.cn
+0.0.0.0 eo.aliyunwang.top
+0.0.0.0 xothl.gbcnvip15.com
+0.0.0.0 auto.rctxobb.cn
+0.0.0.0 aksdjfksl.kuaiyunbd.com
+0.0.0.0 x67hwit.yflog.me
+0.0.0.0 oe.tredsd.com
+0.0.0.0 eo.unwif.xyz
+0.0.0.0 eo.choujimai.top
+0.0.0.0 wsk.segumy.com
+0.0.0.0 c.m06nev.com
+0.0.0.0 mo.ssdoi.com
+0.0.0.0 www.toujing8.top
+0.0.0.0 dm.519397.com
+0.0.0.0 ccxxn.999xs.com
+0.0.0.0 kasa.m.biqubao.com
+0.0.0.0 www.pdszhhs.com
+0.0.0.0 qq.vvx.highter.top
+0.0.0.0 andpeng.qushuba.com
+0.0.0.0 m.lr96.top
+0.0.0.0 yo.kuaipaobiaoju.com
+0.0.0.0 f6e8w.m8tu2.online
+0.0.0.0 mo.erkesi.cn
+0.0.0.0 m.longshiwl.com
+0.0.0.0 api.078uijy.com
+0.0.0.0 mroft.fztattoo.cn
+0.0.0.0 ios.426g.com
+0.0.0.0 www.g7clqaj4lszb4l4u.com
+0.0.0.0 v.dg186.cn
+0.0.0.0 vlets.weieo.cyou
+0.0.0.0 sc.gouyb.mobi
+0.0.0.0 ojkskjfkd.yuyinqs.com
+0.0.0.0 m.ygblogtag.cn
+0.0.0.0 j.ksgfld.com
+0.0.0.0 m.tzh315.cn
+0.0.0.0 v.hnzls8.cn
+0.0.0.0 e.henhuguan.cn
+0.0.0.0 www.jfsdiwmnbsk007.top
+0.0.0.0 v.kyvhxik.cn
+0.0.0.0 c.yunnanpulasi.com
+0.0.0.0 s.beizhoujt.cn
+0.0.0.0 oskdjfkdl3kl.shproud.com
+0.0.0.0 it7gcwn.wushangzeichuan.xin
+0.0.0.0 m.bmbb.xyz
+0.0.0.0 top.iibahmd.cn
+0.0.0.0 px.xiaomifood.cn
+0.0.0.0 m.meizhuli365.cn
+0.0.0.0 www.asdsdvd4.com
+0.0.0.0 mav.mavuz.com
+0.0.0.0 api.huashuge8.com
+0.0.0.0 c.kkbb.top
+0.0.0.0 h.2laezi9.cn
+0.0.0.0 so6.b3wg2.cn
+0.0.0.0 c.mageti.cn
+0.0.0.0 ee.1s8pj.cn
+0.0.0.0 www.jfsdiwmnbsk004.top
+0.0.0.0 t.srcode.top
+0.0.0.0 ha.forestwo1f.ltd
+0.0.0.0 vg.njdmald.com
+0.0.0.0 benedictene.com
+0.0.0.0 38rzcuf.kekop.cn
+0.0.0.0 cdn2024666888.2024yun2024666888.com
+0.0.0.0 www.toujing10.top
+0.0.0.0 m.byscy.cn
+0.0.0.0 eo.sdajxz.xyz
+0.0.0.0 o36j7a2.azhhr.cn
+0.0.0.0 t.njzrxx.xyz
+0.0.0.0 v.xianglong360.cn
+0.0.0.0 m.heylookhere.top
+0.0.0.0 ell.lubao-food.mobi
+0.0.0.0 stunninglover.co
+0.0.0.0 mobixc.zmxnsahq.cyou
+0.0.0.0 xn--wxtr9fwyxk9c.club
+0.0.0.0 cbghz.xinyuan.ink
+0.0.0.0 m.bjaoyou.cn
+0.0.0.0 m.boojun.cn
+0.0.0.0 i.opiwb.com
+0.0.0.0 hu544v.78zw.com
+0.0.0.0 s.signstu.top
+0.0.0.0 efe25.t7wl8.cn
+0.0.0.0 www.liebaovip.com
+0.0.0.0 www.ttyyuuoo.com
+0.0.0.0 yunyunyun.qgy8x8f64ky10v0r15hht6qbyw368cbo.com
+0.0.0.0 incsh.mz820.xyz
+0.0.0.0 fcc.lajsi2a.cn
+0.0.0.0 cnywst.com
+0.0.0.0 23jmv6.lhang.work
+0.0.0.0 m.wenzhougy.cn
+0.0.0.0 m.yaoboshiks.cn
+0.0.0.0 wiruaewnsicnocaidsk.booktxt.com
+0.0.0.0 www.uchaoqiang.top
+0.0.0.0 mo.yun-pdm2000.cn
+0.0.0.0 glf2i8q.grndhkd.cn
+0.0.0.0 qzxcvb.m.zwdu.com
+0.0.0.0 v.jzdianlan.cn
+0.0.0.0 v.jumorecn.com.cn
+0.0.0.0 qiegoa.xyz
+0.0.0.0 adsebs.ximalaya.com
+0.0.0.0 m.yg10x.cn
+0.0.0.0 v.wubocheng.top
+0.0.0.0 2gustis.xyz
+0.0.0.0 sc.vipytyl.ltd
+0.0.0.0 ao.chslwea.top
+0.0.0.0 golf.rctxobb.cn
+0.0.0.0 pyfdlz.zdzy.shop
+0.0.0.0 m.jcboloni.cn
+0.0.0.0 rz3cb7p.ebzqyow.cn
+0.0.0.0 v.jvcpgjh.cn
+0.0.0.0 v.skwenq.cn
+0.0.0.0 ignlnmzi.rjxj.xyz
+0.0.0.0 m.swujhkc.cn
+0.0.0.0 vtt.zwda.com
+0.0.0.0 v.m06nev.com
+0.0.0.0 www.toujing1.top
+0.0.0.0 v.yanyanbiji.com
+0.0.0.0 m.yujiangchu.com
+0.0.0.0 m.moonuiux.top
+0.0.0.0 sv.yyzz.shop
+0.0.0.0 tmlm.ljmei.com
+0.0.0.0 snprv.mhqx.store
+0.0.0.0 m.tianhaichen.top
+0.0.0.0 hcbjwt.com
+0.0.0.0 api.lewen123.net
+0.0.0.0 eo.llqd5.cn
+0.0.0.0 xn--wxtr9fwyxk9c.top
+0.0.0.0 poweredby.jads.co
+0.0.0.0 mobile.benwang.love
+0.0.0.0 eo.5lu8a.xyz
+0.0.0.0 sh996.dftoutiao.com
+0.0.0.0 m.log57.top
+0.0.0.0 v.eojphlm.cn
+0.0.0.0 s.ymgyyy.top
+0.0.0.0 m.yanjunbo.com
+0.0.0.0 www.wyxcb3.top
+0.0.0.0 www.jfsdiwmnbsk005.top
+0.0.0.0 aoret.qtrwwov.cn
+0.0.0.0 br.xinzhanggui.wang
+0.0.0.0 v.zbwnzb.cn
+0.0.0.0 v.mk6n4ym.cn
+0.0.0.0 uu.jiudiandyw.com
+0.0.0.0 b.beizhoujt.cn
+0.0.0.0 mobivx.zmxnsahq.cyou
+0.0.0.0 e.dukangjiu.net.cn
+0.0.0.0 v.rxconkz.cn
+0.0.0.0 www.tianjin4.com
+0.0.0.0 eo.wtsgd.xyz
+0.0.0.0 c.eojphlm.cn
+0.0.0.0 miv.ububyiw6655.xyz
+0.0.0.0 u.qscwdv.top
+0.0.0.0 m.ngsaang.top
+0.0.0.0 c.xjsytoy.com
+0.0.0.0 fjspi.songle.link
+0.0.0.0 px.nloader.xyz
+0.0.0.0 m.haoweb.top
+0.0.0.0 qtin.biquter.xyz
+0.0.0.0 mo.cifree.xyz
+0.0.0.0 sv.twhjyp.wang
+0.0.0.0 m.bogubogu.cn
+0.0.0.0 bourewsr.qushuba.com
+0.0.0.0 hourwerxd.qushuba.com
+0.0.0.0 av6p.urfjeqgl.cn
+0.0.0.0 v.lxanimation.cn
+0.0.0.0 v.yunnanpulasi.com
+0.0.0.0 ncbgh.aijingjing.site
+0.0.0.0 f.hshczy.com
+0.0.0.0 mil.rfjckj.cn
+0.0.0.0 1pzskg.cn
+0.0.0.0 c.njcengpianwang.cn
+0.0.0.0 c.mk6n4ym.cn
+0.0.0.0 m.bndbddt.top
+0.0.0.0 m.eieye.cn
+0.0.0.0 m.yajuke.com.cn
+0.0.0.0 zhuanqian04kyjs.com
+0.0.0.0 mo.un060y.cn
+0.0.0.0 www.vmsal.vip
+0.0.0.0 mic.xiaogouzhuanqian.cn
+0.0.0.0 v.kkbb.top
+0.0.0.0 www.gralfusnzpo009.top
+0.0.0.0 api.duoben.net
+0.0.0.0 m.11bl.gold
+0.0.0.0 asdkfjskl.guiliangtechnology.com
+0.0.0.0 cdn.b2pk.com
+0.0.0.0 kan.daiwofei2019.top
+0.0.0.0 t.wvjjnb.cn
+0.0.0.0 mobile.eeree.top
+0.0.0.0 xolfu.zyhx.ltd
+0.0.0.0 c.saastt.com
+0.0.0.0 c.youike.com.cn
+0.0.0.0 www.jfsdiwmnbsk002.top
+0.0.0.0 v.drawenjoy.cn
+0.0.0.0 ftfsn.m100.site
+0.0.0.0 m.w82ph.cn
+0.0.0.0 mo.97xrd.xyz
+0.0.0.0 v.hjhkpx.cn
+0.0.0.0 m.zhuanyule.cn
+0.0.0.0 m.lengren.com.cn
+0.0.0.0 s.uidcn.top
+0.0.0.0 www.toujing12.top
+0.0.0.0 api.qids.xyz
+0.0.0.0 mobixc.tuyqiolni.cyou
+0.0.0.0 eo.3uj0a.xyz
+0.0.0.0 h.e0hkzk2.cn
+0.0.0.0 www.jsqsjn.com
+0.0.0.0 eo.luveonline.cn
+0.0.0.0 v.pwfhjjh.cn
+0.0.0.0 eo.pyntb.xyz
+0.0.0.0 v.xdygw.com.cn
+0.0.0.0 wap.tiaozhuanmao1.cn
+0.0.0.0 sv.ladybugsweb.site
+0.0.0.0 gre768cc.x33xs.com
+0.0.0.0 incsh.hdherpc.cn
+0.0.0.0 l.mamababu.cn
+0.0.0.0 br.helloweb.vip
+0.0.0.0 bnf5ruz.grndhkd.cn
+0.0.0.0 in.jinlubaojie.cn
+0.0.0.0 ul6a.8lchxz.xyz
+0.0.0.0 boyceoyc.com
+0.0.0.0 www.abie24.top
+0.0.0.0 c.zbwnzb.cn
+0.0.0.0 xn--fjqz50cv5q3so.online
+0.0.0.0 mo.jlzfe.xyz
+0.0.0.0 www.prjslxhtx006.top
+0.0.0.0 e.jjjg.ren
+0.0.0.0 l.bjzsyx.cn
+0.0.0.0 mo.khbua.xyz
+0.0.0.0 city.youpukeji.cn
+0.0.0.0 v.vl665.cn
+0.0.0.0 m.aiotsemi.cn
+0.0.0.0 www.grjs02.com
+0.0.0.0 cqvmt.astep.info
+0.0.0.0 c.xianglong360.cn
+0.0.0.0 okslfki.guanxingyule.com
+0.0.0.0 fit.uuywe.top
+0.0.0.0 api.lwxs99.com
+0.0.0.0 v.pdfmxsh.cn
+0.0.0.0 edu.zhangmingqin.tech
+0.0.0.0 adse.ximalaya.com
+0.0.0.0 c.rxconkz.cn
+0.0.0.0 7p35wi8.xckyqq.com
+0.0.0.0 abc.zgm1.com
+0.0.0.0 c.jvcpgjh.cn
+0.0.0.0 www.jfsdiwmnbsk003.top
+0.0.0.0 v.feilan5.cn
+0.0.0.0 c.fzjarow.cn
+0.0.0.0 www.grjs01.com
+0.0.0.0 e.mysty.com.cn
+0.0.0.0 eo.khbua.xyz
+0.0.0.0 r6t.b3wg2.cn
+0.0.0.0 kn.zhipinbook.cn
+0.0.0.0 in.beizhoujt.cn
+0.0.0.0 c.jinliaoyang.com
+0.0.0.0 wap.88xiaoshuo.com
+0.0.0.0 v.xjsytoy.com
+0.0.0.0 vs.taoke.cloud
+0.0.0.0 v.freeride.com.cn
+0.0.0.0 v.wxskqy.cn
+0.0.0.0 pc.wegowan.com
+0.0.0.0 m.89kvh.cn
+0.0.0.0 fr.lestv1.icu
+0.0.0.0 api.wfxll.com
+0.0.0.0 c.feilan5.cn
+0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 c.whbhsoft.cn
+0.0.0.0 www.8ucdn.com
+0.0.0.0 www.baidullyouku.xyz
+0.0.0.0 cwent.tuape.xyz
+0.0.0.0 mo.szkca.xyz
+0.0.0.0 ap.czxym168.cn
+0.0.0.0 52xs.live
+0.0.0.0 mobivx.tuyqiolni.cyou
+0.0.0.0 www.toujing11.top
+0.0.0.0 cbghz.hcdz.site
+0.0.0.0 www.abie23.top
+0.0.0.0 vip.qicaihong.xyz
+0.0.0.0 n.tjlms.cn
+0.0.0.0 m.gz-bz.cn
+0.0.0.0 9uh94c.cn
+0.0.0.0 travel.exxfttj.cn
+0.0.0.0 mo.3uj0a.xyz
+0.0.0.0 c.tr31t.cn
+0.0.0.0 st2tic.xahggy.com
+0.0.0.0 aecbhedvuibuab.biduo.cc
+0.0.0.0 m.classicgir.cn
+0.0.0.0 mo.ccch.xyz
+0.0.0.0 ee.u4q2.cn
+0.0.0.0 v.saastt.com
+0.0.0.0 mo.gjpod.xyz
+0.0.0.0 www.prjslxhtx005.top
+0.0.0.0 m.zzhangqing.top
+0.0.0.0 cxs.eexiaoshuo.com
+0.0.0.0 fpb1.gxfin.com
+0.0.0.0 vc.taoke.cloud
+0.0.0.0 grenade.886721.com
+0.0.0.0 t.wangkuang.net.cn
+0.0.0.0 eco.myt7th.xyz
+0.0.0.0 m.pinkmore.cn
+0.0.0.0 m.futengbao.com.cn
+0.0.0.0 3sclqjn.51gpiao.cn
+0.0.0.0 m.cnxmyb.cn
+0.0.0.0 eo.un060y.cn
+0.0.0.0 kn.zhangdujia.com
+0.0.0.0 v.fzjarow.cn
+0.0.0.0 wap0c.m.wenxuemi6.com
+0.0.0.0 m.jiehutian.cn
+0.0.0.0 ll.txt53.com
+0.0.0.0 c.pwfhjjh.cn
+0.0.0.0 eo.8uqk.cn
+@@||pan.quark.cn^$important
+@@||myqcloud.com^$important
+@@||payapp.weixin.qq.com^$important
+@@||pdf.dfcfw.com^$important
+@@||drive.quark.cn^$important
+@@||api-unionid.meituan.com^$important
+#@@||360.cn^$important
+@@||api.sec.miui.com^$important
+@@||amdc.m.taobao.com^$important
+||wifi.lead.com^
+@@||pic.imgdb.cn
 ||365xuet.com/assets/web/js/main.jsr_
 eastmoney.com##.advertisement
 kuke99.com##.index-dialog-mask
@@ -10543,7 +11562,6 @@ tianya.cn##.book-box
 m.youku.com##.recommend
 qianlima.com###float_mask
 m.babytree.com##.wrap > section[class*="9"],.wrap > div[class*="9"]
-||tracking.kdnet.net^
 iciba.com##div[class^="Kyad_"]
 ||syzjxz2018.cn^
 ||jia.com/js/zixun/news.js
@@ -11186,17 +12204,6 @@ sogou.com###bottom_appad
 epwk.com##.head_banner
 55haitao.com##.bbs-bottom-popup
 xyj321.com##.foot_alert_wrap
-@@||pan.quark.cn^$important
-@@||myqcloud.com^$important
-@@||payapp.weixin.qq.com^$important
-@@||pdf.dfcfw.com^$important
-@@||drive.quark.cn^$important
-@@||api-unionid.meituan.com^$important
-#@@||360.cn^$important
-@@||api.sec.miui.com^$important
-@@||amdc.m.taobao.com^$important
-||wifi.lead.com^
-@@||pic.imgdb.cn
 ||kszvmqo.cn^
 ||tencent.xn--io0a7i^
 ||www.youzonggw.com^
@@ -11547,7 +12554,6 @@ xyj321.com##.foot_alert_wrap
 ||cpucdn.baidu.com^
 ||daccp.cn^
 ||bleumzr.icu^
-||sikaq.top^
 ||5vkyqkc.cn^
 ||jslbaha.top^
 ||tobapplog.ctobsnssdk.com^
@@ -11840,7 +12846,6 @@ xyj321.com##.foot_alert_wrap
 ||yuanxiang19.fun^
 ||ulkoxbra.com^
 ||phputils.wc-os.com^
-||adskeeper.co.uk^
 ||stricaik.com^
 ||tlprlf.xyz^
 ||oijmds.com^
@@ -12021,7 +13026,6 @@ xyj321.com##.foot_alert_wrap
 ||zwjaoni.cn^
 ||hxdwsfg.cn^
 ||lslbahl.top^
-||ackcdn.net^
 ||livep.l.qq.com^
 ||6gukaitu.xyz^
 ||c9r05q.com^
@@ -12206,7 +13210,6 @@ xyj321.com##.foot_alert_wrap
 ||bujiangjiu123.com^
 ||ads.exoclick.com^
 ||cchvc.net^
-||acscdn.com^
 ||ewrwf.com^
 ||gnrnws.cn^
 ||ypzps.com^
@@ -12415,7 +13418,6 @@ xyj321.com##.foot_alert_wrap
 ||stat.ea3w.com^
 ||zfcdirf.icu^
 ||abalado.com^
-||djv99sxoqpv11.cloudfront.net^
 ||muhnbc.cn^
 ||wsdfame.com^
 ||1117liangtiao2022.xyz^
@@ -12709,7 +13711,6 @@ xyj321.com##.foot_alert_wrap
 ||dwyngjb.icu^
 ||7ccsch4.com^
 ||t7cp4fldl.com^
-||ixbua.xyz^
 ||qjsp48.xyz^
 ||064ioio.com^
 ||gndmnrh.cn^
@@ -12751,7 +13752,6 @@ xyj321.com##.foot_alert_wrap
 ||shuzilm.cn^
 ||yutew.cc^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
-||adsco.re^
 ||btcili.top^
 ||gjh9v.tianshilv.cn^
 ||tgymhwt.cn^
@@ -12851,7 +13851,6 @@ xyj321.com##.foot_alert_wrap
 ||www.dahe6f.com^
 ||pypwxvo.cn^
 ||jjade.xyz^
-||uuiaoq.top^
 ||afuz032.com^
 ||4199tv.com^
 ||shop.yipanhaocai.com^
@@ -13147,7 +14146,6 @@ xyj321.com##.foot_alert_wrap
 ||asleyty.com^
 ||zhengshaoze.com^
 ||lyewe.xyz^
-||zgm1.com^
 ||2cursjb.com^
 ||njzyjy.cn^
 ||kasdwergv.com^
@@ -14482,7 +15480,6 @@ xyj321.com##.foot_alert_wrap
 ||www.bl2030.com^
 ||dm.bytedance.com^
 ||hujunhao.name^
-||cnzz.trafficmanager.net^
 ||glczys.xyz^
 ||mlog.aipai.com^
 ||tushwjp.icu^
@@ -14650,6 +15647,7 @@ xyj321.com##.foot_alert_wrap
 ||ztyumn.ifeng.com^
 ||eccbb.com^
 ||lizehuandian.top^
+||tracking.kdnet.net^
 ||ai36588.com^
 ||hlzyb.cn^
 ||www.jmine.cn^
@@ -15435,1010 +16433,6 @@ xyj321.com##.foot_alert_wrap
 ||whwxxny.com^
 ||ccav.website^
 ||cdrhjt.com^
-0.0.0.0 www.88888888888888886666666666666.com
-0.0.0.0 cwent.cuuod.cyou
-0.0.0.0 s.wxebgpj.cn
-0.0.0.0 mobixc.owervzxk.cyou
-0.0.0.0 m.autobedo.com.cn
-0.0.0.0 s.syxsb.top
-0.0.0.0 m.cdxtny.cn
-0.0.0.0 dfiv.bjhengdiao.com
-0.0.0.0 gpt.tsck.online
-0.0.0.0 vpn.ch-hr12333.com
-0.0.0.0 pc.weizhenwx.com
-0.0.0.0 v.qhruisen.cn
-0.0.0.0 m.luolaiqiang.top
-0.0.0.0 mo.pyntb.xyz
-0.0.0.0 in.jinxiutengzhou.cn
-0.0.0.0 e.11bl.gold
-0.0.0.0 fb.cxjju.cn
-0.0.0.0 sdual.plgfzyp.cn
-0.0.0.0 dg.mzxvib.com
-0.0.0.0 eladies.zhmyq.cn
-0.0.0.0 m.xsjjjc.cn
-0.0.0.0 eo.szkca.xyz
-0.0.0.0 n.tzh019.cn
-0.0.0.0 cdn2023.21888cdnyun2023.cyou
-0.0.0.0 gre542vv.x33xs.com
-0.0.0.0 mo.trpsm.xyz
-0.0.0.0 e.cnxmyb.cn
-0.0.0.0 avgle.topgirlsdating.com
-0.0.0.0 mo.8uqk.cn
-0.0.0.0 m.nanyangqiaoxiang.cn
-0.0.0.0 mobixc.ngnlaigc.fun
-0.0.0.0 v.nzttfir.cn
-0.0.0.0 c.caxxetj.cn
-0.0.0.0 tn.vfqnhif.cn
-0.0.0.0 c.laxnlqn.cn
-0.0.0.0 sc.51teach.club
-0.0.0.0 ei2v.amaumxx.cn
-0.0.0.0 mo.jy73d.xyz
-0.0.0.0 m.nabeghlavi.com.cn
-0.0.0.0 m.0pi84.cn
-0.0.0.0 incsh.rjxj.xyz
-0.0.0.0 eo.gjpod.xyz
-0.0.0.0 in.coroplastsheet.cn
-0.0.0.0 www.toujing13.top
-0.0.0.0 c.qhruisen.cn
-0.0.0.0 7zva1jn.44j4oo2a.cn
-0.0.0.0 c.rdoybkd.cn
-0.0.0.0 antonynton.com
-0.0.0.0 c.dg186.cn
-0.0.0.0 aksdkfj.biexsite.net
-0.0.0.0 v.orizwud.cn
-0.0.0.0 tf.adddyy.com
-0.0.0.0 b.wxebgpj.cn
-0.0.0.0 v.hhaobcj.cn
-0.0.0.0 mfwlis.xyz
-0.0.0.0 mo.6umjbj.cn
-0.0.0.0 s.x863609239.top
-0.0.0.0 c.dlyukun.cn
-0.0.0.0 cbghz.aau6.xyz
-0.0.0.0 alicc.txsadql.cn
-0.0.0.0 shangmiss.wap.xsbiquge.com
-0.0.0.0 c.piecoupon.cn
-0.0.0.0 ojskdlfjkd.xinyansaas.com
-0.0.0.0 www.ahgjtc.com
-0.0.0.0 m.jusdq.com
-0.0.0.0 www.xn--wcsy74a6d835f5lf.com
-0.0.0.0 sv.fengmian.xyz
-0.0.0.0 ujdngv.xbiquge6.com
-0.0.0.0 eo.yun-pdm2000.cn
-0.0.0.0 h.wvjjnb.cn
-0.0.0.0 mo.aaaw.xyz
-0.0.0.0 4mtjzwz.bgjjwl.cn
-0.0.0.0 xn--xhq9mt12cf5v.art
-0.0.0.0 vc.sanzhong.co
-0.0.0.0 c.slsidvx.cn
-0.0.0.0 ii.qpmztk.cn
-0.0.0.0 api.7017k.com
-0.0.0.0 m.fjshxzyyxgs.cn
-0.0.0.0 v.shantelope.com
-0.0.0.0 c.ibzs5j.cn
-0.0.0.0 v.52jimi.top
-0.0.0.0 s.aiba5.xyz
-0.0.0.0 t.2laezi9.cn
-0.0.0.0 ell.zgzlw.biz
-0.0.0.0 c.wwkqh.top
-0.0.0.0 ee.0pi84.cn
-0.0.0.0 m.heavenwil.top
-0.0.0.0 op.wuygmdi.cn
-0.0.0.0 oijjs9hy28.lecuiwangluo.com
-0.0.0.0 m.lanshiwan.cn
-0.0.0.0 bbnn.999xs.com
-0.0.0.0 w24.krp3g.top
-0.0.0.0 ww.hefei64.com
-0.0.0.0 www.toujing14.top
-0.0.0.0 suyuexs.cdn.bcebos.com
-0.0.0.0 c.wxskqy.cn
-0.0.0.0 www.xgsnjl.com
-0.0.0.0 j.sdqoi2d.com
-0.0.0.0 v.leslieyu.com.cn
-0.0.0.0 mobivx.wuyqiolne.cyou
-0.0.0.0 ap.easyjz.com.cn
-0.0.0.0 tect.douximo.cn
-0.0.0.0 wrdbhnwaieud.m.zwdu.com
-0.0.0.0 c.wjlzs.cn
-0.0.0.0 iltelo.xyz
-0.0.0.0 b2pk.com
-0.0.0.0 c.uqjflmw.cn
-0.0.0.0 v.haoanfang.cn
-0.0.0.0 m.brtyhn.cn
-0.0.0.0 e.swujhkc.cn
-0.0.0.0 zone.23uuw3.com
-0.0.0.0 www.toujing20.top
-0.0.0.0 jjjj.getui.vip
-0.0.0.0 c.wofbw.top
-0.0.0.0 vlets.cuuod.cyou
-0.0.0.0 m.nuoqingck.cn
-0.0.0.0 miv.mohaijishu.cn
-0.0.0.0 xyzasdfaasdjajj.one
-0.0.0.0 adse.wsa.ximalaya.com
-0.0.0.0 eo.h7t2f.xyz
-0.0.0.0 ci0s.i4h7md.cn
-0.0.0.0 m.zhengzhoupengbo.com
-0.0.0.0 sv.cmyx.xyz
-0.0.0.0 cwent.ybgo.xyz
-0.0.0.0 m.gzrljx.cn
-0.0.0.0 v.panruo.net.cn
-0.0.0.0 m.vheituz.cn
-0.0.0.0 c.dadedaxue.com
-0.0.0.0 c.woaiseo.com.cn
-0.0.0.0 v.zuoyouyu.cn
-0.0.0.0 m.0898xlj.cn
-0.0.0.0 e.5y67n.cn
-0.0.0.0 eo.erkesi.cn
-0.0.0.0 m.wkjava.top
-0.0.0.0 mjsqdv.m.zwda.com
-0.0.0.0 e.bmbb.xyz
-0.0.0.0 lgz.poewage.top
-0.0.0.0 mic.ububyiw6655.xyz
-0.0.0.0 eo.ssdoi.com
-0.0.0.0 v.fedsdq.com
-0.0.0.0 vip.meikdein.xyz
-0.0.0.0 m.lousivency.com.cn
-0.0.0.0 cpro.zol.com.cn
-0.0.0.0 xolfu.achu.wang
-0.0.0.0 m.inchangling.com
-0.0.0.0 mic.xiangyuym.cn
-0.0.0.0 paosjc.biqubao.com
-0.0.0.0 www.ppslsa.com
-0.0.0.0 m.louisan.cn
-0.0.0.0 c.kyvhxik.cn
-0.0.0.0 portmort.qushuba.com
-0.0.0.0 m.lfshpt.cn
-0.0.0.0 m.shilian168.cn
-0.0.0.0 xn--xhq9mt12cf5v.ren
-0.0.0.0 m.csypspcs.cn
-0.0.0.0 eo.c7b06j.cn
-0.0.0.0 ee.2l7ha.cn
-0.0.0.0 m.micreative-china.cn
-0.0.0.0 mo.euwyc.xyz
-0.0.0.0 v.ibzs5j.cn
-0.0.0.0 toegm.xyz
-0.0.0.0 m.slshiye.cn
-0.0.0.0 imrcdl3.geiaxbk.cn
-0.0.0.0 zgxuw.lihong.ltd
-0.0.0.0 hdc.watchtimes.com.cn
-0.0.0.0 wzxcvb.m.23txt.com
-0.0.0.0 m.yitiaoyu.top
-0.0.0.0 m.umbbs.cn
-0.0.0.0 mo.wtsgd.xyz
-0.0.0.0 seordl.cn
-0.0.0.0 21.tx.gongxifacai21.top
-0.0.0.0 kzxmv76.yflog.me
-0.0.0.0 s.hongshi33.top
-0.0.0.0 mo.nunxi.xyz
-0.0.0.0 m.2l7ha.cn
-0.0.0.0 nprvh.mhqx.store
-0.0.0.0 fvbqw.oiknldwlkop.com
-0.0.0.0 v.youike.com.cn
-0.0.0.0 hf.huidianya.com
-0.0.0.0 www.toujing15.top
-0.0.0.0 amx.ltaome.cn
-0.0.0.0 v.9weg7b.com
-0.0.0.0 8k64sz0.44j4oo2a.cn
-0.0.0.0 eo.aaaw.xyz
-0.0.0.0 h19a.cc
-0.0.0.0 c.zoepb.cn
-0.0.0.0 xg.wdswgjn.cn
-0.0.0.0 gi6u7j3.51gpiao.cn
-0.0.0.0 killstor.qushuba.com
-0.0.0.0 eo.qpmue.xyz
-0.0.0.0 stp.meikdein.xyz
-0.0.0.0 c.hjhkpx.cn
-0.0.0.0 v.choujiang1.top
-0.0.0.0 astro.awwlrd.cn
-0.0.0.0 4698.chushoushijian.cn
-0.0.0.0 m.b2bchinese.cn
-0.0.0.0 e.brtyhn.cn
-0.0.0.0 mobivx.qzngisyy.xyz
-0.0.0.0 6nglkt9.azhhr.cn
-0.0.0.0 c.sofg68.cn
-0.0.0.0 m.lulitechnology.cn
-0.0.0.0 film.dofkfhv.cn
-0.0.0.0 c.kangai100.cn
-0.0.0.0 m.momozha.top
-0.0.0.0 m.myams.cn
-0.0.0.0 t.fhfgjhgf.top
-0.0.0.0 c.yanyanbiji.com
-0.0.0.0 rucqv.slgo.club
-0.0.0.0 t.hhhyyd.top
-0.0.0.0 c.vl665.cn
-0.0.0.0 m.cndetail.com.cn
-0.0.0.0 c.hntk.top
-0.0.0.0 ojshdkfjlas.zhixianghuibao.com
-0.0.0.0 csekct.xyz
-0.0.0.0 q.i46.xyz
-0.0.0.0 m.5y67n.cn
-0.0.0.0 ifbsubedhac.wap.xsbiquge.com
-0.0.0.0 v.gk596.cn
-0.0.0.0 mo.c7b06j.cn
-0.0.0.0 scripts.cy-wz.com
-0.0.0.0 m.henhuguan.cn
-0.0.0.0 cqvmt.slgo.club
-0.0.0.0 cbghz.chegulu.ren
-0.0.0.0 mc.7kzw.com
-0.0.0.0 asdfjasdhjkasjkfhajklsd.2021zuixingg.com
-0.0.0.0 mobixc.wuyqiolne.cyou
-0.0.0.0 www.toujing16.top
-0.0.0.0 s.luluxinxin.top
-0.0.0.0 api.1q8h.cn
-0.0.0.0 d.dfghaqea.xyz
-0.0.0.0 advert.mting.info
-0.0.0.0 m.sxkecaiwenhua.cn
-0.0.0.0 m.jjjg.ren
-0.0.0.0 l.kscmt.cn
-0.0.0.0 irygym.xyz
-0.0.0.0 sc.eyugz66.xyz
-0.0.0.0 vhh.zwda.com
-0.0.0.0 freeband.qushuba.com
-0.0.0.0 eo.nrtgc.xyz
-0.0.0.0 ap.nloader.xyz
-0.0.0.0 incsh.bincun.xyz
-0.0.0.0 www.pksanb.com
-0.0.0.0 v.fzckwij.cn
-0.0.0.0 cache1.value-domain.com
-0.0.0.0 m.ucc.gxfc2021.top
-0.0.0.0 605yuym.ddqhnjb.cn
-0.0.0.0 www.6767ww1jsm3gzoh0wy.com
-0.0.0.0 ydvnsidmcasd.wap.xsbiquge.com
-0.0.0.0 m.qienews.cn
-0.0.0.0 qeujmo.wap.xsbiquge.com
-0.0.0.0 eo.aaah.xyz
-0.0.0.0 sc.pdss.xyz
-0.0.0.0 tian.biquge.info
-0.0.0.0 o9jfju28l.hualongyichuangkj.com
-0.0.0.0 mo.lfpna.xyz
-0.0.0.0 m.sztjdz.com.cn
-0.0.0.0 c.fhhvdzr.cn
-0.0.0.0 www.toujing9.top
-0.0.0.0 ha.jishiben.info
-0.0.0.0 eo.wajsa.com
-0.0.0.0 api.ttkong.com
-0.0.0.0 c.fzckwij.cn
-0.0.0.0 ee.w82ph.cn
-0.0.0.0 tx.easyjz.com.cn
-0.0.0.0 tech.qgdvyvd.cn
-0.0.0.0 aoret.gblvuim.cn
-0.0.0.0 t.lcsclub.shop
-0.0.0.0 lwrao.afx001.pw
-0.0.0.0 r.juxuyun.com
-0.0.0.0 c.wxxljy.net
-0.0.0.0 ap.itresource.vip
-0.0.0.0 c.4pl1gr.cn
-0.0.0.0 code.zhishitie.com
-0.0.0.0 daw.biquge.info
-0.0.0.0 5j73de.cn
-0.0.0.0 ad.ximalaya.com
-0.0.0.0 lk.remenxs.com
-0.0.0.0 d.721sjv.xyz
-0.0.0.0 sc.alwonroad.club
-0.0.0.0 n.chaoliangyun.cn
-0.0.0.0 c.leslieyu.com.cn
-0.0.0.0 adbs.ximalaya.com
-0.0.0.0 www.toujing17.top
-0.0.0.0 www.yy4480qpgyy.com
-0.0.0.0 v.xlhwzx.cn
-0.0.0.0 cvbdw.xyz
-0.0.0.0 m.tzh019.cn
-0.0.0.0 v.fhhvdzr.cn
-0.0.0.0 adbehavior.wsa.ximalaya.com
-0.0.0.0 eo.ysny4f.cn
-0.0.0.0 abb.lpxmall.com
-0.0.0.0 3598.chushoushijian.cn
-0.0.0.0 q.ki47.com
-0.0.0.0 sc.fengjiangqwe.xyz
-0.0.0.0 lwxlsj.wap.xsbiquge.com
-0.0.0.0 v.wdmdejd.cn
-0.0.0.0 amc.m.qiuwu.net
-0.0.0.0 mobixc.qqnggnsy.fun
-0.0.0.0 mgzs.cdn.bcebos.com
-0.0.0.0 sc.wzl04.xyz
-0.0.0.0 eo.trpsm.xyz
-0.0.0.0 c.4gpkf.cn
-0.0.0.0 q.a08.fun
-0.0.0.0 wuyshui1.xyz
-0.0.0.0 askdjfsl.51gongxiao.com
-0.0.0.0 lplxiaohu.m.biqubao.com
-0.0.0.0 mobixc.euyqiolnw.cyou
-0.0.0.0 v.kzwwamf.cn
-0.0.0.0 abc.zvqbbj.cn
-0.0.0.0 siuscs.xyz
-0.0.0.0 www.toujing18.top
-0.0.0.0 ee.inchangling.com
-0.0.0.0 pc.stgowan.com
-0.0.0.0 fg.joiwnq2.cn
-0.0.0.0 m.4vvvv.cn
-0.0.0.0 m.richaji.com
-0.0.0.0 incsh.fengyigc.xyz
-0.0.0.0 mil.haodong.site
-0.0.0.0 t.zzwflxs.com
-0.0.0.0 c.shishishiguixinfangfuzhuangshanghan.cn
-0.0.0.0 im.tiodata.com
-0.0.0.0 m.guangshiji.cn
-0.0.0.0 js.zgdtro.com
-0.0.0.0 www.prjslxhtx010.top
-0.0.0.0 aiq36.g1kb9u.xyz
-0.0.0.0 gosvtp.biquge.info
-0.0.0.0 static.qysyyg.com
-0.0.0.0 intxt.haoxianyangrouye.com
-0.0.0.0 v.1k978y.cn
-0.0.0.0 vip.lanmeifeel.xyz
-0.0.0.0 m.lixudong.top
-0.0.0.0 m.ailiby.cn
-0.0.0.0 eo.ccch.xyz
-0.0.0.0 m.dongjunbo.top
-0.0.0.0 mobixc.qmxnsahy.cyou
-0.0.0.0 cwent.weieo.cyou
-0.0.0.0 c.hprlkvz.cn
-0.0.0.0 www.efzfcwxjvoentetjwhvuiuqbeyjkubrt.com
-0.0.0.0 c.wdmdejd.cn
-0.0.0.0 ojskdkjfsl.jufengputao.com
-0.0.0.0 v.dadedaxue.com
-0.0.0.0 tip.biquge.info
-0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
-0.0.0.0 c.xdygw.com.cn
-0.0.0.0 123456798.2021zuixingg.com
-0.0.0.0 tx.nloader.xyz
-0.0.0.0 j1s.ysrmy1.com
-0.0.0.0 m.qilungroup.cn
-0.0.0.0 s.gygtxx.net
-0.0.0.0 askdfj.alskfdf.com
-0.0.0.0 xn--2qux23confgml.club
-0.0.0.0 m.ahinun.cn
-0.0.0.0 c.kzwwamf.cn
-0.0.0.0 m.xikedianzi.com.cn
-0.0.0.0 n.hzhfhkj.cn
-0.0.0.0 snprv.hnhgmh.mobi
-0.0.0.0 px.cbctp.top
-0.0.0.0 qtb.biquter.xyz
-0.0.0.0 f.vansfs.com
-0.0.0.0 eo.nunxi.xyz
-0.0.0.0 8z3j.cn
-0.0.0.0 vvv.qqdashabi.top
-0.0.0.0 pks1c.cxmygp.xyz
-0.0.0.0 mo.unwif.xyz
-0.0.0.0 v.4pl1gr.cn
-0.0.0.0 v.l0yjow.cn
-0.0.0.0 c.lxtvb.cn
-0.0.0.0 v.sofg68.cn
-0.0.0.0 m.juhuasuanguanwang.cn
-0.0.0.0 m.panwenjun.top
-0.0.0.0 xn--mtsr39cnql.video
-0.0.0.0 t.lqsw2.top
-0.0.0.0 sifa.xuexi.wiki
-0.0.0.0 sc.zangyitang.wang
-0.0.0.0 ee.89kvh.cn
-0.0.0.0 fg.knlk2md.cn
-0.0.0.0 c.1k978y.cn
-0.0.0.0 onlskdfj.zishahh.com
-0.0.0.0 m.yqqlm.vip
-0.0.0.0 img.baidu.qianggou8.top
-0.0.0.0 www.seerpiu002.com
-0.0.0.0 cbghz.zdzy.shop
-0.0.0.0 asdfjkls.jianyihang.com
-0.0.0.0 www.aoyou4.top
-0.0.0.0 git.jnjcxx.com
-0.0.0.0 www.bl2030.com
-0.0.0.0 c.shantelope.com
-0.0.0.0 xg.kxapctq.cn
-0.0.0.0 ic.aliyunh.xyz
-0.0.0.0 c.choujiang1.top
-0.0.0.0 wk.eccbb.com
-0.0.0.0 ads.superad.cc
-0.0.0.0 v.wqmgmrb.cn
-0.0.0.0 www.fsktv1990.com
-0.0.0.0 v.woaiseo.com.cn
-0.0.0.0 ee.i36mf.cn
-0.0.0.0 m.manparis.cn
-0.0.0.0 www.toujing19.top
-0.0.0.0 v.piecoupon.cn
-0.0.0.0 c.ti863.cn
-0.0.0.0 c.xlhwzx.cn
-0.0.0.0 c.0ij3tm.com
-0.0.0.0 v.lxtvb.cn
-0.0.0.0 ee1zz2a.bgjjwl.cn
-0.0.0.0 go.mikongdd.top
-0.0.0.0 dat1.jzjxmj.com
-0.0.0.0 sv.51niu.pro
-0.0.0.0 sc.newdata.vip
-0.0.0.0 eo.lfpna.xyz
-0.0.0.0 eo.pgqoqv.cn
-0.0.0.0 ydjs.zol.com.cn
-0.0.0.0 www.rdezbie.com
-0.0.0.0 un.ztxstudy.club
-0.0.0.0 m.cqzspt888.cn
-0.0.0.0 c.wqmgmrb.cn
-0.0.0.0 ee.xfya3.cn
-0.0.0.0 v.qv566.cn
-0.0.0.0 f99.265958.com
-0.0.0.0 www.larrytj.com
-0.0.0.0 sifa.taishu.shop
-0.0.0.0 ff.yiqima.xyz
-0.0.0.0 v.zoepb.cn
-0.0.0.0 cul.awwlrd.cn
-0.0.0.0 cdnyun.yun2028yun2026.com
-0.0.0.0 incsh.aifenxiang.xyz
-0.0.0.0 sc.haape.club
-0.0.0.0 t.basictool.vip
-0.0.0.0 v.hprlkvz.cn
-0.0.0.0 b.jinxiutengzhou.cn
-0.0.0.0 m.bh100.com.cn
-0.0.0.0 xn--wxt79hbyb675a.online
-0.0.0.0 c2sw.wbmvohkn.cn
-0.0.0.0 822.dlads.cn
-0.0.0.0 c.panruo.net.cn
-0.0.0.0 cdn.runative-syndicate.com
-0.0.0.0 v.mhtuucr.cn
-0.0.0.0 m.mysty.com.cn
-0.0.0.0 t.ihfudill.wang
-0.0.0.0 c.52jimi.top
-0.0.0.0 api.066hjkl.com
-0.0.0.0 m.yuyanbaojie.cn
-0.0.0.0 pc.jinrongwang.net
-0.0.0.0 www.jrafspaelojsejbn.xyz
-0.0.0.0 n.juhuasuanguanwang.cn
-0.0.0.0 koatkm.xyz
-0.0.0.0 sub2.avgle.com
-0.0.0.0 s.jtdxz.top
-0.0.0.0 eei.lobbycafe.cn
-0.0.0.0 cbghz.liuc.info
-0.0.0.0 e.jiehutian.cn
-0.0.0.0 2j.qhgbkr.cn
-0.0.0.0 tg.xkcxh.com
-0.0.0.0 ic.aliyuni.xyz
-0.0.0.0 o8sry6o.ebzqyow.cn
-0.0.0.0 v.wxxljy.net
-0.0.0.0 m.qxyu.top
-0.0.0.0 hvv.qududu.cc
-0.0.0.0 c.mhtuucr.cn
-0.0.0.0 v.4gpkf.cn
-0.0.0.0 mo.pgqoqv.cn
-0.0.0.0 web.cdn.openinstall.io
-0.0.0.0 m.ynhuya.cn
-0.0.0.0 oskdjfkds.52pipaxing.com
-0.0.0.0 sv.wytsoft.xyz
-0.0.0.0 m.guvdfs.cn
-0.0.0.0 v.totoc.top
-0.0.0.0 mo.luveonline.cn
-0.0.0.0 nmhte.xyz
-0.0.0.0 m.kzlong.top
-0.0.0.0 c.l0yjow.cn
-0.0.0.0 mo.energy-tmr.com.cn
-0.0.0.0 vb.ttshort.xyz
-0.0.0.0 m.hnkuangshan.cn
-0.0.0.0 tamuxia.m.zwdu.com
-0.0.0.0 v.wjlzs.cn
-0.0.0.0 rr.ndflgdjs.com
-0.0.0.0 eo.energy-tmr.com.cn
-0.0.0.0 yunyun.hxwntrrfciifqprlyj.cc
-0.0.0.0 ye.proko.cn
-0.0.0.0 sc.dssh.shop
-0.0.0.0 m.sdabfw.cn
-0.0.0.0 www.20202020zzzzzz.one
-0.0.0.0 ell.88kids.mobi
-0.0.0.0 bbk6236.jianchajingmk.net
-0.0.0.0 px.czxym168.cn
-0.0.0.0 c.wdgrtug.cn
-0.0.0.0 web.happyholidayhotel.com.cn
-0.0.0.0 c.wyykxyp.cn
-0.0.0.0 pincs.mz820.xyz
-0.0.0.0 pot.biqumo.com
-0.0.0.0 scr1.xianxhwy.com
-0.0.0.0 kry.jknrwe.cn
-0.0.0.0 m.chaoliangyun.cn
-0.0.0.0 c.jzdianlan.cn
-0.0.0.0 incsh.sanmenxia.info
-0.0.0.0 vkn3yy0.wushangzeichuan.xin
-0.0.0.0 f.vanein.com
-0.0.0.0 wzjs2.cdn.bcebos.com
-0.0.0.0 hshv.7kzw.com
-0.0.0.0 mo.alibdm.xyz
-0.0.0.0 m.itcoder.top
-0.0.0.0 v.0ij3tm.com
-0.0.0.0 mobivx.euyqiolnw.cyou
-0.0.0.0 br.shangke.asia
-0.0.0.0 m.1s8pj.cn
-0.0.0.0 m.yitime.top
-0.0.0.0 re5mqs2.geiaxbk.cn
-0.0.0.0 m.tsgyg.cn
-0.0.0.0 t.zhiwy.xyz
-0.0.0.0 tt.rulianshi.la
-0.0.0.0 mo.5lu8a.xyz
-0.0.0.0 c.haoanfang.cn
-0.0.0.0 jbgie8j.js131.cn
-0.0.0.0 js1.ybsyyh.com
-0.0.0.0 go.qicaihong.xyz
-0.0.0.0 m.zn8ni.cn
-0.0.0.0 c.lianjikeji.cn
-0.0.0.0 m.comberry.cn
-0.0.0.0 qs2055.com
-0.0.0.0 m.yyshow.top
-0.0.0.0 miv.xiangyuym.cn
-0.0.0.0 v.caxxetj.cn
-0.0.0.0 eo.euwyc.xyz
-0.0.0.0 aaa.zxglpj.cn
-0.0.0.0 n1q8cbr.lntnhtc.cn
-0.0.0.0 vlets.tuape.xyz
-0.0.0.0 suyuexs.cdn.bcebos.co
-0.0.0.0 v.kangai100.cn
-0.0.0.0 v.mageti.cn
-0.0.0.0 oskd2kj899.bamcsfm.com
-0.0.0.0 c.freeride.com.cn
-0.0.0.0 v.wdgrtug.cn
-0.0.0.0 c.hhaobcj.cn
-0.0.0.0 sunnycategoryopening.com
-0.0.0.0 m.xfya3.cn
-0.0.0.0 y.unilz588.com
-0.0.0.0 v.mywild.cn
-0.0.0.0 hypnc.ynns.shop
-0.0.0.0 m.hua6.cn
-0.0.0.0 xolfu.yikouxian.fun
-0.0.0.0 m.xieyanmin.com.cn
-0.0.0.0 m.sswelding.top
-0.0.0.0 v.rdoybkd.cn
-0.0.0.0 a.realsrv.com
-0.0.0.0 api.097iuhy.com
-0.0.0.0 jiu.rktupt.cn
-0.0.0.0 askdfjkls.moxiaoqihuoguo.com
-0.0.0.0 ef9i.lo83cs.space
-0.0.0.0 m.hjyll.top
-0.0.0.0 ddgouf.dnfkong.com
-0.0.0.0 v.mugogfy.cn
-0.0.0.0 m.shengchaopiao.cn
-0.0.0.0 c.drawenjoy.cn
-0.0.0.0 mg.ledaren.cn
-0.0.0.0 v.hrrrzwz.cn
-0.0.0.0 v.wyykxyp.cn
-0.0.0.0 w27.7x1u.icu
-0.0.0.0 sc.oldart.shop
-0.0.0.0 m.hehongmei.top
-0.0.0.0 mszu80t.kekop.cn
-0.0.0.0 ojskdjkf.mmlala.com
-0.0.0.0 api.yidiansurong.com
-0.0.0.0 pincs.qiangzai.work
-0.0.0.0 c.l570mb.cn
-0.0.0.0 xn--wxtr9fwyxk9c.art
-0.0.0.0 tg.wmqfey.com
-0.0.0.0 c.mywild.cn
-0.0.0.0 m.ahwczn.cn
-0.0.0.0 www.jfsdiwmnbsk008.top
-0.0.0.0 v.whbhsoft.cn
-0.0.0.0 mo.llqd5.cn
-0.0.0.0 cuic7w5.ddqhnjb.cn
-0.0.0.0 cbghz.mjyjt.biz
-0.0.0.0 obozy.pzdlfww.cn
-0.0.0.0 xuwqs.iqn.world
-0.0.0.0 v.l570mb.cn
-0.0.0.0 adcool.yibige.com
-0.0.0.0 go.lanmeifeel.xyz
-0.0.0.0 m.hy10010.com.cn
-0.0.0.0 m.hhinternational.cn
-0.0.0.0 m.quxiangkeji.cn
-0.0.0.0 c.hnzls8.cn
-0.0.0.0 poh.biqumo.com
-0.0.0.0 m.ensts.cn
-0.0.0.0 v.lianjikeji.cn
-0.0.0.0 xiamiss.wap.xsbiquge.com
-0.0.0.0 api.dushuzhe.cc
-0.0.0.0 v.laxnlqn.cn
-0.0.0.0 n.guvdfs.cn
-0.0.0.0 www.tianqi1212.com
-0.0.0.0 mo.h7t2f.xyz
-0.0.0.0 cc.uegjdlfjg.com
-0.0.0.0 v.slsidvx.cn
-0.0.0.0 sv.884069349.ltd
-0.0.0.0 m.nydjsm.cn
-0.0.0.0 c.v4dwkcv.com
-0.0.0.0 m.liujiaqi.top
-0.0.0.0 c.gk596.cn
-0.0.0.0 bootcdn.meihaoxiangwang.com
-0.0.0.0 m.giroud.top
-0.0.0.0 at1.qingdou.net
-0.0.0.0 mfo25978.eeo1h1.cn
-0.0.0.0 c.9weg7b.com
-0.0.0.0 v.dlyukun.cn
-0.0.0.0 c.vrrzmvb.cn
-0.0.0.0 www.abie21.top
-0.0.0.0 eluoyi.xbiquge6.com
-0.0.0.0 v.uqjflmw.cn
-0.0.0.0 eo.97xrd.xyz
-0.0.0.0 go.jieshareme.xyz
-0.0.0.0 mo.nrtgc.xyz
-0.0.0.0 c.jumorecn.com.cn
-0.0.0.0 sc.jslmtdgf.xyz
-0.0.0.0 tkledj.biquge.info
-0.0.0.0 vxs.eexiaoshuo.com
-0.0.0.0 eco.3q4td5.xyz
-0.0.0.0 h.yosjob.cn
-0.0.0.0 www.jfsdiwmnbsk009.top
-0.0.0.0 pwn9v.chenmujiang.com.cn
-0.0.0.0 sc.hnsyjaeger.site
-0.0.0.0 eo.jlzfe.xyz
-0.0.0.0 c.orizwud.cn
-0.0.0.0 so.xni.ink
-0.0.0.0 pwn9c.chenmujiang.com.cn
-0.0.0.0 olkdjfsl.xaqdf.com
-0.0.0.0 m.lesanmo.top
-0.0.0.0 v.shishishiguixinfangfuzhuangshanghan.cn
-0.0.0.0 m.feipaihehuoren.cn
-0.0.0.0 sv.zwmosu.xyz
-0.0.0.0 e.iahids76694.cn
-0.0.0.0 v.hntk.top
-0.0.0.0 mo.wajsa.com
-0.0.0.0 mobixc.bwervzxv.cyou
-0.0.0.0 m.zhide-edu.cn
-0.0.0.0 m.hdyoubang.cn
-0.0.0.0 sc.seallife.club
-0.0.0.0 t.e0hkzk2.cn
-0.0.0.0 c.fedsdq.com
-0.0.0.0 pstarv.cn
-0.0.0.0 ncbgh.liuc.info
-0.0.0.0 asldfkjs.xfgctg.com
-0.0.0.0 mo.ysny4f.cn
-0.0.0.0 in.wxebgpj.cn
-0.0.0.0 c.skwenq.cn
-0.0.0.0 m.1314sss.top
-0.0.0.0 code.cdjsblm.com
-0.0.0.0 brucq.my2.life
-0.0.0.0 rusabvgqh.xyz
-0.0.0.0 osjdkjfdk.bamcsfm.com
-0.0.0.0 tiexu.biquge.info
-0.0.0.0 m.skspt.cn
-0.0.0.0 mo.qpmue.xyz
-0.0.0.0 jiu.dsnfun.cn
-0.0.0.0 www.jfsdiwmnbsk006.top
-0.0.0.0 www.abie20.top
-0.0.0.0 c.taiquandao1.cn
-0.0.0.0 m.qlssbq.cn
-0.0.0.0 hcc.qududu.cc
-0.0.0.0 m.dian6.cn
-0.0.0.0 v.jinliaoyang.com
-0.0.0.0 qq.zoujuhonglawyer.com
-0.0.0.0 vlets.ybgo.xyz
-0.0.0.0 ee.yg10x.cn
-0.0.0.0 www.oollttqq.com
-0.0.0.0 gg.bixia66.com
-0.0.0.0 c.wubocheng.top
-0.0.0.0 hzdaye.m.zwdu.com
-0.0.0.0 xd.xweuu.com
-0.0.0.0 ayidaye.m.zwdu.com
-0.0.0.0 tech.douximo.cn
-0.0.0.0 travel.awwlfb.cn
-0.0.0.0 c.totoc.top
-0.0.0.0 www.qlspx.com
-0.0.0.0 gnj4pit.lntnhtc.cn
-0.0.0.0 ee.zn8ni.cn
-0.0.0.0 c.qv566.cn
-0.0.0.0 www.aiguoaiaiai.com
-0.0.0.0 js.daxueshengqiandai.com
-0.0.0.0 www.lmlmvip.com
-0.0.0.0 w92.oyxp.xyz
-0.0.0.0 j2s.ahxbpm.com
-0.0.0.0 un.yuqingby.fun
-0.0.0.0 b.coroplastsheet.cn
-0.0.0.0 c.lxanimation.cn
-0.0.0.0 v.ti863.cn
-0.0.0.0 www.jacklm2.com
-0.0.0.0 m.dailiq.cn
-0.0.0.0 mo.mu5b.cn
-0.0.0.0 s.shsnjj.top
-0.0.0.0 v.taiquandao1.cn
-0.0.0.0 www.xahywwx.com
-0.0.0.0 bbk6302.jianchajingmk.net
-0.0.0.0 go.zhiwan.club
-0.0.0.0 tfsnp.hnhgmh.mobi
-0.0.0.0 n.tzh315.cn
-0.0.0.0 v.njcengpianwang.cn
-0.0.0.0 m.gzxiuyuan.cn
-0.0.0.0 m.sofseo.cn
-0.0.0.0 eo.aliyunwang.top
-0.0.0.0 xothl.gbcnvip15.com
-0.0.0.0 auto.rctxobb.cn
-0.0.0.0 aksdjfksl.kuaiyunbd.com
-0.0.0.0 x67hwit.yflog.me
-0.0.0.0 oe.tredsd.com
-0.0.0.0 eo.unwif.xyz
-0.0.0.0 eo.choujimai.top
-0.0.0.0 wsk.segumy.com
-0.0.0.0 c.m06nev.com
-0.0.0.0 mo.ssdoi.com
-0.0.0.0 www.toujing8.top
-0.0.0.0 dm.519397.com
-0.0.0.0 ccxxn.999xs.com
-0.0.0.0 kasa.m.biqubao.com
-0.0.0.0 www.pdszhhs.com
-0.0.0.0 qq.vvx.highter.top
-0.0.0.0 andpeng.qushuba.com
-0.0.0.0 m.lr96.top
-0.0.0.0 yo.kuaipaobiaoju.com
-0.0.0.0 f6e8w.m8tu2.online
-0.0.0.0 mo.erkesi.cn
-0.0.0.0 m.longshiwl.com
-0.0.0.0 api.078uijy.com
-0.0.0.0 mroft.fztattoo.cn
-0.0.0.0 ios.426g.com
-0.0.0.0 www.g7clqaj4lszb4l4u.com
-0.0.0.0 v.dg186.cn
-0.0.0.0 vlets.weieo.cyou
-0.0.0.0 sc.gouyb.mobi
-0.0.0.0 ojkskjfkd.yuyinqs.com
-0.0.0.0 m.ygblogtag.cn
-0.0.0.0 j.ksgfld.com
-0.0.0.0 m.tzh315.cn
-0.0.0.0 v.hnzls8.cn
-0.0.0.0 e.henhuguan.cn
-0.0.0.0 www.jfsdiwmnbsk007.top
-0.0.0.0 v.kyvhxik.cn
-0.0.0.0 c.yunnanpulasi.com
-0.0.0.0 s.beizhoujt.cn
-0.0.0.0 oskdjfkdl3kl.shproud.com
-0.0.0.0 it7gcwn.wushangzeichuan.xin
-0.0.0.0 m.bmbb.xyz
-0.0.0.0 top.iibahmd.cn
-0.0.0.0 px.xiaomifood.cn
-0.0.0.0 m.meizhuli365.cn
-0.0.0.0 www.asdsdvd4.com
-0.0.0.0 mav.mavuz.com
-0.0.0.0 api.huashuge8.com
-0.0.0.0 c.kkbb.top
-0.0.0.0 h.2laezi9.cn
-0.0.0.0 so6.b3wg2.cn
-0.0.0.0 c.mageti.cn
-0.0.0.0 ee.1s8pj.cn
-0.0.0.0 www.jfsdiwmnbsk004.top
-0.0.0.0 t.srcode.top
-0.0.0.0 ha.forestwo1f.ltd
-0.0.0.0 vg.njdmald.com
-0.0.0.0 benedictene.com
-0.0.0.0 38rzcuf.kekop.cn
-0.0.0.0 cdn2024666888.2024yun2024666888.com
-0.0.0.0 www.toujing10.top
-0.0.0.0 m.byscy.cn
-0.0.0.0 eo.sdajxz.xyz
-0.0.0.0 o36j7a2.azhhr.cn
-0.0.0.0 t.njzrxx.xyz
-0.0.0.0 v.xianglong360.cn
-0.0.0.0 m.heylookhere.top
-0.0.0.0 ell.lubao-food.mobi
-0.0.0.0 stunninglover.co
-0.0.0.0 mobixc.zmxnsahq.cyou
-0.0.0.0 xn--wxtr9fwyxk9c.club
-0.0.0.0 cbghz.xinyuan.ink
-0.0.0.0 m.bjaoyou.cn
-0.0.0.0 m.boojun.cn
-0.0.0.0 i.opiwb.com
-0.0.0.0 hu544v.78zw.com
-0.0.0.0 s.signstu.top
-0.0.0.0 efe25.t7wl8.cn
-0.0.0.0 www.liebaovip.com
-0.0.0.0 www.ttyyuuoo.com
-0.0.0.0 yunyunyun.qgy8x8f64ky10v0r15hht6qbyw368cbo.com
-0.0.0.0 incsh.mz820.xyz
-0.0.0.0 fcc.lajsi2a.cn
-0.0.0.0 cnywst.com
-0.0.0.0 23jmv6.lhang.work
-0.0.0.0 m.wenzhougy.cn
-0.0.0.0 m.yaoboshiks.cn
-0.0.0.0 wiruaewnsicnocaidsk.booktxt.com
-0.0.0.0 www.uchaoqiang.top
-0.0.0.0 mo.yun-pdm2000.cn
-0.0.0.0 glf2i8q.grndhkd.cn
-0.0.0.0 qzxcvb.m.zwdu.com
-0.0.0.0 v.jzdianlan.cn
-0.0.0.0 v.jumorecn.com.cn
-0.0.0.0 qiegoa.xyz
-0.0.0.0 adsebs.ximalaya.com
-0.0.0.0 m.yg10x.cn
-0.0.0.0 v.wubocheng.top
-0.0.0.0 2gustis.xyz
-0.0.0.0 sc.vipytyl.ltd
-0.0.0.0 ao.chslwea.top
-0.0.0.0 golf.rctxobb.cn
-0.0.0.0 pyfdlz.zdzy.shop
-0.0.0.0 m.jcboloni.cn
-0.0.0.0 rz3cb7p.ebzqyow.cn
-0.0.0.0 v.jvcpgjh.cn
-0.0.0.0 v.skwenq.cn
-0.0.0.0 ignlnmzi.rjxj.xyz
-0.0.0.0 m.swujhkc.cn
-0.0.0.0 vtt.zwda.com
-0.0.0.0 v.m06nev.com
-0.0.0.0 www.toujing1.top
-0.0.0.0 v.yanyanbiji.com
-0.0.0.0 m.yujiangchu.com
-0.0.0.0 m.moonuiux.top
-0.0.0.0 sv.yyzz.shop
-0.0.0.0 tmlm.ljmei.com
-0.0.0.0 snprv.mhqx.store
-0.0.0.0 m.tianhaichen.top
-0.0.0.0 hcbjwt.com
-0.0.0.0 api.lewen123.net
-0.0.0.0 eo.llqd5.cn
-0.0.0.0 xn--wxtr9fwyxk9c.top
-0.0.0.0 poweredby.jads.co
-0.0.0.0 mobile.benwang.love
-0.0.0.0 eo.5lu8a.xyz
-0.0.0.0 sh996.dftoutiao.com
-0.0.0.0 m.log57.top
-0.0.0.0 v.eojphlm.cn
-0.0.0.0 s.ymgyyy.top
-0.0.0.0 m.yanjunbo.com
-0.0.0.0 www.wyxcb3.top
-0.0.0.0 www.jfsdiwmnbsk005.top
-0.0.0.0 aoret.qtrwwov.cn
-0.0.0.0 br.xinzhanggui.wang
-0.0.0.0 v.zbwnzb.cn
-0.0.0.0 v.mk6n4ym.cn
-0.0.0.0 uu.jiudiandyw.com
-0.0.0.0 b.beizhoujt.cn
-0.0.0.0 mobivx.zmxnsahq.cyou
-0.0.0.0 e.dukangjiu.net.cn
-0.0.0.0 v.rxconkz.cn
-0.0.0.0 www.tianjin4.com
-0.0.0.0 eo.wtsgd.xyz
-0.0.0.0 c.eojphlm.cn
-0.0.0.0 miv.ububyiw6655.xyz
-0.0.0.0 u.qscwdv.top
-0.0.0.0 m.ngsaang.top
-0.0.0.0 c.xjsytoy.com
-0.0.0.0 fjspi.songle.link
-0.0.0.0 px.nloader.xyz
-0.0.0.0 m.haoweb.top
-0.0.0.0 qtin.biquter.xyz
-0.0.0.0 mo.cifree.xyz
-0.0.0.0 sv.twhjyp.wang
-0.0.0.0 m.bogubogu.cn
-0.0.0.0 bourewsr.qushuba.com
-0.0.0.0 hourwerxd.qushuba.com
-0.0.0.0 av6p.urfjeqgl.cn
-0.0.0.0 v.lxanimation.cn
-0.0.0.0 v.yunnanpulasi.com
-0.0.0.0 ncbgh.aijingjing.site
-0.0.0.0 f.hshczy.com
-0.0.0.0 mil.rfjckj.cn
-0.0.0.0 1pzskg.cn
-0.0.0.0 c.njcengpianwang.cn
-0.0.0.0 c.mk6n4ym.cn
-0.0.0.0 m.bndbddt.top
-0.0.0.0 m.eieye.cn
-0.0.0.0 m.yajuke.com.cn
-0.0.0.0 zhuanqian04kyjs.com
-0.0.0.0 mo.un060y.cn
-0.0.0.0 www.vmsal.vip
-0.0.0.0 mic.xiaogouzhuanqian.cn
-0.0.0.0 v.kkbb.top
-0.0.0.0 www.gralfusnzpo009.top
-0.0.0.0 api.duoben.net
-0.0.0.0 m.11bl.gold
-0.0.0.0 asdkfjskl.guiliangtechnology.com
-0.0.0.0 cdn.b2pk.com
-0.0.0.0 kan.daiwofei2019.top
-0.0.0.0 t.wvjjnb.cn
-0.0.0.0 mobile.eeree.top
-0.0.0.0 xolfu.zyhx.ltd
-0.0.0.0 c.saastt.com
-0.0.0.0 c.youike.com.cn
-0.0.0.0 www.jfsdiwmnbsk002.top
-0.0.0.0 v.drawenjoy.cn
-0.0.0.0 ftfsn.m100.site
-0.0.0.0 m.w82ph.cn
-0.0.0.0 mo.97xrd.xyz
-0.0.0.0 v.hjhkpx.cn
-0.0.0.0 m.zhuanyule.cn
-0.0.0.0 m.lengren.com.cn
-0.0.0.0 s.uidcn.top
-0.0.0.0 www.toujing12.top
-0.0.0.0 api.qids.xyz
-0.0.0.0 mobixc.tuyqiolni.cyou
-0.0.0.0 eo.3uj0a.xyz
-0.0.0.0 h.e0hkzk2.cn
-0.0.0.0 www.jsqsjn.com
-0.0.0.0 eo.luveonline.cn
-0.0.0.0 v.pwfhjjh.cn
-0.0.0.0 eo.pyntb.xyz
-0.0.0.0 v.xdygw.com.cn
-0.0.0.0 wap.tiaozhuanmao1.cn
-0.0.0.0 sv.ladybugsweb.site
-0.0.0.0 gre768cc.x33xs.com
-0.0.0.0 incsh.hdherpc.cn
-0.0.0.0 l.mamababu.cn
-0.0.0.0 br.helloweb.vip
-0.0.0.0 bnf5ruz.grndhkd.cn
-0.0.0.0 in.jinlubaojie.cn
-0.0.0.0 ul6a.8lchxz.xyz
-0.0.0.0 boyceoyc.com
-0.0.0.0 www.abie24.top
-0.0.0.0 c.zbwnzb.cn
-0.0.0.0 xn--fjqz50cv5q3so.online
-0.0.0.0 mo.jlzfe.xyz
-0.0.0.0 www.prjslxhtx006.top
-0.0.0.0 e.jjjg.ren
-0.0.0.0 l.bjzsyx.cn
-0.0.0.0 mo.khbua.xyz
-0.0.0.0 city.youpukeji.cn
-0.0.0.0 v.vl665.cn
-0.0.0.0 m.aiotsemi.cn
-0.0.0.0 www.grjs02.com
-0.0.0.0 cqvmt.astep.info
-0.0.0.0 c.xianglong360.cn
-0.0.0.0 okslfki.guanxingyule.com
-0.0.0.0 fit.uuywe.top
-0.0.0.0 api.lwxs99.com
-0.0.0.0 v.pdfmxsh.cn
-0.0.0.0 edu.zhangmingqin.tech
-0.0.0.0 adse.ximalaya.com
-0.0.0.0 c.rxconkz.cn
-0.0.0.0 7p35wi8.xckyqq.com
-0.0.0.0 abc.zgm1.com
-0.0.0.0 c.jvcpgjh.cn
-0.0.0.0 www.jfsdiwmnbsk003.top
-0.0.0.0 v.feilan5.cn
-0.0.0.0 c.fzjarow.cn
-0.0.0.0 www.grjs01.com
-0.0.0.0 e.mysty.com.cn
-0.0.0.0 eo.khbua.xyz
-0.0.0.0 r6t.b3wg2.cn
-0.0.0.0 kn.zhipinbook.cn
-0.0.0.0 in.beizhoujt.cn
-0.0.0.0 c.jinliaoyang.com
-0.0.0.0 wap.88xiaoshuo.com
-0.0.0.0 v.xjsytoy.com
-0.0.0.0 vs.taoke.cloud
-0.0.0.0 v.freeride.com.cn
-0.0.0.0 v.wxskqy.cn
-0.0.0.0 pc.wegowan.com
-0.0.0.0 m.89kvh.cn
-0.0.0.0 fr.lestv1.icu
-0.0.0.0 api.wfxll.com
-0.0.0.0 c.feilan5.cn
-0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 c.whbhsoft.cn
-0.0.0.0 www.8ucdn.com
-0.0.0.0 www.baidullyouku.xyz
-0.0.0.0 cwent.tuape.xyz
-0.0.0.0 mo.szkca.xyz
-0.0.0.0 ap.czxym168.cn
-0.0.0.0 52xs.live
-0.0.0.0 mobivx.tuyqiolni.cyou
-0.0.0.0 www.toujing11.top
-0.0.0.0 cbghz.hcdz.site
-0.0.0.0 www.abie23.top
-0.0.0.0 vip.qicaihong.xyz
-0.0.0.0 n.tjlms.cn
-0.0.0.0 m.gz-bz.cn
-0.0.0.0 9uh94c.cn
-0.0.0.0 travel.exxfttj.cn
-0.0.0.0 mo.3uj0a.xyz
-0.0.0.0 c.tr31t.cn
-0.0.0.0 st2tic.xahggy.com
-0.0.0.0 aecbhedvuibuab.biduo.cc
-0.0.0.0 m.classicgir.cn
-0.0.0.0 mo.ccch.xyz
-0.0.0.0 ee.u4q2.cn
-0.0.0.0 v.saastt.com
-0.0.0.0 mo.gjpod.xyz
-0.0.0.0 www.prjslxhtx005.top
-0.0.0.0 m.zzhangqing.top
-0.0.0.0 cxs.eexiaoshuo.com
-0.0.0.0 fpb1.gxfin.com
-0.0.0.0 vc.taoke.cloud
-0.0.0.0 grenade.886721.com
-0.0.0.0 t.wangkuang.net.cn
-0.0.0.0 eco.myt7th.xyz
-0.0.0.0 m.pinkmore.cn
-0.0.0.0 m.futengbao.com.cn
-0.0.0.0 3sclqjn.51gpiao.cn
-0.0.0.0 m.cnxmyb.cn
-0.0.0.0 eo.un060y.cn
-0.0.0.0 kn.zhangdujia.com
-0.0.0.0 v.fzjarow.cn
-0.0.0.0 wap0c.m.wenxuemi6.com
-0.0.0.0 m.jiehutian.cn
-0.0.0.0 ll.txt53.com
-0.0.0.0 c.pwfhjjh.cn
-0.0.0.0 eo.8uqk.cn
 ###socialFloatVert
 breachmedia.ca,news.itsfoss.com##.share-toggle
 keepa.com#@#.socialButtons
@@ -27547,6 +27541,7 @@ ampparit.com##.social-media-links > .sidebox-content
 ##.footer__link--social
 tnh1.com.br##.noticias-single-header__share__list
 ##.icon-social-facebook
+iherb.com##.iherb-pdp-share
 ##.action.mailto.friend
 ###videoShareToEmbed
 ##.sharing-links
@@ -30365,6 +30360,7 @@ netfly.fun,netfly.tv,netflytv.xyz##.banner[href^="http"]
 @@||ettoday.net^$generichide
 zeekmagazine.com##.td-all-devices
 ||starnnews.com/banner/
+||okpl05040ai.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||vansky.com/agdg/vans/adv
 e2mv.com##.left_advert
@@ -30490,6 +30486,7 @@ ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
 ||lanrenzhijia.com/Public/images/xiaozhua.jpg
 ||wrdamoe.icu^
 ||qpic.ws/images/pk*.gif
+||xjvunf.top^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ##.mylist + #topthree
 ||bianzhirensheng.com/img/banner.jpg
@@ -31363,6 +31360,7 @@ ddooo.com##.gs_list
 ||iask.cn^*.data.
 163.com##.post_columnad_top
 udn.com###simplemodal-container
+||bebx.cn^
 ||ssyy881.com/zz/
 qq.com##.txp_ad_link
 ||pro.cn^$third-party
@@ -35263,6 +35261,7 @@ paopaoche.net##.down_btn2.green
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 18avtube.com,adultwefong.com,aicoin.cn,fsdpp.cn,ip138.com,mangahax.com,mm-cg.com,sports.qq.com,suopao.org,timecn.cn,txzqw.me,youxi.baidu.com###banner
 ||gd.189.cn*/push/$popup
+||ffxe.cn^
 jjckb.cn##div[class^="g"] > a:first-child:last-child
 ||baidu.com/resource/tuisong/
 ||xiexingcun.com/tongji.js
@@ -35554,6 +35553,7 @@ steelcn.cn##.new_fixed
 .com/logo/logo.js
 plus28.com##div[style="width:960px;margin: auto;"]
 2345.com##.v_picConBox.height214
+||ixbua.xyz^
 3987.com,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_thread_list[data-field^="\7b \"id\":4756933479,"]
 my0511.com###toplmad
@@ -35644,6 +35644,7 @@ hao.360.com###tmall-full-screen
 ||880sy.com/Public/js/*_gg.js
 ||dy8c.com/JieShaoBu-secret/uploads/hongbao
 ||wai69.com/js/baidu/
+||croqoltdp.com^
 pcdown.net##.sort_list > .clearfix:first-child
 ||okpp01031.xyz^
 .com/?aff=$popup,third-party
@@ -36022,6 +36023,7 @@ eol.cn##.listAd
 ||mamecn.com/style/pcjs/bgimg.
 mwrf.net##.uc1_focus_pics
 ||249999.xyz^*.gif
+||zgm1.com^
 nasyun.com##img[width="275"]
 ||f5zv2.icu^
 hc360.com###newAppBox1
@@ -37443,6 +37445,7 @@ hcbbs.com###portal_block_2652
 kafan.cn##a[href*="nameidi."]
 ||itc.cn/?prod=rtb&
 ||wnacg.*/1605524662751.gif
+||cnzz.trafficmanager.net^
 $script,third-party,domain=colamanga.com
 bkill.com##.alliance-ad
 gamefy.cn,sitv.com.cn##.col-vlist-l > span
@@ -40018,6 +40021,7 @@ wenxuecity.com###adt
 ##.widget_adbox
 ||ax.ifeng.com^
 ||2za.fun^
+||uuiaoq.top^
 acggd.com##a[href*=".apk"]
 ||aegzoils.com^
 ablesci.com#?#.fly-panel:-abp-has(img[src*="-hongbao."])
@@ -42996,6 +43000,7 @@ kocpc.com.tw##.kocpc_bot_ad
 jianhuadaily.com##.alignnone[width="800"]
 @@||anime1.me/ads.js
 eprice.com.tw###popup-ad-overlay
+||sikaq.top^
 ||hao123.com/static/img/taobao
 ||baizhan.net/js/136/jingyun_righttop.
 ||qq.com/tousu/img/20210511/8966052_1620746143.jpg
@@ -45801,6 +45806,7 @@ mydown.com##.advertisement_pic
 ||jsdelivr.net/gh/pizcat/static@master/goods_ad.js
 acglover.me##.myas
 ||gtimg.com/edu/pics/hv1/115/26/2077/135063670.png
+||qqosk05040llo.com^
 ||iemhotqk.com^
 hao123.com##.adMainMiddle-box
 ||mat1.gtimg.com/cq/flash/
@@ -61317,6 +61323,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.daiethermaxpro.com^
 ||www.ufuexs.com^
 ||www.amtcoltd.com^
+||www.rariblejkd.com^
 ||www.financehfa.com^
 ||tqubb.hohemksy.com^
 ||www.ganeshare.com^
@@ -61398,6 +61405,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tzydf.world^
 ||m.deeplcoin.link^
 ||www.stellaracb.com^
+||www.icapptdex.com^
 ||xlm.msbpit.top^
 ||www.vertexpto.com^
 ||nftcwc.nftiak.com^
@@ -61438,8 +61446,10 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bigoneexchange.org^
 ||www.flovcaz.com^
 ||www.aas9999l.cn^
+||www.kxzbvjk.com^
 ||umbrella-boutique.oen.tw^
 ||www.bgeca.com^
+||app.krsrtv.com^
 ||app.retuos.com^
 ||www.txiokasse.com^
 ||www.coinpxc.com^
@@ -61448,6 +61458,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.thcetraodlngpit.com^
 ||www.zfthydedgene.com^
 ||www.bitmex.top^
+||zozo-worlshops.com^
 ||uniswapfinance.vip^
 ||verasity.waibjo.com^
 ||phemexp.com^
@@ -61462,6 +61473,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||22.yesjkk.com^
 ||www.scxexchangeck.com^
 ||www.coinlistos.com^
+||yoc-max.com^
 ||bingttk.com^
 ||h5.cbiivip.top^
 ||ioospngw.monster^
@@ -61879,6 +61891,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||bdswisstjv.com^
 ||www.solenduyi.com^
 ||usellhhejebddlzq.com^
+||m.sandss9.vip^
 ||aztcp.com^
 ||m.wns4195.xyz^
 ||www.almn958.xyz^
@@ -62577,6 +62590,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.wanhao9188.com^
 ||app.wbexgo.com^
 ||93c2o.uduuuwx.com^
+||www.employmentw.xyz^
 ||btcdoms.com^
 ||www.xdyof.com^
 ||www.crexnis.vip^
@@ -63117,6 +63131,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.idexis.net^
 ||www.airena.top^
 ||veshappyenterprise.com^
+||okxny.com^
 ||btsedex.xyz^
 ||www.bwsgu.top^
 ||www.idfpowerta.com^
@@ -63197,6 +63212,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.oexybit.com^
 ||www.kslosz.com^
 ||www.hqskv.info^
+||apple-down.com^
 ||tcbch.com^
 ||gslbvg.com^
 ||www.bfkhj.store^
@@ -63397,6 +63413,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||lippotw.com^
 ||meetwmrk.com^
 ||www.dpnncj.shop^
+||www.lbank-internat-tw.com^
 ||lehinsecurities.com^
 ||alphafinace.com^
 ||bla01.icefjp.com^
@@ -63425,6 +63442,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ftmhi.com^
 ||www.daietherpro-trade.com^
 ||www.3989988.com^
+||www.vcrrdw.com^
 ||www.cpmanger.com^
 ||hiveshopcms.vip^
 ||orderpc24.com^
@@ -63441,6 +63459,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||dbyl1868.com^
 ||hxhl999.com^
 ||mmb.jewelryddv.com^
+||www.tkshopcm.com^
 ||www.ritunb.com^
 ||app.uainfbja.com^
 ||www.meaxt.com^
@@ -63450,6 +63469,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||sfhcsec.com^
 ||jzmarkets.com^
 ||www.bsvyqa.com^
+||bursacoin88.my^
 ||bembot.online^
 ||jiaoyi.sf16807.com^
 ||www.xrexweb0.com^
@@ -63588,6 +63608,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.aavadefi.com^
 ||geminialo.pro^
 ||app.djqwiewhq.com^
+||hucheap-store.com^
 ||www.vbzdbasa.xyz^
 ||art-charger.pro^
 ||hwhw.smartpool.top^
@@ -63834,6 +63855,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.btminepx.com^
 ||bithashsg.com^
 ||www.genappena.com^
+||digit.lotadefiaga.com^
 ||www.coinuua.com^
 ||asia.huifura.com^
 ||kwokhings.com^
@@ -64072,6 +64094,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.wjiajkgfg.com^
 ||diaodl.xyz^
 ||www.pwhrn.com^
+||www.tyedjsa5.com^
 ||www.vertexto.com^
 ||m.mitsubishicorphk.com^
 ||www.cwprodis.vip^
@@ -64131,6 +64154,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bingnibe.com^
 ||www.fxprotw.tw^
 ||wwwi.uepluss.com^
+||bit-coin-cash.asia^
 ||www.pluspof.com^
 ||mysmartscoins25.com^
 ||m.pe-qe.xyz^
@@ -64152,6 +64176,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||mh6688.uevuseors.com^
 ||www.aqn666.net^
 ||www.e-bayshops.com^
+||www.twxcex.com^
 ||zlpwqe.qian.drpj.tw^
 ||6355539.com^
 ||www.vertexchanges.com^
@@ -64199,6 +64224,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ethnano.finance^
 ||app.hunter-mallsa.com^
 ||www.hkmssmsab.com^
+||markets-shop.xyz^
 ||xiapishopins.com^
 ||web.citcoin.top^
 ||instabankibo.com^
@@ -64248,6 +64274,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||besp.slamne.com^
 ||www.hs767g.sbs^
 ||app.yghhrjqhshdj.com^
+||booking-vips.com^
 ||usblockchainbank.com^
 ||ammcoins.xyz^
 ||www.lmstotys.com^
@@ -64584,6 +64611,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.eqskosjv.com^
 ||www.ryewrg.com^
 ||www.ukshop-s.com^
+||www.brezto.fun^
 ||l.sgrgro.com^
 ||bookingworld.cc^
 ||genernnysen.com^
@@ -64593,6 +64621,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.qsctan-vip.com^
 ||rggo168.com^
 ||www.zenexcex.com^
+||www.fmailvip.cc^
 ||whatyorfwaffleiron.com^
 ||gmxbina.top^
 ||global-11st.com^
@@ -64635,6 +64664,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.octadate.top^
 ||www.huoyusaas.xyz^
 ||www.manavme.com^
+||bit5698hnm.cyou^
 ||www.pecunien.com^
 ||www.fuexet.com^
 ||m.zdex.store^
@@ -64982,6 +65012,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ff2.volatilal.com^
 ||51n.fun^
 ||www.ireyrbhg.com^
+||jo.jgpcoin.my^
 ||d.cbjkz.top^
 ||www.xmspots.com^
 ||www.fdinvest.net^
@@ -65015,6 +65046,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ethmz.com^
 ||www.yaheod.com^
 ||www.cghjy.com^
+||www.twxauxjpf.com^
 ||www.lirungsjfe.com^
 ||lhtrin.abmbit.com^
 ||transactionview.club^
@@ -65047,6 +65079,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||cs.tahjkf.icu^
 ||www.fxcapitalex.com^
 ||hbex.vip^
+||mexcsis-eok.top^
 ||yq.xingongzi.com^
 ||nbiaybiwos.top^
 ||isufinance.com^
@@ -65081,6 +65114,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.profitbotaix.xyz^
 ||www.screrthsnh.com^
 ||mdapp.coinrulen.com^
+||www.edgewb.com^
 ||zh.aliexp-shop.vip^
 ||www.adcloud.us^
 ||ios.pzcoin.xyz^
@@ -65179,6 +65213,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||lucky168.pleroma.cc^
 ||vitex666.top^
 ||apac.lirunpsiuvhyb.com^
+||cotcoswholes.com^
 ||www.njsl.pro^
 ||www.zyzdapp1.com^
 ||btc-fi.club^
@@ -65250,6 +65285,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||iu-cuweb.com^
 ||www.pguie.online^
 ||www.gemini-inter.com^
+||www.cghoo.com^
 ||uniswapsv3.top^
 ||www.shopvipgiveback.com^
 ||www.xtnkpp.com^
@@ -65395,6 +65431,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||arexr99.jobscoiin.com^
 ||www.dfgek.com^
 ||xzgj999.com^
+||dolo.ceex.su^
 ||coinup-pro.com^
 ||pokenpay.com^
 ||www.toastpay.com.tw^
@@ -65588,6 +65625,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.vseperiqk.com^
 ||www.xmkdfhi.com^
 ||www.focusdjn.com^
+||www.bit-velic.com^
 ||www.wealthfreedomtw.com^
 ||hr.oomqoeg.xyz^
 ||shengji91.com^
@@ -65740,6 +65778,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||kfwiowg.xyz^
 ||trustamm-coin.life^
 ||www.kcraeres.com^
+||mdcglvbo.top^
 ||paxosogt.com^
 ||cmcwgie.com^
 ||crm.fob-fx.net^
@@ -66161,6 +66200,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.svipnosw888.cn^
 ||www.venusprotocolnck.com^
 ||td.bitcoinacme.com^
+||www.osjfod.com^
 ||exchange.monexgroups.com^
 ||dcgou.funerush.cc^
 ||www.itbitoyz.com^
@@ -66252,6 +66292,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||fnxboennxem.com^
 ||vnn18.goodluck988.com^
 ||www.bestbuy-jp.com^
+||909089.ztzchveo.com^
 ||www.coinatcanna.com^
 ||b52capital.top^
 ||mue83x.com^
@@ -66605,6 +66646,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||surfsharkdexr.com^
 ||coinme-y.com^
 ||h5.nasdaq-pro.com^
+||www.fbstw.net^
 ||www.kraken-ex.com^
 ||n8866.slamne.com^
 ||d.xinbiglobalb.xyz^
@@ -66779,6 +66821,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tnnnkasndq.com^
 ||bitfinexclub.com^
 ||thresholdwla.com^
+||www.flixtwsystem.com^
 ||shopeeseller.vip^
 ||www.pramouri.com^
 ||www.lbank-inter-tw.com^
@@ -66982,6 +67025,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||rxhacks.com^
 ||www.fex-global.com^
 ||www.xgfta.com^
+||www.teiiido.com^
 ||fil.msbpit.top^
 ||www.eightvcapfx.com^
 ||ht.cbexjiu02.top^
@@ -67393,6 +67437,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||root1.kcroaeees.com^
 ||lifeshop.me^
 ||www.coinzmm.com^
+||www.ktwdtu.com^
 ||a004.8legend.online^
 ||mwxyq.com^
 ||www.geminierv.com^
@@ -67448,6 +67493,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.lovetea.shop^
 ||www.yiahvdycvb.com^
 ||www.amzbuy.store^
+||9491150.cc^
 ||qby3967.com^
 ||www.maicoinmj.com^
 ||www.dsjkch.com^
@@ -67724,6 +67770,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||tw32.yesoss.com^
 ||m.aifejq.top^
 ||www.zxcx.cc^
+||www.lhtwud.com^
 ||disb.vip^
 ||m.vns1029.top^
 ||www.ai-coinsee.cc^
@@ -67883,12 +67930,14 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.binam2link.shop^
 ||twshopify-lat.com^
 ||www.bingo-player.com^
+||jttzn.sbs^
 ||www.mdbfnp.cc^
 ||international-fx.net^
 ||app.wocrdr.top^
 ||crm4.topiato.com^
 ||ht.kjcoinliu06.top^
 ||www.cnaoju.com^
+||anotheras.com^
 ||www.bitvfb.com^
 ||tw46.shopckk.com^
 ||safoforextw.com^
@@ -67993,6 +68042,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||dhdarkuit.com^
 ||www.jisofuodi.com^
 ||tw25.shopjjj.com^
+||www.extrustorhube.com^
 ||www.sgbgrowone.com^
 ||mchaekvip.shop^
 ||www.pchomeshopping.store^
@@ -68519,6 +68569,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||relaunch.orakurudefe.com^
 ||www.qgorb.com^
 ||app.xzloep.com^
+||bf72j1.yn8q6fe3dqa2.cc^
 ||mh6688.monierad.com^
 ||nftgoper.com^
 ||www.fopxce.com^
@@ -68542,6 +68593,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||coinntcrt.com^
 ||www.tk3.shop^
 ||itrygroup.com^
+||m.bit-node.sbs^
 ||www.rubicbax.com^
 ||cm.enmgjt.top^
 ||jdpiv.com^
@@ -68562,6 +68614,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.cryptagrop.vip^
 ||www.woruyrgsb.com^
 ||www.cezym.top^
+||nikoolaiarst.com^
 ||ncvtruist.com^
 ||m.qe-pe.cc^
 ||fxcm665256.cc^
@@ -68588,9 +68641,11 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||tsgtw.bitlo.fun^
 ||www.tcmaxflc.net^
 ||mexc.yfws.live^
+||mu3is6.cc^
 ||web.digifinexvip.info^
 ||htps.ainetwkpnyt.com^
 ||mdapp.xcmud.top^
+||hkcoins539.com^
 ||odd.excellentw.com^
 ||www.yfhkjr.com^
 ||www.dioesp.com^
@@ -68894,6 +68949,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.otndh.com^
 ||m.bitgin.art^
 ||coin-dnf.cc^
+||es.kfcin.it.com^
 ||xo688oro.xyz^
 ||app.yfuhp.top^
 ||peichengllc.com^
@@ -69151,6 +69207,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||app.ggeesg.top^
 ||www.2okextw.net^
 ||www.otnjr.com^
+||www.chasethwireless.com^
 ||download.00888.tw^
 ||distribute.apple888.vip^
 ||www.gloxtcdoe.com^
@@ -69373,6 +69430,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.swyftxproit.net^
 ||www.xoisole.com^
 ||www.orsted-ac.com^
+||www.bndnb.com^
 ||www.rmhqgx.top^
 ||ltsprox.com^
 ||albb8596.com^
@@ -69611,8 +69669,10 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||gomarkfinance.com^
 ||www.shopeenow.top^
 ||www.peeba5.com^
+||h5.iaoshop.com^
 ||htps.goodsquexx.com^
 ||www.meffez.net^
+||www.balmyjhb.com^
 ||www.puerstea.shop^
 ||crypto.servep2p.com^
 ||vistacoinpvp.com^
@@ -69666,6 +69726,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.maywctvu.com^
 ||www.zlsiets.com^
 ||app.nmswx.com^
+||shop.govsx.com^
 ||www.ivjuiujiuqw.com^
 ||www.oodiufyu.xyz^
 ||www.gphwr.com^
@@ -69938,6 +69999,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||cryptocoredex.net^
 ||app.ohkptw.top^
 ||dyplusttr.com^
+||intshopmarts.com^
 ||app.fvkbtb.top^
 ||www.okxmoney.com^
 ||www.pknenergyhub.com^
@@ -69983,6 +70045,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||powergendx.com^
 ||www.ioex8.com^
 ||www.gggbbbn.com^
+||bitpose.pro^
 ||dolo.ffexff.com^
 ||m.lyhvr.top^
 ||www.pipspooldpcrm.com^
@@ -70027,6 +70090,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||mu-coin.info^
 ||cnfapm.com^
 ||www.etwcoin.com^
+||down.igib.cc^
 ||tw1234.com^
 ||app.zaoiesf.com^
 ||www.geminisvip.cyou^
@@ -70175,6 +70239,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||fxinvechcorporation.com^
 ||www.woojuree.com^
 ||wdh.esegro.com^
+||imtoke.bond^
 ||gs-shops-global.com^
 ||tw43.joom.mx^
 ||mentfundinge.com^
@@ -70358,6 +70423,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||oooo6888.omegasolo.com^
 ||indoovm.com^
 ||g0222.jy51688.net^
+||www.9885560.com^
 ||app.tandjjd.com^
 ||www.focusids.com^
 ||sxguangyu.com^
@@ -70399,6 +70465,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||download.mbtc.finance^
 ||www.bnmjfg.com^
 ||www.pvsfo.com^
+||temuas.shop^
 ||www.maicoinmp.com^
 ||www.fufa1389.com^
 ||a.dsndfbxsa.xyz^
@@ -70542,6 +70609,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||sgrc.work^
 ||pc24center.com^
 ||ethq.github.io^
+||boyin.suiqh.com^
 ||www.lagrf.com^
 ||rich888.etoraiertes.com^
 ||www.akoues.com^
@@ -70637,6 +70705,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||shopingmai.com^
 ||app.keuydt.com^
 ||coin-cow.io^
+||www.slogan-here.xyz^
 ||www.progynn.com^
 ||www.upholdero.com^
 ||bit9563.xyz^
@@ -70960,6 +71029,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||munu-coin.cc^
 ||www.startrader7.tw^
 ||www.bitekrc.com^
+||www.wlfibit.com^
 ||raerkwtq.top^
 ||9x168.com^
 ||schwcapital.com^
@@ -71212,6 +71282,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||gjyc.gwysn.social^
 ||www.eulergqc.com^
 ||goleaderfx.com^
+||www.huayu5392.top^
 ||sgd588.xyz^
 ||www.aurumtrade.xyz^
 ||www.fomoehgxe.com^
@@ -71324,6 +71395,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||huigulimitedx.com^
 ||www.igctb.com^
 ||ghycke.com^
+||www.utieihvnn.com^
 ||dy.kj8w7et35r.com^
 ||mastertrademore.com^
 ||buy.kagym.store^
@@ -71399,6 +71471,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bitmillion.cc^
 ||www.marketaxessen.com^
 ||bitchrom.com^
+||www.mtxexchange.com^
 ||www.teydsu.com^
 ||www.muchxcoin.com^
 ||www.tahekuotai.com^
@@ -71641,6 +71714,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.fwae3okmmsa.com^
 ||ianti999.top^
 ||miraclerfs.com^
+||securonexmarketsan.com^
 ||ft.alphaxvip.com^
 ||m.mpoug.com^
 ||iycgv0.cjsjemss.com^
@@ -71708,6 +71782,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||tw.sggw.lat^
 ||www.lilybuy.site^
 ||yajuvds.com^
+||crypto-scwalletx.com^
 ||flipster.finance^
 ||dyplusdbr.com^
 ||rakutenzz.com^
@@ -71751,6 +71826,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||tmallshtw.com^
 ||surfsharkdexovc.com^
 ||www.kokocap.vip^
+||m.yunding6188.top^
 ||d2yt9hj1yu3ly.cloudfront.net^
 ||www.fastexfmnv.com^
 ||www.wintw.wiki^
@@ -71989,6 +72065,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||instabankmvp.com^
 ||digit.lmaxfinmas.com^
 ||www.ncgpna.com^
+||www.bjdfnd.com^
 ||gateioqbns.com^
 ||www.mtwxikai.com^
 ||www.bfkhj.buzz^
@@ -72092,6 +72169,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||abce-commerce.vip^
 ||www.lpsooe.com^
 ||app.btcbbz.com^
+||zh.merchantside.net^
 ||trubit-crypto.com^
 ||www.okxrdfv.com^
 ||www.hfmpm.com^
@@ -72287,6 +72365,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ptpwebapst.com^
 ||alaroal.com^
 ||www.boxxcoin.top^
+||spades.metasafethree.online^
 ||www.godfxtech.com^
 ||shop.globaltiktoksp.com^
 ||l.sgrgjyro.com^
@@ -72298,6 +72377,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.gopugroup.com^
 ||www.taiwanemployment.xyz^
 ||www.raredigger.com^
+||face-deepgtp.top^
 ||nftsbv.com^
 ||d.bitsvs.shop^
 ||www.bitwinnx.com^
@@ -72438,6 +72518,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||satmltey.com^
 ||www.ejpdlgv6.com^
 ||haitaohdfgx.com^
+||wealthchange.zwuoc.com^
 ||www.svjinto99.com^
 ||tcbcore.com^
 ||www.verswin.top^
@@ -72524,6 +72605,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.zenexcus.com^
 ||link.megmgulk.vip^
 ||www.solanafft.com^
+||fastvp.com^
 ||www.dsgyfb.com^
 ||www.sdagex.net^
 ||bvoxv.com^
@@ -73117,6 +73199,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||meiqiao.xyz^
 ||www.lafitemanor.com^
 ||www.eno.quest^
+||www.pecuniace.com^
 ||www.omegasasa.com^
 ||bitycon.top^
 ||dg.natetf.com^
@@ -73620,6 +73703,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.plustsipro.com^
 ||dexa-ai.com^
 ||www.ubs-exc.com^
+||www.ltudtu.com^
 ||www.bitop-king.net^
 ||www.rutnnshop.com^
 ||wap.wns4169.xyz^
@@ -74535,6 +74619,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||m.bnextex.cc^
 ||www.hrthd.com^
 ||merica.nstwexchange.com^
+||www.idleyej.com^
 ||ft.educa.it.com^
 ||tyysz.ynqrszvs.com^
 ||www.tapbit-link.xyz^
@@ -74554,6 +74639,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.avaexapp.com^
 ||coincomex.xyz^
 ||www.tw-cbec.com^
+||www.kdingprice.xin^
 ||www.ksoiez.com^
 ||app.cvkll.com^
 ||www.jarviskeu.com^
@@ -74846,6 +74932,8 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.branch-trade.com^
 ||app.lkzdsj.top^
 ||ramonasia.com^
+||lidemall.vip^
+||hope1.liberty620.one^
 ||www.qsctan-max.com^
 ||www.rutenstores.io^
 ||www.itbitswe.com^
@@ -75017,6 +75105,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.aliexperss.org^
 ||www.mustershop.com^
 ||www.btmcoltn.vip^
+||www.qrusgb.com^
 ||ztx-online.com^
 ||tw29.shopzkk.com^
 ||www.bitdbd.com^
@@ -75099,6 +75188,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.shangtaio.shop^
 ||pmp.marketicl.com^
 ||www.ufuextop.com^
+||tw43.yesssr.com^
 ||www.amz-5.com^
 ||www.tcpro-otc.com^
 ||jiingsystemtw.com^
@@ -75481,6 +75571,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||mercurymine.xyz^
 ||bitewtx.com^
 ||www.tdame.cyou^
+||cointradingexchange.asia^
 ||www.jszbtwtw.com^
 ||www.puhui65.com^
 ||h5.batecoin.shop^
@@ -75779,6 +75870,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.viphz888.com^
 ||www.uuexibs.vip^
 ||www.huanqiugouwu1.com^
+||www.shopback-online.monster^
 ||dl.lclo.top^
 ||www.yloses.com^
 ||www.yzcx1688.com^
@@ -76100,6 +76192,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||sendo.tw^
 ||www.dnujgyrhg.com^
 ||www.lkgesr.com^
+||bondmarkeakt.com^
 ||www.rovaeoatinheb.com^
 ||cuoso.cc^
 ||www.fbaisd.com^
@@ -76179,11 +76272,13 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.fomoehpkps.com^
 ||www.vjeikd.com^
 ||times.54263723.com^
+||avinyate.com^
 ||www.itw-aetos.net^
 ||zdfkhj-usds.com^
 ||downloadkhfnbc03.xyz^
 ||www.jpzymetal.com^
 ||www.grotozxb.com^
+||coinstoervip.com^
 ||vip2.bellajo.club^
 ||www.bukot.top^
 ||wwwa.glatfese.com^
@@ -76209,6 +76304,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bitsoopi.top^
 ||www.spxuvm.com^
 ||exmosvip.vip^
+||coinftwvip.com^
 ||ipeendb.com^
 ||www.daksc.com^
 ||www.ioexx100.com^
@@ -76358,6 +76454,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.coinhakopro.com^
 ||www.kca888.com^
 ||www.red-mall.shop^
+||www.flthd.com^
 ||www.cdpqkm.com^
 ||dapp.ethpools.xyz^
 ||app.xdolsp.com^
@@ -76372,6 +76469,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||pgdn.sandmic.com^
 ||tu123.online^
 ||www.lseuser.com^
+||www.wexfordglobale.com^
 ||hope3.top^
 ||buyx33.today^
 ||m.pfizertaiwan.top^
@@ -76417,6 +76515,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.huazlive.com^
 ||hnsixr.com^
 ||twtmallshdown.com^
+||dreamall-shop.com^
 ||dooprimerm.com^
 ||onchainweb.pro^
 ||www.digitalorigin8.com^
@@ -76616,6 +76715,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||orangexib.com^
 ||follow.medisou.cloud^
 ||ottoshopss.com^
+||hscylle.online^
 ||learn.gaworkweb.com^
 ||mainnetib.com^
 ||www.oxkiy.xyz^
@@ -76789,6 +76889,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||square.9255139.site^
 ||m.wyn777.cc^
 ||aztradeda.com^
+||ups.shafermall.shop^
 ||www.cuptopss.com^
 ||8.seashop99.com^
 ||www.xsjy647.vip^
@@ -76870,6 +76971,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||m.kcmtradeincfx.com^
 ||www.51weinisi.com^
 ||www.reefvsdv.com^
+||ufuex.mfdro.com^
 ||www.aigcoinrpp.com^
 ||cgpconft.com^
 ||app.ckfogr.com^
@@ -77011,6 +77113,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.gfgygggfu.com^
 ||bdiexchange.ausmetw.com^
 ||bubjust.com^
+||www.icpjgk.com^
 ||jptw.bds8869.com^
 ||www.etimtoken4.com^
 ||h5.vanguardokx.site^
@@ -77121,6 +77224,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||m.fhxyyydss.top^
 ||vistacoinksp.com^
 ||d22cm59et7fln4.cloudfront.net^
+||www.gittigidiyor.one^
 ||1hdstoretw.com^
 ||app.natysa.top^
 ||www.kdpou.com^
@@ -77377,6 +77481,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.johnson-market.xyz^
 ||www.kobexchange.xyz^
 ||www.coindoes.com^
+||wafertitan.com^
 ||www.okbndu.com^
 ||p6.modern-inv.com^
 ||m.parsian333.vip^
@@ -77414,6 +77519,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||yongli-wins.cc^
 ||paymium49.buzz^
 ||www.niayuhg.com^
+||happy-go-shops.com^
 ||down.ybujm.top^
 ||omen4btc.top^
 ||www.gpt4x-op.top^
@@ -77576,10 +77682,12 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||uniswapn4.cyou^
 ||zhurongtw.net^
 ||imtokem.one^
+||verattds.com^
 ||apps.byexbank.top^
 ||tokage.charlesfinance.store^
 ||www.coinsitag.com^
 ||www.haoruidiu.com^
+||www.dkgfk.com^
 ||www.yqtbne.top^
 ||www.myjfjy860.xyz^
 ||walmvip.shop^
@@ -77618,6 +77726,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||m.dinacview.net^
 ||www.ycworld.top^
 ||m.wxgfvz.top^
+||www.bitmaxcoinpro.com^
 ||www.coinhakoin.com^
 ||m.amxjj.top^
 ||tw53.yesjkk.com^
@@ -77672,6 +77781,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||twa4.joom.mx^
 ||www.sbiofficial.com^
 ||www.bitagle.com^
+||m.bitwaletm.com^
 ||ebay-tw.net^
 ||www.flowexchangeplus.ink^
 ||bitcluecoin.com^
@@ -77680,6 +77790,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.aiyfproin.com^
 ||h5.bitget.win^
 ||dreambxn.com^
+||deribit.wland.top^
 ||zja1z.dannilu.com^
 ||app.iiistocks.com^
 ||phx.exchange005.online^
@@ -77724,6 +77835,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.gdras.xyz^
 ||torontoexchange-3.top^
 ||app.pztvap.top^
+||pc.fxccgroup.com^
 ||www.abbcc.cyou^
 ||www.iexglobalst.com^
 ||app.koisep.com^
@@ -77796,6 +77908,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||onlyourpc24.com^
 ||m.wwruag.top^
 ||seo9453.ofa377.net^
+||cryzenex.com^
 ||zhiyinng.com^
 ||mixuemart.com^
 ||www.vueraad.com^
@@ -77822,6 +77935,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.wexxex.com^
 ||m.am-top.com^
 ||net.lcef2023.com^
+||webseal.cc^
 ||www.bfndfh.com^
 ||www.animocanrv.com^
 ||user.masknetwork.network^
@@ -77842,6 +77956,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||fastvq.com^
 ||moneysqureib.com^
 ||d.iglk.info^
+||wap.angelfund.cloud^
 ||www.joybitex.io^
 ||www.climpup10.com^
 ||m.ecforex.com^
@@ -77896,6 +78011,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||warriorxg.com^
 ||tw2.fi-delity-design.info^
 ||www.globaltrond.com^
+||www.djiiiitw.com^
 ||tw.vipyua.com^
 ||suphgr.com^
 ||www.sonnelke.com^
@@ -78325,6 +78441,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.kpllcky.top^
 ||deamed.cc^
 ||www.rbvzn.website^
+||ruyijade.com^
 ||www.qgtnln.top^
 ||ibmai.leyait.com^
 ||www.winper.ink^
@@ -78335,6 +78452,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||d.whnfq.top^
 ||www.nexdaxcuij.com^
 ||www.carrefomiarrts.com^
+||www.twndtk.com^
 ||www.xtzido.com^
 ||www.x-block.asia^
 ||www.buyeehk.life^
@@ -78445,6 +78563,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tw-fbs.top^
 ||cht-vip.com^
 ||www.wjjssa.com^
+||aespa88.vip^
 ||gshopg.store^
 ||www.defincv.com^
 ||www.eprice-one.com^
@@ -78565,6 +78684,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||app.gjvqar.top^
 ||www.costcoshopp.com^
 ||app.chxduj.top^
+||fm-marstb.com^
 ||mycoinpsf55we.com^
 ||h51.37555bet.com^
 ||m.uklmp.top^
@@ -78632,6 +78752,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.cgfetoro.com^
 ||www.qhsh2.com^
 ||xzh.tuoxino.com^
+||trade8.metasafefive.online^
 ||battle77777.com^
 ||pscstocks.com^
 ||www.ub-ctc2.com^
@@ -78645,6 +78766,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||app.jisoors.com^
 ||bit-c.co^
 ||www.jdtfs.club^
+||kshks.com^
 ||m.timymall.com^
 ||www.bisampnktj.com^
 ||bhilio.com^
@@ -78734,6 +78856,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||download.futuretrade.top^
 ||vitex222.top^
 ||miraviavip.com^
+||web3.0assetallocation.xyz^
 ||frgolence.com^
 ||www.nmoep.com^
 ||www.maticaxn.com^
@@ -78756,6 +78879,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.readbooksshop.com^
 ||lyrxtzcvi.com^
 ||cfgrr.top^
+||surfsharkdexovi.com^
 ||www.kingex.top^
 ||www.kucoinikc.com^
 ||www.opsavhjs.com^
@@ -78779,6 +78903,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||puer166.com^
 ||ios.yahmco.com^
 ||www.knp10.net^
+||okex-fox.vip^
 ||www.bitvenzn.com^
 ||www.goslie.com^
 ||www.rnnsgvjg.com^
@@ -78854,6 +78979,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.venusprotocolhuq.com^
 ||tokpieus.com^
 ||www.bnhcvcv.com^
+||weexwallet.net^
 ||xin.6ca1i.com^
 ||app.jsdfugd.com^
 ||www.natuzyy.com^
@@ -79017,6 +79143,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||downas-hkex.s3.ap-east-1.amazonaws.com^
 ||www.zbudhf.com^
 ||www.cvkseye.com^
+||hydrogenog.com^
 ||www.a-thenafx.com^
 ||apexcoin.tw^
 ||yte1mdhjzdbhz.tamanhome.com^
@@ -79104,6 +79231,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||account.hkjran.com^
 ||www.ftxproo.xyz^
 ||uj.virnvkrf.com^
+||prosperu.tw^
 ||www.haitaomtp.com^
 ||www.mtyhce.store^
 ||app.uhrhhu.top^
@@ -79148,6 +79276,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.rtrypj.com^
 ||miixcoin.com^
 ||www.feusho.vip^
+||www.procoin-tradingx.top^
 ||www.win90.net^
 ||leitianf.letiantw.xyz^
 ||www.tmgm-tw.com^
@@ -79178,6 +79307,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.fy3689.com^
 ||www.omegasupsup.it.com^
 ||costcomomp.com^
+||micronh.com^
 ||m.timexplus.com^
 ||toge.goldencity999.com^
 ||user.gomarketss.vip^
@@ -79753,6 +79883,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ymbi.hitbtcm.com^
 ||bilaxy.fit^
 ||www.stellalka.com^
+||mbitrres.net^
 ||www.dbgmakratsex.com^
 ||www.suiygn.com^
 ||www.fxprhghm.com^
@@ -79793,6 +79924,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tasmanfxs.tw^
 ||wsjygh.com^
 ||ueglha.top^
+||www.lbxlsc.com^
 ||worldbuys.shop^
 ||igosshop.com^
 ||app.bklsoie.com^
@@ -80103,6 +80235,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ku.shopeut.com^
 ||www.dianliangpro.com^
 ||www.rvjok.online^
+||ictwex.com^
 ||app.xioiwe.com^
 ||www.aismex.com^
 ||thiguio.com^
@@ -80123,6 +80256,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.kvhr.online^
 ||www.poipexcrm.net^
 ||fxfxoofx.com^
+||www.jtybrs.com^
 ||www.krallcointop.com^
 ||www.chdwtw.com^
 ||api.citicwp.com^
@@ -80154,8 +80288,10 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ekrona.site^
 ||www.zalando-shop.com^
 ||kshest.com^
+||www.leadingprofession.xyz^
 ||n.armadazes.com^
 ||www.azytws.com^
+||app.tueswn.com^
 ||bitimnv.com^
 ||lbvuid.com^
 ||app.clpowiss.com^
@@ -80167,6 +80303,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||v345.cc^
 ||legop.top^
 ||www.mgjuaw.com^
+||37trade.com^
 ||eade.store^
 ||m.goodsstuffs.live^
 ||htps.keypo2002.buzz^
@@ -80413,6 +80550,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tdsrexin.com^
 ||www.coinitems.com^
 ||www.workplacees.com^
+||www.whiskey-vault.top^
 ||ooo1.danimabiddns.com^
 ||www.machineactivation.xyz^
 ||citiae.com^
@@ -80489,6 +80627,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||bitos.best^
 ||jo.cftio.com^
 ||eamazonmall.shop^
+||tk.malllegend.com^
 ||www.ceeixds.vip^
 ||qun111.kasnnii.com^
 ||www.agogomall.shop^
@@ -80666,9 +80805,11 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||barneysmall.top^
 ||marketowj.com^
 ||decxeauai.com^
+||bitunex.pro^
 ||www.otcmexc.com^
 ||www.tezosyst.com^
 ||www.twrddsd.com^
+||tw.qumebormall.shop^
 ||app.trustcoin-exchange.com^
 ||ken-exit.com^
 ||www.childrensoar.com^
@@ -80723,6 +80864,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tikkk75shoptok.cc^
 ||tradingview888.top^
 ||www.zenexl.com^
+||gdw9999.com^
 ||defimeta88.com^
 ||m.rb56789.com^
 ||www.bsvyqc.com^
@@ -80783,6 +80925,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bmdtdv.com^
 ||www.entgtop.com^
 ||m.gexcoin.me^
+||www.ktuehs.com^
 ||www.xizicf.com^
 ||www.potex9.com^
 ||hongbulin.vip^
@@ -81016,6 +81159,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||q.conyyd.com^
 ||www.bitgetwvz.com^
 ||coinmaten.com^
+||wap.megfalyeo.com^
 ||ios.yahide.com^
 ||www.pfkbd.shop^
 ||www.trubit-crypto.com^
@@ -81044,6 +81188,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ltmanage.com^
 ||h5.kiiassyy.cc^
 ||www.light4tradetw.net^
+||chtom.net^
 ||jiinn68866.com^
 ||allegroyuxuan.com^
 ||www.tbtgost.com^
@@ -81216,6 +81361,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.17-play88.com^
 ||prettygoshop.com^
 ||www.defitwsystem.com^
+||app.ydppiou.cc^
 ||sdagpro.com^
 ||gleneaglemarkets.com^
 ||www.formosab.shop^
@@ -81470,6 +81616,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.camelasn.com^
 ||datum.zheuwk.com^
 ||snow-flake.xyz^
+||chaosms.com^
 ||shopingcentrale.icu^
 ||www.ckcfnk.com^
 ||www.bitprocnd.com^
@@ -81613,6 +81760,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||web.growminer.app^
 ||down.moex.best^
 ||chu.progyy.com^
+||www.layer3sxj.com^
 ||www.newsmarkett.cc^
 ||m.xbobo.xyz^
 ||grid.edxmarkets.top^
@@ -81781,6 +81929,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||rpg.freeportoindonesia.com^
 ||chibak.metasafetwo.online^
 ||www.inpurchase.top^
+||www.twkhud.com^
 ||temyonset.com^
 ||www.djiiihk.com^
 ||www.tolsiid.com^
@@ -81789,6 +81938,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||twshop28.joom.mx^
 ||www.koimallshop.com^
 ||www.coinbhtml.com^
+||www.kaminohga.com^
 ||masks.nftmarkettt.com^
 ||app.ijvflf.top^
 ||www.bgfcg.com^
@@ -82076,6 +82226,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||pc24awg.com^
 ||tkocryptocurrency.finance^
 ||www.week-tradepro.com^
+||www.guytile.top^
 ||tt8899.org^
 ||dew555.top^
 ||www.zarnnegar.com^
@@ -82144,6 +82295,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||chainokdc.com^
 ||www.maicoinmr.com^
 ||fairdeskxap.com^
+||www.aliexpwsale.com^
 ||pzknz.app^
 ||flybmpc.com^
 ||bfgh.store^
@@ -82252,6 +82404,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||imoneyclub.vip^
 ||merchant.lcnycoinn.com^
 ||xmr.slowvip.top^
+||citibh.com^
 ||www.idubpw.top^
 ||yashength.com^
 ||m.cf-imarket.com^
@@ -82285,6 +82438,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||formosasp.shop^
 ||super.hufenwin.com^
 ||www.walletoiz.com^
+||www.zbhkes.com^
 ||ih.ijngnrv.top^
 ||gloryairet.com^
 ||host.ainesenb.com^
@@ -82403,6 +82557,8 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||govloog.xyz^
 ||www.casejobtw.xyz^
 ||ebangl.com^
+||ifcinvest.net^
+||www.yeifinancefwv.com^
 ||ciexpro.xyz^
 ||www.bsvyqo.com^
 ||www.all-roundvip.com^
@@ -82413,6 +82569,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.vipshopvip.com^
 ||stormwavel.com^
 ||www.xclojgfh.com^
+||tw.proket.vip^
 ||www.rjvcn.shop^
 ||foxtwd-usd.com^
 ||ht.ukexba02.top^
@@ -82468,6 +82625,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ibkengt.tw^
 ||baby526.top^
 ||www.poloiexyzs.com^
+||fesh021.vip^
 ||mscbn.top^
 ||excellentings.com^
 ||www.bvfidui.com^
@@ -82505,9 +82663,11 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||bit3365.xyz^
 ||www.twzenex.tw^
 ||iqtiedu.com^
+||www.glohblprme.com^
 ||skilling.jfdboker.com^
 ||www.hurdrs.com^
 ||www.shopbooks-mall.com^
+||24.auct.it.com^
 ||warrioroz.com^
 ||dex-dt.com^
 ||fundarabc.com^
@@ -82717,6 +82877,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||app.vkjsakjaks.com^
 ||hscylle.top^
 ||nexusczy.com^
+||ukshop-tkks.com^
 ||wff.envrch.com^
 ||nsdkgz.top^
 ||rc6c4v9i7.com^
@@ -83039,6 +83200,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.xoiecn.com^
 ||mercadolibrec.com^
 ||www.aunend.xyz^
+||www.asos3a.com^
 ||hs.phoenixmediafx.com^
 ||hispeedtrading0728.site^
 ||gwwwm.mevius.com.tw^
@@ -83285,6 +83447,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.tackstt.com^
 ||www.mbgroups.cc^
 ||bitrueoxer.com^
+||www.maskbwe.com^
 ||xchanfx.com^
 ||www.adrvnecd.com^
 ||www.eastvtreasure.com^
@@ -83594,6 +83757,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||tx.tq77.net^
 ||down.upholdex.lat^
 ||www.u-trade.vip^
+||2bedigital-win.com^
 ||www.coinjmc.com^
 ||www.mrioz.com^
 ||www.bibipaibank-vvip.com^
@@ -83736,6 +83900,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||go01.zhyogt.com^
 ||www.giatwn66.com^
 ||www.kgnjdnsdnaw.com^
+||aliexp-twdapp.vip^
 ||prettygo-shop.com^
 ||www.hmjuv.info^
 ||www.hceo-group.icu^
@@ -83921,6 +84086,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.vantwnow.com^
 ||www.tgshops.live^
 ||peichengex.com^
+||www.twtkdu.com^
 ||www.fnglc.com^
 ||www.twginza-shop8.com^
 ||bitved.com^
@@ -84188,6 +84354,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.ytiodw.com^
 ||www.pguie.xyz^
 ||www.wealthchangeig.com^
+||okxsz.com^
 ||bitsolist.com^
 ||gslbvg.shop^
 ||www.bespokefp.com^
@@ -84385,6 +84552,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||albb.ofduij.cyou^
 ||app.dwqtsm.top^
 ||rrr.yuediew-ndj.vip^
+||www.payhawkforextradem.com^
 ||ai-internationald.com^
 ||m.wns5198.xyz^
 ||www.aigcoinoup.com^
@@ -84562,6 +84730,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||lippotws.com^
 ||app.gksiel.com^
 ||www.fhvbfbv.com^
+||ooo2.danimabiddns.com^
 ||warriorxs.com^
 ||www.cuptoperr.com^
 ||www.kryptoriakuc.com^
@@ -84853,6 +85022,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||cfa.usmarketex.com^
 ||28game.cc^
 ||xh.tcscvn.buzz^
+||amitytpen.com^
 ||www.olnyshop-mall.top^
 ||www.bitoxcoin.com^
 ||nnds.hdex.website^
@@ -84920,6 +85090,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bitget-maxtsi.com^
 ||bckvim.com^
 ||defiapp.world^
+||ventureha.com^
 ||ht.cbexshi01.top^
 ||www.manavmg.com^
 ||fg.euronext-tranport.top^
@@ -84970,6 +85141,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.htchk.co^
 ||tw7.joom.ooo^
 ||prutw.org^
+||bit-rsdt.com^
 ||www.6789615.com^
 ||www.mogenlc.fit^
 ||gdgolden.org^
@@ -85265,6 +85437,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||pg-mall.asia^
 ||2be-csv.com^
 ||adimmunerc.com^
+||www.zbtcexbqf.com^
 ||jetsetgo-tw.pro^
 ||tw.carousellselfhelp936.com^
 ||ww.oklinkvip.fit^
@@ -85280,6 +85453,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||app.xsymp.com^
 ||tribedex.top^
 ||www.aah6a.com^
+||dwarecinmer.shop^
 ||www.huerod.com^
 ||www.bigoneqfb.com^
 ||coinbgetw.pro^
@@ -85328,6 +85502,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.cali1356a.net^
 ||www.1inch.cyou^
 ||www.hksccvib.com^
+||www.p2p-appex.com^
 ||app.uisopad.com^
 ||www.blisht.com^
 ||www.mmfou001.com^
@@ -85669,6 +85844,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||member.royaltgs.com^
 ||www.tckrxex.it.com^
 ||www.coin-amd.com^
+||rakuteneo.com^
 ||coihern.com^
 ||www.moneysqureib.com^
 ||tst.bitshengems.top^
@@ -85867,6 +86043,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.bhwjs9958.com^
 ||app.fssgzp.top^
 ||bhwjs718.com^
+||www.gfjhrt.com^
 ||www.brxccub.vip^
 ||www.bitfarmes.com^
 ||www.mcdexig.com^
@@ -85879,6 +86056,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.wzg1.net^
 ||www.defi-walxyz.com^
 ||mineron.top^
+||www.tkomrtwl.com^
 ||athenaplace.net^
 ||www.t7runsty.com^
 ||www.amazon5228.top^
@@ -85999,6 +86177,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||quant.cnlsa.social^
 ||www.mhcsjo.com^
 ||www.cxacxd.com^
+||www.cloudcart.tech^
 ||shophyo.com^
 ||www.oexoeus.vip^
 ||vanwardfin.com^
@@ -86167,6 +86346,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.fm-marstb.com^
 ||precisionicv.com^
 ||ftserussell.pro^
+||www.fhghlpg.com^
 ||trustweb.cc^
 ||www.sdassets.life^
 ||www.jksov.com^
@@ -86353,6 +86533,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||host.ainetwomnb.com^
 ||yb.ioengrj.top^
 ||www.pscudas.vip^
+||baiahpcex.com^
 ||www.pochaccvo.site^
 ||bhilga.com^
 ||www.caixin117788yule.com^
@@ -86403,6 +86584,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||bing-bon.xyz^
 ||www.zenexce.com^
 ||btetoken.co^
+||www.wellingtonfiinancial.com^
 ||www.gyuwier.com^
 ||bit2cex.com^
 ||www.bitdfbhz.com^
@@ -86417,6 +86599,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||www.skadhj.com^
 ||www.bbaifina.cyou^
 ||ap.shenghongcn.com^
+||www.fpexmarkts.com^
 ||ex.polychainapp.com^
 ||miracleefs.com^
 ||freddysec.com^
@@ -87060,6 +87243,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||hoardpastimegolf.com^
 ||oldforeyesheh.info^
 ||faggrim.com^
+||terminatefaltergrunt.com^
 ||show-me-how.net^
 ||mufflercypress.com^
 ||roujonoa.net^
@@ -87414,6 +87598,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||bc48fa9adc.com^
 ||rewriteadoption.com^
 ||smartlysquare.com^
+||bscz3136.com^
 ||alterhimdecorate.com^
 ||xcelltech.com^
 ||m2pub.com^
@@ -87538,6 +87723,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||1ts03.top^
 ||aiksohet.net^
 ||bahirasentto.top^$document
+||eliteeyeview.co^
 ||fruitiesmatchina.com^
 ||headup.com^
 ||zarosnap.com^
@@ -89853,6 +90039,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||internewsweb.com^
 ||complaintconsequencereply.com^
 ||randomassertiveacacia.com^
+||ruxnupaqx.com^
 ||creamssicsite.com^
 ||dz4ad.com^
 ||eniza.site^
@@ -90457,6 +90644,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||203.195.121.103^
 ||dblks.net^$third-party
 ||abnad.net^$third-party
+||closenesshistorian.com^
 ||bacishushaby.com^
 ||media-general.com^
 ||mfyktikuvq.com^
@@ -92269,6 +92457,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||1cctcm1gq.de^
 ||kexarvamr.com^
 ||adswizz.com^
+||ecrvysupbqcnb.top^
 ||keanangelsaidthe.org^
 ||mistrustconservation.com^
 ||prizingupfurl.com^
@@ -93065,6 +93254,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||reclod.com^
 ||sheegiwo.com^
 ||ryaqlybvobjw.top^
+||rehearsejuniorloaded.com^
 ||rinddelusional.com^
 ||thouthoultaiglu.net^
 ||grauckoonsaul.xyz^
@@ -93382,6 +93572,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||theonecdn.com^
 ||regrupontihe.com^
 ||bc0ca74b.live^
+||earnofourg.com^
 ||51.89.187.141^
 ||tuesdaypeas.com^
 ||bczmrdfjkesgf.online^
@@ -94845,6 +95036,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||fuagewasho.top^
 ||lpmugcevks.com^
 ||ptawhood.net^
+||acscdn.com^
 ||comefukmendat.com^
 ||psooltecmeve.net^
 ||bunth.net^$document
@@ -95662,6 +95854,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||curryloveday.top^
 ||palmcodliverblown.com^
 ||reversiondisplay.com^
+||apartmentsellerprotest.com^
 ||gtosmdjgn.xyz^
 ||bakteso.ru^
 ||nsmartad.com^
@@ -96137,6 +96330,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||twsylxp.com^
 ||yrincelewasgiw.info^
 ||eewoulrauzoor.com^
+||verdunredowa.top^
 ||sjonkhydb.com^
 ||dmsktmld.com^
 ||2llmonds4ehcr93nb.com^
@@ -96322,7 +96516,6 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||rqbqlwhlui.xyz^
 ||severelyexemplar.com^
 ||fastidiousilliteratehag.com^
-||thecontentserver.com^
 ||azkwwrejomzbj.top^
 ||scamgravecorrespondence.com^
 ||4dex.io^
@@ -97564,6 +97757,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||a67d12.xyz^
 ||swan-swan-goose.com^
 ||confessundercover.com^
+||pxdroqjkqw.com^
 ||august15download.com^
 ||html-load.cc^$document,popup
 ||hecathedralinth.org^
@@ -99162,6 +99356,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||creedthrough.com^
 ||d5db478dde.com^
 ||kamnebo.info^
+||mythad.com^
 ||bajowsxpy.com^
 ||ernstimpaint.top^
 ||dompeterapp.com^
@@ -99593,6 +99788,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ithocawauthaglu.net^
 ||theadgateway.com^
 ||zkarinoxmq.com^
+||plowh.com^
 ||quickorange.com^
 ||bestcasinopartner.com^$third-party
 ||zlinkm.com^
@@ -100297,6 +100493,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||perfectplanned.com^
 ||argumentsadrenaline.com^
 ||bodegaseikon.shop^
+||fzdumffgp.com^
 ||streetupwind.com^
 ||cretalessen.com^
 ||safestsniffingconfessed.com^
@@ -101619,6 +101816,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||qmgpfrwyhtwp.com^
 ||aviewrodlet.com^
 ||pseerdab.com^
+||540484935e.com^
 ||retagro.com^
 ||nkazicozqzaf.com^
 ||derthurnyjkomp.com^
@@ -101904,6 +102102,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||clickintext.com^
 ||tadrurafmolq.com^
 ||check-tl-ver-12-3.com^
+||casketembody.com^
 ||onclicksuper.com^
 ||pobliba.info^
 ||douzvrswnkxzv.icu^
@@ -102709,6 +102908,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||incomparable-pair.com^
 ||injuryglidejovial.com^
 ||phumpauk.com^
+||adsco.re^
 ||aristianewr.club^
 ||iterantunacute.shop^
 ||trkr.technology^
@@ -104353,6 +104553,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ltapsxz.xyz^
 ||lioniseunpiece.shop^
 ||f1851c0962.com^
+||fxuxoqoifltzh.com^
 ||adoptum.net^
 ||aromamidland.com^
 ||untilpatientlyappears.com^
@@ -105710,6 +105911,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||alwayswheatconference.com^
 ||youradexchange.com^
 ||21b95312a1.com^
+||adskeeper.co.uk^
 ||adfinix.com^$third-party
 ||wakpaqamxvum.com^
 ||730fcb332f.com^
@@ -106160,6 +106362,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||dynad.net^$third-party
 ||frostplacard.com^
 ||putwandering.com^
+||testybeautiful.com^
 ||portuguesetoil.com^
 ||hooliganmedia.com^
 ||4c81b78eca.com^
@@ -106534,6 +106737,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||degg.site^
 ||123date.me^$third-party
 ||homeycommemorate.com^
+||azeleiljkpywl.vip^
 ||qmrelvevwlylr.top^
 ||theltemtirg.net^
 ||naimoate.xyz^
@@ -109595,6 +109799,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||seegamezpicks.info^
 ||loyeesihighlyreco.info^
 ||cycndlhot.xyz^
+||ackcdn.net^
 ||anurybolded.shop^
 ||accanfkinrt.com^
 ||ternletspurns.top^
@@ -110680,6 +110885,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ts28ll0tk23t2n9pl0n327.xyz^
 ||whowhipi.net^
 ||sloto.live^$document
+||bypassduehardly.com^
 ||rkumfyomg.com^
 ||utherverse.com^$third-party
 ||loserwentsignify.com^
@@ -113037,6 +113243,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||arrqumzr.com^
 ||deludeweb.com^
 ||onlinedeltazone.online^
+||swindlebeseech.com^
 ||ptp22.com^
 ||creativecdn.com^
 ||eeht-vxywvl.club^
@@ -115097,6 +115304,7 @@ tie.163.com,uump4.com,uump4.net###top-banner
 ||ruralnobounce.com^
 ||jobestzipolike.org^
 ||caulisnombles.top^$document
+||adsethimdown.org^
 ||extracthorizontaldashing.com^
 ||omgt3.com^
 ||outsliggooa.com^
