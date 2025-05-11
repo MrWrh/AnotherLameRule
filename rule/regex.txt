@@ -1,4 +1,4 @@
-# Update time: 2025-05-11 10:04:19
+# Update time: 2025-05-11 20:44:08
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -8,6 +8,11 @@
 ||onetrust.
 ||cas.*.criteo.com^
 ||allsportsflix.
+||bc.geocities.
+||collector-*.luigisbox.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||allyes.
 ||icast.
 ||gg.
@@ -29,11 +34,6 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
-||bc.geocities.
-||collector-*.luigisbox.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||acookie.*.gif?
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
