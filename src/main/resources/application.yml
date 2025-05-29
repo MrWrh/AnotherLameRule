@@ -27,7 +27,7 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt' #ChineseFilter allowlist
       # EasyList
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
+      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt' #easylist - allowlist
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
       # Tracking Server
@@ -69,6 +69,7 @@ application:
       #- 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
       #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
+      - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt' #8680/GOODBYEADS
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
