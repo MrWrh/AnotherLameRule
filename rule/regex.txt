@@ -1,11 +1,11 @@
-# Update time: 2025-06-03 20:52:51
+# Update time: 2025-06-04 10:02:19
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
-||zbb.bbb.*.pics^
 ||ad*.on.cc^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
+||zbb.bbb.*.pics^
 ||onetrust.
+||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -64,6 +64,7 @@
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||ac*.786ip.com^
 ||ya*.dwstatic.com^
@@ -94,13 +95,13 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||stepup99^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
 ||admi2fib4exit^
-||stepup99^
 ||reachableads-av.*.amazonaws.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
@@ -111,7 +112,6 @@
 ||fls-*.amazon.com^
 ||stats*.credit-cooperatif.coop^
 ||hn-ping*.hashnode.com^
-||a*.chajiaotong.com^
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||counter*.stat.ovh^
 ||util-*.simply-hentai.com^
