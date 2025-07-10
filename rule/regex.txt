@@ -1,4 +1,4 @@
-# Update time: 2025-07-10 10:06:42
+# Update time: 2025-07-10 20:53:57
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||zbb.bbb.*.pics^
@@ -32,6 +32,7 @@
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 728x90.jpg|
+||acookie.*.gif?
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -54,7 +55,6 @@
 ||zbc6hy*.live^
 ||gtlpa*.com^
 ||at*.doubanio.com^
-||acookie.*.gif?
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
