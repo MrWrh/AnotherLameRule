@@ -1,4 +1,4 @@
-# Update time: 2025-07-21 20:56:31
+# Update time: 2025-07-22 10:11:18
 # 还算好用的AdGuard、AdGuardHome广告过滤规则合并/去重(｡･ω･｡)つ━☆.. ・*。
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -6,6 +6,7 @@
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||ad*.nownews.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -55,7 +56,6 @@
 ||zbc6hy*.live^
 ||gtlpa*.com^
 ||at*.doubanio.com^
-||onetrust.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
