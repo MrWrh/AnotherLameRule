@@ -42,7 +42,9 @@ application:
       # - 'https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt' #bongochong/CombinedPrivacyBlockLists
       # Cryptominers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
-      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list      
+      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
+      # Malicious URLs
+      - 'github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
       # Others
       #- 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
       #- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
