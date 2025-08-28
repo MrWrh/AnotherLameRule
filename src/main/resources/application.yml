@@ -61,6 +61,12 @@ application:
       - 'https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjxlist.txt' #cjxlist
       - 'https://raw.githubusercontent.com/ilpl/ad-hosts/refs/heads/master/hosts' #ilpl/ad-hosts 偏向小说网站
       - 'https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/refs/heads/master/Hosts.txt' #BlackJack8/iOSAdblockList
+      - 'http://rssv.cn/adguard/api.php?type=black' #晴雅
+      - 'https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt' #PiHoleBlocklist/SmartTV-AGH
+      - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
+      #白名单
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt' #afwfv/DD-AD
       # 整合
       #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
       #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
